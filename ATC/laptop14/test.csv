@@ -1,0 +1,639 @@
+id,text,aspect,sentiment
+892:1_0,"Boot time is super fast, around anywhere from 35 seconds to 1 minute.",Boot time,positive
+1144:1_0,tech support would not fix the problem unless I bought your plan for $150 plus.,tech support,negative
+359:1_0,Set up was easy.,Set up,positive
+562:1_0,Did not enjoy the new Windows 8 and touchscreen functions.,Windows 8,negative
+562:1_1,Did not enjoy the new Windows 8 and touchscreen functions.,touchscreen functions,negative
+958:1_0,"Other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $350 price tag.",internal speakers,negative
+958:1_1,"Other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $350 price tag.",price tag,positive
+958:1_2,"Other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $350 price tag.",click pads,negative
+282:9_0,No installation disk (DVD) is included.,installation disk (DVD),neutral
+819:1_0,"It's fast, light, and simple to use.",use,positive
+130:1_0,"Works well, and I am extremely happy to be back to an apple OS.",Works,positive
+130:1_1,"Works well, and I am extremely happy to be back to an apple OS.",apple OS,positive
+593:1_0,Sure it's not light and slim but the features make up for it 100%.,features,positive
+996:1_0,"I am pleased with the fast log on, speedy WiFi connection and the long battery life (>6 hrs).",log on,positive
+996:1_1,"I am pleased with the fast log on, speedy WiFi connection and the long battery life (>6 hrs).",WiFi connection,positive
+996:1_2,"I am pleased with the fast log on, speedy WiFi connection and the long battery life (>6 hrs).",battery life,positive
+314:21_0,The Apple engineers have not yet discovered the delete key.,delete key,negative
+147:5_0,Made interneting (part of my business) very difficult to maintain.,interneting,negative
+3:1_0,"Luckily, for all of us contemplating the decision, the Mac Mini is priced just right.",priced,positive
+663:1_0,"Super light, super sexy and everything just works.",works,positive
+373:1_0,"Only problem that I had was that the track pad was not very good for me, I only had a problem once or twice with it, But probably my computer was a bit defective.",track pad,negative
+759:1_0,It is super fast and has outstanding graphics.,graphics,positive
+326:1_0,But the mountain lion is just too slow.,mountain lion,negative
+488:1_0,Strong build though which really adds to its durability.,durability,positive
+488:1_1,Strong build though which really adds to its durability.,build,positive
+847:1_0,The battery life is excellent- 6-7 hours without charging.,battery life,positive
+561:1_0,I've had my computer for 2 weeks already and it works perfectly.,works,positive
+1062:1_0,And I may be the only one but I am really liking Windows 8.,Windows 8,positive
+792:2_0,The baterry is very longer.,baterry,positive
+809:1_0,Its size is ideal and the weight is acceptable.,size,positive
+809:1_1,Its size is ideal and the weight is acceptable.,weight,positive
+495:1_0,I can say that I am fully satisfied with the performance that the computer has supplied.,performance,positive
+910:1_0,"This laptop has only 2 USB ports, and they are both on the same side.",USB ports,negative
+499:1_0,It has so much more speed and the screen is very sharp.,speed,positive
+499:1_1,It has so much more speed and the screen is very sharp.,screen,positive
+636:1_0,Everything I wanted and everything I needed and the price was great!,price,positive
+48:1_0,It's not inexpensive but the Hardware performance is impressive for a computer this small.,Hardware performance,positive
+57:1_0,"This thing is awesome, everything always works, everything is always easy to set up, everything is compatible, its literally everything I could ask for.",works,positive
+57:1_1,"This thing is awesome, everything always works, everything is always easy to set up, everything is compatible, its literally everything I could ask for.",set up,positive
+387:7_0,Keyboard responds well to presses.,Keyboard,positive
+1063:166_0,"Lastly, Windows 8 is annoying.",Windows 8,negative
+479:1_0,Everything is so easy and intuitive to setup or configure.,setup,positive
+479:1_1,Everything is so easy and intuitive to setup or configure.,configure,positive
+1107:1_0,Biggest complaint is Windows 8 .,Windows 8,negative
+298:29_0,Only 2 usb ports...seems kind of...limited.,usb ports,negative
+1061:1_0,It has all the expected features and more +plus a wide screen and more than roomy keyboard.,features,positive
+1061:1_1,It has all the expected features and more +plus a wide screen and more than roomy keyboard.,screen,positive
+1061:1_2,It has all the expected features and more +plus a wide screen and more than roomy keyboard.,keyboard,positive
+128:1_0,Amazing Performance for anything I throw at it.,Performance,positive
+655:1_0,The receiver was full of superlatives for the quality and performance.,quality,positive
+655:1_1,The receiver was full of superlatives for the quality and performance.,performance,positive
+301:1_0,I was extremely happy with the OS itself.,OS,positive
+448:3_0,The new MBP offers great portability and gives us confidence that we are not going to need to purchase a new laptop in 18 months.,portability,positive
+787:444_0,"The criticism has waned, and now I'd be the first to recommend an Air for truly portable computing.",portable computing,positive
+1141:1_0,I would have given it 5 starts was it not for the fact that it had Windows 8,Windows 8,negative
+787:495_0,"MS Office 2011 for Mac is wonderful, well worth it.",MS Office 2011 for Mac,positive
+106:1_0,But the performance of Mac Mini is a huge disappointment.,performance,negative
+294:1_0,They don't just look good; they deliver excellent performance.,look,positive
+294:1_1,They don't just look good; they deliver excellent performance.,performance,positive
+553:1_0,I have had it over a year now with out a Glitch of any kind..I love the lit up keys and screen display...this thing is Fast and clear as can be.,lit up keys,positive
+553:1_1,I have had it over a year now with out a Glitch of any kind..I love the lit up keys and screen display...this thing is Fast and clear as can be.,screen display,positive
+315:1_0,The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows.,Mountain Lion OS,positive
+315:1_1,The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows.,Microsoft Windows,neutral
+17:4_0,"However, I can refute that OSX is ""FAST"".",OSX,negative
+787:575_0,Enjoy using Microsoft Office!,Microsoft Office,positive
+412:1_0,Incredible graphics and brilliant colors.,graphics,positive
+412:1_1,Incredible graphics and brilliant colors.,colors,positive
+747:5_0,Built-in apps are purely amazing.,Built-in apps,positive
+395:3_0,Cons: Screen resolution.,Screen resolution,negative
+469:1_0,From the speed to the multi touch gestures this operating system beats Windows easily.,operating system,positive
+469:1_1,From the speed to the multi touch gestures this operating system beats Windows easily.,Windows,negative
+469:1_2,From the speed to the multi touch gestures this operating system beats Windows easily.,speed,positive
+469:1_3,From the speed to the multi touch gestures this operating system beats Windows easily.,multi touch gestures,positive
+1028:1_0,I really like the size and I'm a fan of the ACERS.,size,positive
+286:15_0,"I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ($1500-2000) which also support ""accidents"" like drops and spills that are NOT covered by AppleCare.",SquareTrade 3-Year Computer Accidental Protection Warranty,positive
+286:15_1,"I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ($1500-2000) which also support ""accidents"" like drops and spills that are NOT covered by AppleCare.",AppleCare,negative
+1002:1_0,It's light and easy to transport.,transport,positive
+1118:1_0,Once you get past learning how to use the poorly designed Windows 8 Set-Up you may feel frustrated.,Windows 8 Set-Up,negative
+417:1_0,"It's been time for a new laptop, and the only debate was which size of the Mac laptops, and whether to spring for the retina display.",size,neutral
+417:1_1,"It's been time for a new laptop, and the only debate was which size of the Mac laptops, and whether to spring for the retina display.",retina display,neutral
+727:1_0,The reason why I choose apple MacBook because of their design and the aluminum casing.,design,positive
+727:1_1,The reason why I choose apple MacBook because of their design and the aluminum casing.,aluminum casing,positive
+747:8_0,The aluminum body sure makes it stand out.,aluminum body,positive
+37:1_0,"It is very easy to integrate bluetooth devices, and USB devices are recognized almost instantly.",integrate bluetooth devices,positive
+37:1_1,"It is very easy to integrate bluetooth devices, and USB devices are recognized almost instantly.",USB devices,positive
+891:8_0,"And the fact that Apple is driving the 13"" RMBP with the Intel4000 graphic chip seems underpowered (to me.",Intel4000 graphic chip,negative
+19:1_0,Apple removed the DVD drive Firewire port (will work with adapter) and put the SDXC slot in a silly position on the back.,DVD drive Firewire port,neutral
+19:1_1,Apple removed the DVD drive Firewire port (will work with adapter) and put the SDXC slot in a silly position on the back.,adapter,neutral
+19:1_2,Apple removed the DVD drive Firewire port (will work with adapter) and put the SDXC slot in a silly position on the back.,SDXC slot,negative
+363:27_0,The durability of the laptop will make it worth the money.,durability,positive
+422:1_0,Well designed and fast.,designed,positive
+295:1_0,"But I was completely wrong, this computer is UNBELIEVABLE amazing and easy to use.",use,positive
+1119:1_0,Exactly as posted plus a great value.,value,positive
+29:81_0,The specs are pretty good too.,specs,positive
+211:1_0,"Apple is unmatched in product quality,aesthetics,craftmanship, and customer service.",product quality,positive
+211:1_1,"Apple is unmatched in product quality,aesthetics,craftmanship, and customer service.",aesthetics,positive
+211:1_2,"Apple is unmatched in product quality,aesthetics,craftmanship, and customer service.",craftmanship,positive
+211:1_3,"Apple is unmatched in product quality,aesthetics,craftmanship, and customer service.",customer service,positive
+1159:1_0,It is a great size and amazing windows 8 included!,size,positive
+1159:1_1,It is a great size and amazing windows 8 included!,windows 8,positive
+1150:1_0,I do not like too much Windows 8.,Windows 8,negative
+787:272_0,Startup times are incredibly long: over two minutes.,Startup times,negative
+743:1_0,Also stunning colors and speedy,colors,positive
+681:1_0,great price free shipping what else can i ask for!!,price,positive
+681:1_1,great price free shipping what else can i ask for!!,shipping,positive
+801:1_0,This mouse is terrific.,mouse,positive
+786:1423_0,It is really thick around the battery.,battery,neutral
+974:1_0,And windows 7 works like a charm.,windows 7,positive
+605:1_0,":) Great product, great price, great delivery, and great service.",price,positive
+605:1_1,":) Great product, great price, great delivery, and great service.",delivery,positive
+605:1_2,":) Great product, great price, great delivery, and great service.",service,positive
+846:1_0,:] It arrived so fast and customer service was great.,customer service,positive
+983:1_0,tried windows 8 and hated it !!!,windows 8,negative
+723:1_0,Set up was a breeze.,Set up,positive
+1122:1_0,But I do NOT like Win8.,Win8,negative
+856:1_0,I am still in the process of learning about its features.,features,neutral
+609:1_0,"I had the same reasons as most PC users: the price, the overbearing restrictions of OSX and lack of support for games.",price,negative
+609:1_1,"I had the same reasons as most PC users: the price, the overbearing restrictions of OSX and lack of support for games.",OSX,negative
+609:1_2,"I had the same reasons as most PC users: the price, the overbearing restrictions of OSX and lack of support for games.",support for games,negative
+101:1_0,"I wanted it for it's mobility and man, this little bad boy is very nice.",mobility,positive
+156:1_0,I found the mini to be:Exceptionally easy to set up,set up,positive
+29:318_0,Having USB3 is why I bought this Mini.,USB3,positive
+480:7_0,The sound is nice and loud; I don't have any problems with hearing anything.,sound,positive
+720:1_0,"It is very slim, the track pad is very much impressed with me.",track pad,positive
+1122:5_0,The settings are not user-friendly either.,settings,negative
+1063:180_0,Thank goodness for OpenOffice!,OpenOffice,positive
+627:1_0,"Awesome form factor, great battery life, wonderful UX.",form factor,positive
+627:1_1,"Awesome form factor, great battery life, wonderful UX.",battery life,positive
+627:1_2,"Awesome form factor, great battery life, wonderful UX.",UX,positive
+876:1_0,i love the keyboard and the screen.,keyboard,positive
+876:1_1,i love the keyboard and the screen.,screen,positive
+998:1_0,"However, there are MAJOR issues with the touchpad which render the device nearly useless.",touchpad,negative
+104:1_0,I've already upgraded o Mavericks and I am impressed with everything about this computer.,Mavericks,positive
+218:1_0,Not as fast as I would have expect for an i5.,i5,negative
+79:1_0,thanks for great service and shipping!,service,positive
+79:1_1,thanks for great service and shipping!,shipping,positive
+16:1_0,"The performance seems quite good, and built-in applications like iPhoto work great with my phone and camera.",performance,positive
+16:1_1,"The performance seems quite good, and built-in applications like iPhoto work great with my phone and camera.",built-in applications,positive
+16:1_2,"The performance seems quite good, and built-in applications like iPhoto work great with my phone and camera.",iPhoto,positive
+895:1_0,I did swap out the hard drive for a Samsung 830 SSD which I highly recommend.,hard drive,neutral
+895:1_1,I did swap out the hard drive for a Samsung 830 SSD which I highly recommend.,Samsung 830 SSD,positive
+714:1_0,Starts up in a hurry and everything is ready to go.,Starts up,positive
+786:876_0,"Yes, that's a good thing, but it's made from aluminum that scratches easily.",aluminum,negative
+566:1_0,Quick and has built in virus control.,built in virus control,positive
+491:1_0,Took a long time trying to decide between one with retina display and one without.,retina display,neutral
+278:5_0,I was also informed that the components of the Mac Book were dirty.,components,negative
+337:1_0,"the hardware problems have been so bad, i can't wait till it completely dies in 3 years, TOPS!",hardware,negative
+857:1_0,It's so nice that the battery last so long and that this machine has the snow lion!,battery,positive
+857:1_1,It's so nice that the battery last so long and that this machine has the snow lion!,snow lion,positive
+927:1_0,HOWEVER I chose two day shipping and it took over a week to arrive.,shipping,negative
+679:1_0,"it's exactly what i wanted, and it has all the new features and whatnot.",features,positive
+503:1_0,Can you buy any laptop that matches the quality of a MacBook?,quality,positive
+1040:1_0,"It feels cheap, the keyboard is not very sensitive.",keyboard,negative
+982:1_0,"Though please note that sometimes it crashes, and the sound quality isnt superb.",sound quality,negative
+748:1_0,It is very easy to navigate even for a novice.,navigate,positive
+989:1_0,"Does everything I need it to, has a wonderful battery life and I couldn't be happier.",battery life,positive
+765:1_0,Great Performance and Quality.,Performance,positive
+765:1_1,Great Performance and Quality.,Quality,positive
+462:1_0,"I used windows XP, windows Vista, and Windows 7 extensively.",windows XP,neutral
+462:1_1,"I used windows XP, windows Vista, and Windows 7 extensively.",windows Vista,neutral
+462:1_2,"I used windows XP, windows Vista, and Windows 7 extensively.",Windows 7,neutral
+124:1_0,I did add a SSD drive and memory,SSD drive,neutral
+124:1_1,I did add a SSD drive and memory,memory,neutral
+269:1_0,On start up it asks endless questions just so itune can sell you more of their products.,start up,negative
+269:1_1,On start up it asks endless questions just so itune can sell you more of their products.,itune,negative
+332:1_0,I Have been a Pc user for a very long time now but I will get used to this new OS.,OS,neutral
+787:628_0,"One more thing, this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC's, also the charging cables are made of the same cheap material as the iPhone/iPod touch cables.",restore disks,negative
+787:628_1,"One more thing, this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC's, also the charging cables are made of the same cheap material as the iPhone/iPod touch cables.",charging cables,negative
+787:628_2,"One more thing, this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC's, also the charging cables are made of the same cheap material as the iPhone/iPod touch cables.",material,negative
+300:1_0,I bought it to my son who uses it for graphic design.,graphic design,neutral
+29:312_0,I never tried any external mics with that iMac.,external mics,neutral
+580:1_0,The new os is great on my macbook pro!,os,positive
+705:1_0,"I have experienced no problems, works as anticipated.",works,positive
+873:1_0,System is running great.,System,positive
+633:1_0,Easy to customize setting and even create your own bookmarks.,customize setting,positive
+633:1_1,Easy to customize setting and even create your own bookmarks.,create your own bookmarks,positive
+105:1_0,"The MAC Mini, wireless keyboard / mouse and a HDMI cable is all I need to get some real work done.",wireless keyboard / mouse,neutral
+105:1_1,"The MAC Mini, wireless keyboard / mouse and a HDMI cable is all I need to get some real work done.",HDMI cable,neutral
+1076:1_0,"it has all the features that we expected and the price was good, working well so far.",features,positive
+1076:1_1,"it has all the features that we expected and the price was good, working well so far.",price,positive
+1076:1_2,"it has all the features that we expected and the price was good, working well so far.",working,positive
+112:1_0,"I work as a designer and coder and I needed a new buddy to work with, not gaming.",gaming,neutral
+453:1_0,The new operating system makes this computer into a super iPad.,operating system,positive
+179:1_0,Easy to set up and go!,set up,positive
+900:1_0,I can't believe how quiet the hard drive is and how quick this thing boots up.,hard drive,positive
+900:1_1,I can't believe how quiet the hard drive is and how quick this thing boots up.,boots up,positive
+1:26_0,The only issue came when I tried scanning to the mac.,scanning,negative
+993:1_0,I think this is about as good as it gets at anything close to this price point.,price point,neutral
+945:1_0,It's just what we were looking for and it works great.,works,positive
+709:1_0,It's so quick and responsive that it makes working/surfing on a computer so much more pleasurable!,working,positive
+709:1_1,It's so quick and responsive that it makes working/surfing on a computer so much more pleasurable!,surfing,positive
+87:1_0,"It works fine, and all the software seems to run pretty well.",works,positive
+87:1_1,"It works fine, and all the software seems to run pretty well.",software,positive
+0:1_0,"I'm using this computer for word processing, web browsing, some gaming, and I'm learning programming.",word processing,neutral
+0:1_1,"I'm using this computer for word processing, web browsing, some gaming, and I'm learning programming.",web browsing,neutral
+0:1_2,"I'm using this computer for word processing, web browsing, some gaming, and I'm learning programming.",gaming,neutral
+0:1_3,"I'm using this computer for word processing, web browsing, some gaming, and I'm learning programming.",programming,neutral
+477:1_0,"My wife was so excited to open the box, but quickly came to see that it did not function as it should.",function,negative
+383:1_0,"I wanted a computer that was quite, fast, and that had overall great performance.",performance,neutral
+160:19_0,"Apple ""Help"" is a mixed bag.","Apple ""Help""",negative
+268:1_0,It suddenly can not work.,work,negative
+279:0_0,"Harddrive was in poor condition, had to replace it.",Harddrive,negative
+200:1_0,The on/off switch is a bit obscure in the rear corner.,on/off switch,negative
+28:1_0,My only complaint is the total lack of instructions that come with the mac mini.,instructions,negative
+2:1_0,"The only task that this computer would not be good enough for would be gaming, otherwise the integrated Intel 4000 graphics work well for other tasks.",gaming,negative
+923:1_0,"I use it mostly for content creation (Audio, video, photo editing) and its reliable.",content creation,positive
+923:1_1,"I use it mostly for content creation (Audio, video, photo editing) and its reliable.",Audio,positive
+923:1_2,"I use it mostly for content creation (Audio, video, photo editing) and its reliable.",video,positive
+923:1_3,"I use it mostly for content creation (Audio, video, photo editing) and its reliable.",photo editing,positive
+462:8_0,Screen is bright and gorgeous.,Screen,positive
+382:15_0,"The only solution is to turn the brightness down, etc.",brightness,neutral
+227_0,If you want more information on macs I suggest going to apple.com and heading towards the macbook page for more information on the applications.,applications,neutral
+670:1_0,"It is robust, with a friendly use as all Apple products.",use,positive
+880:1_0,It is fast and easy to use.,use,positive
+745:1_0,And the fact that it comes with an i5 processor definitely speeds things up,i5 processor,positive
+889:1_0,I have been PC for years but this computer is intuitive and its built in features are a great help,built in features,positive
+1094:1_0,"Nice screen, keyboard works great!",screen,positive
+1094:1_1,"Nice screen, keyboard works great!",keyboard,positive
+575:1_0,I was amazed at how fast the delivery was.,delivery,positive
+165:1_0,I've installed to it additional SSD and 16Gb RAM.,SSD,neutral
+165:1_1,I've installed to it additional SSD and 16Gb RAM.,16Gb RAM,neutral
+972:1_0,The memory was gone and it was not able to be used.,memory,negative
+796:1_0,It works great and I am so happy I bought it.,works,positive
+1138:1_0,"I like the design and ease of use with the keyboard, plenty of ports.",design,positive
+1138:1_1,"I like the design and ease of use with the keyboard, plenty of ports.",keyboard,positive
+1138:1_2,"I like the design and ease of use with the keyboard, plenty of ports.",ports,positive
+322:1_0,it definitely beats my old mac and the service was great.,service,positive
+16:2_0,Web browsing is very quick with Safari browser.,Web browsing,positive
+16:2_1,Web browsing is very quick with Safari browser.,Safari browser,positive
+481:1_0,I like the lighted screen at night.,lighted screen,positive
+948:1_0,It is really easy to use and it is quick to start up.,use,positive
+948:1_1,It is really easy to use and it is quick to start up.,start up,positive
+307:1_0,I've lived with the crashes and slow operation and restarts.,operation,negative
+29:319_0,USB3 Peripherals are noticably less expensive than the ThunderBolt ones.,USB3 Peripherals,positive
+29:319_1,USB3 Peripherals are noticably less expensive than the ThunderBolt ones.,ThunderBolt,negative
+842:1_0,And mine had broke but I sent it in under warranty-no problems.,warranty,positive
+894:1_0,"It's fast, light, and is perfect for media editing, which is mostly why I bought it in the first place.",media editing,positive
+391:1_0,"The battery lasts as advertised (give or take 15-20 minutes), and the entire user experience is very elegant.",battery,positive
+391:1_1,"The battery lasts as advertised (give or take 15-20 minutes), and the entire user experience is very elegant.",user experience,positive
+949:1_0,Thanks for the fast shipment and great price.,shipment,positive
+949:1_1,Thanks for the fast shipment and great price.,price,positive
+824:1_0,"!Excelent performance, usability, presentation and time response.",performance,positive
+824:1_1,"!Excelent performance, usability, presentation and time response.",usability,positive
+824:1_2,"!Excelent performance, usability, presentation and time response.",presentation,positive
+824:1_3,"!Excelent performance, usability, presentation and time response.",time response,positive
+999:1_0,The smaller size was a bonus because of space restrictions.,size,positive
+29:310_0,I blame the Mac OS.,Mac OS,negative
+456:1_0,"In fact I still use manyLegacy programs (Appleworks, FileMaker Pro, Quicken, Photoshop etc)!",Legacy programs,neutral
+456:1_1,"In fact I still use manyLegacy programs (Appleworks, FileMaker Pro, Quicken, Photoshop etc)!",Appleworks,neutral
+456:1_2,"In fact I still use manyLegacy programs (Appleworks, FileMaker Pro, Quicken, Photoshop etc)!",FileMaker Pro,neutral
+456:1_3,"In fact I still use manyLegacy programs (Appleworks, FileMaker Pro, Quicken, Photoshop etc)!",Quicken,neutral
+456:1_4,"In fact I still use manyLegacy programs (Appleworks, FileMaker Pro, Quicken, Photoshop etc)!",Photoshop,neutral
+708:1_0,I like the operating system.,operating system,positive
+376:1_0,I love the form factor.,form factor,positive
+201:1_0,It's fast at loading the internet.,loading the internet,positive
+763:1_0,So much faster and sleeker looking.,looking,positive
+962:1_0,"Unfortunately, it runs XP and Microsoft is dropping support next April.",XP,neutral
+962:1_1,"Unfortunately, it runs XP and Microsoft is dropping support next April.",support,negative
+281:1_0,"First off, I really do like my MBP... once used to the OS it is pretty easy to get around, and the overall build is great... eg the keyboard is one of the best to type on.",OS,positive
+281:1_1,"First off, I really do like my MBP... once used to the OS it is pretty easy to get around, and the overall build is great... eg the keyboard is one of the best to type on.",overall build,positive
+281:1_2,"First off, I really do like my MBP... once used to the OS it is pretty easy to get around, and the overall build is great... eg the keyboard is one of the best to type on.",keyboard,positive
+926:1_0,It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit.,construction,positive
+926:1_1,It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit.,system,neutral
+829:1_0,Very nice unibody construction.,unibody construction,positive
+318:1_0,"This Macbook Pro is fast, powerful, and runs super quiet and cool.",runs,positive
+786:1477_0,It's ok but doesn't have a disk drive which I didn't know until after I bought it.,disk drive,neutral
+29:783_0,"There is no HDMI receptacle, nor is there an SD card slot located anywhere on the device.",HDMI receptacle,neutral
+29:783_1,"There is no HDMI receptacle, nor is there an SD card slot located anywhere on the device.",SD card slot,neutral
+758:1_0,It came in brand new and works perfectly.,works,positive
+355:1_0,"It shouldn't happen like that, I don't have any design app open or anything.",design app,neutral
+335:0_0,MY TRACKPAD IS NOT WORKING.,TRACKPAD,negative
+706:1_0,"It looks and feels solid, with a flawless finish.",finish,positive
+706:1_1,"It looks and feels solid, with a flawless finish.",looks,positive
+706:1_2,"It looks and feels solid, with a flawless finish.",feels,positive
+671:1_0,Price was higher when purchased on MAC when compared to price showing on PC when I bought this product.,Price,negative
+671:1_1,Price was higher when purchased on MAC when compared to price showing on PC when I bought this product.,price,positive
+460:1_0,Then the system would many times not power down without a forced power-off.,system,negative
+460:1_1,Then the system would many times not power down without a forced power-off.,power down,negative
+786:723_0,The configuration is perfect for my needs.,configuration,positive
+1171:1_0,and the speakers is the worst ever.,speakers,negative
+515:1_0,"Its the best, its got the looks, super easy to use and love all you can do with the trackpad!..",looks,positive
+515:1_1,"Its the best, its got the looks, super easy to use and love all you can do with the trackpad!..",use,positive
+515:1_2,"Its the best, its got the looks, super easy to use and love all you can do with the trackpad!..",trackpad,positive
+786:458_0,Web surfuring is smooth and seamless.,Web surfuring,positive
+520:2_0,I'm overall pleased with the interface and the portability of this product.,interface,positive
+520:2_1,I'm overall pleased with the interface and the portability of this product.,portability,positive
+952:1_0,"This item is a beautiful piece, it works well, it is easy to carry and handle.",works,positive
+952:1_1,"This item is a beautiful piece, it works well, it is easy to carry and handle.",carry,positive
+952:1_2,"This item is a beautiful piece, it works well, it is easy to carry and handle.",handle,positive
+394:1_0,"It was also suffering from hardware (keyboard) issues, relatively slow performance and shortening battery lifetime.",performance,negative
+394:1_1,"It was also suffering from hardware (keyboard) issues, relatively slow performance and shortening battery lifetime.",battery lifetime,negative
+394:1_2,"It was also suffering from hardware (keyboard) issues, relatively slow performance and shortening battery lifetime.",hardware (keyboard),negative
+526:1_0,"Runs good and does the job, can't complain about that!",Runs,positive
+25:1_0,It's silent and has a very small footprint on my desk.,footprint,positive
+379:1_0,The exterior is absolutely gorgeous.,exterior,positive
+1140:1_0,"It has a very high performance, just for what I needed for.",performance,positive
+204:1_0,Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset.,intel 4000 graphics chipset,neutral
+204:1_1,Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset.,design,neutral
+29:226_0,OSX Mountain Lion  soon to upgrade to Mavericks.,OSX Mountain Lion,neutral
+29:226_1,OSX Mountain Lion  soon to upgrade to Mavericks.,Mavericks,neutral
+786:713_0,"I just bought the new MacBook Pro, the 13"" model, and I can't believe Apple keeps making the same mistake with regard to USB ports.",USB ports,negative
+898:3_0,It wakes in less than a second when I open the lid.,lid,neutral
+898:3_1,It wakes in less than a second when I open the lid.,wakes,positive
+860:1_0,It is the perfect size and speed for me.,size,positive
+860:1_1,It is the perfect size and speed for me.,speed,positive
+555:1_0,THE CUSTOMER SERVICE IS TERRIFIC!!,CUSTOMER SERVICE,positive
+959:1_0,"My last laptop was a 17"" ASUS gaming machine, which performed admirably, but having since built my own desktop and really settling into the college life, I found myself wanting something smaller and less cumbersome, not to mention that the ASUS had been slowly developing problems ever since I bought it about 4 years ago.",performed,positive
+908:1_0,"However, it did not have any scratches, ZERO battery cycle count (pretty surprised), and all the hardware seemed to be working perfectly.",battery cycle count,positive
+908:1_1,"However, it did not have any scratches, ZERO battery cycle count (pretty surprised), and all the hardware seemed to be working perfectly.",hardware,positive
+181:1_0,After fumbling around with the OS I started searching the internet for a fix and found a number of forums on fixing the issue.,OS,negative
+787:193_0,And as for all the fancy finger swipes -- I just gave up and attached a mouse.,finger swipes,negative
+787:193_1,And as for all the fancy finger swipes -- I just gave up and attached a mouse.,mouse,neutral
+447:1_0,"I needed a laptop with big storage, a nice screen and fast so I can photoshop without any problem.",storage,neutral
+447:1_1,"I needed a laptop with big storage, a nice screen and fast so I can photoshop without any problem.",screen,neutral
+447:1_2,"I needed a laptop with big storage, a nice screen and fast so I can photoshop without any problem.",photoshop,neutral
+928:1_0,I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $400  old HP laptop.,Mac OS,positive
+928:1_1,I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $400  old HP laptop.,speaker quality,negative
+776:1_0,Shipped very quickly and safely.,Shipped,positive
+787:568_0,The thunderbolt port is awesome!,thunderbolt port,positive
+691:1_0,The performance is definitely superior to any computer I've ever put my hands on.,performance,positive
+242:1_0,It's great for streaming video and other entertainment uses.,streaming video,positive
+242:1_1,It's great for streaming video and other entertainment uses.,entertainment uses,positive
+567:1_0,I like the design and its features but there are somethings I think needs to be improved.,design,positive
+567:1_1,I like the design and its features but there are somethings I think needs to be improved.,features,positive
+507:1_0,There were small problems with Mac office.,Mac office,negative
+579:1_0,I understand I should call Apple Tech Support about any variables(which is my purpose of writing this con) as variables could be a bigger future problem.,Apple Tech Support,neutral
+19:0_0,"I ordered my 2012 mac mini after being disappointed with spec of the new 27"" Imacs.",spec,negative
+341:1_0,"It still works and it's extremely user friendly, so I would recommend it for new computer user and also for those who are just looking for a more efficient way to do things",works,positive
+816:1_0,"Its fast, easy to use and it looks great.",use,positive
+816:1_1,"Its fast, easy to use and it looks great.",looks,positive
+1075:1_0,(but Office can be purchased) IF I ever need a laptop again I am for sure purchasing another Toshiba!!,Office,neutral
+689:1_0,I haven't tried the one with retina display... Maybe in the future.,retina display,neutral
+313:1_0,"Performance is much much better on the Pro, especially if you install an SSD on it.",Performance,positive
+313:1_1,"Performance is much much better on the Pro, especially if you install an SSD on it.",SSD,positive
+286:1_0,"Note, however, that any existing MagSafe accessories you have will not work with the MagSafe 2 connection.",MagSafe accessories,neutral
+286:1_1,"Note, however, that any existing MagSafe accessories you have will not work with the MagSafe 2 connection.",MagSafe 2 connection,negative
+1074:1_0,"The only thing I dislike is the touchpad, alot of the times its unresponsive and does things I dont want it too, I would recommend using a mouse with it.",touchpad,negative
+1074:1_1,"The only thing I dislike is the touchpad, alot of the times its unresponsive and does things I dont want it too, I would recommend using a mouse with it.",mouse,neutral
+202:1_0,"The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet, actually the fans aren't audible unlike my old pc",runs,positive
+202:1_1,"The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet, actually the fans aren't audible unlike my old pc",fans,positive
+414:1_0,MAYBE The Mac OS improvement were not The product they Want to offer.,Mac OS,negative
+786:867_0,I thought the transition would be difficult at best and would take some time to fully familiarize myself with the new Mac ecosystem.,Mac ecosystem,neutral
+533:1_0,It's absolutely wonderful and worth the price!,price,positive
+1131:1_0,I am please with the products ease of use; out of the box ready; appearance and functionality.,use,positive
+1131:1_1,I am please with the products ease of use; out of the box ready; appearance and functionality.,appearance,positive
+1131:1_2,I am please with the products ease of use; out of the box ready; appearance and functionality.,functionality,positive
+662:1_0,Perfect for all my graphic design classes I'm taking this year in college :-),graphic design,positive
+786:1473_0,I will not be using that slot again.,slot,negative
+289:5_0,"The OS is fast and fluid, everything is organized and it's just beautiful.",OS,positive
+843:3_0,They are simpler to use.,use,positive
+938:1_0,!so nice .. stable .. fast .. now i got my SSD !,SSD,positive
+968:5_0,"Also, in using the built-in camera, my voice recording for my vlog sounds like the interplanetary transmissions in the ""Star Wars"" saga.",built-in camera,neutral
+968:5_1,"Also, in using the built-in camera, my voice recording for my vlog sounds like the interplanetary transmissions in the ""Star Wars"" saga.",voice recording,negative
+29:742_0,I love the quick start up.,start up,positive
+294:0_0,You just cannot beat the functionality of an Apple device.,functionality,positive
+547:17_0,Yet my mac continues to function properly.,function,positive
+463:9_0,Graphics are much improved.,Graphics,positive
+275:7_0,"Here are the things that made me confident with my purchase:Build Quality - Seriously, you can't beat a unibody construction.",Build Quality,positive
+275:7_1,"Here are the things that made me confident with my purchase:Build Quality - Seriously, you can't beat a unibody construction.",unibody construction,positive
+286:3_0,It provides much more flexibility for connectivity.,flexibility for connectivity,positive
+786:1275_0,"I want the portability of a tablet, without the limitations of a tablet and that's where this laptop comes into play.",portability,positive
+29:172_0,Mac tutorials do help.,Mac tutorials,positive
+1063:397_0,The technical support was not helpful as well.,technical support,negative
+1063:373_0,I got the new adapter and there was no change.,adapter,neutral
+1063:374_0,so i called technical support.,technical support,neutral
+29:186_0,Came with iPhoto and garage band already loaded.,iPhoto,neutral
+29:186_1,Came with iPhoto and garage band already loaded.,garage band,neutral
+26:4_0,"Logic board utterly fried, cried, and laid down and died.",Logic board,positive
+1063:396_0,The sound was crappy even when you turn up the volume still the same results.,sound,negative
+1063:396_1,The sound was crappy even when you turn up the volume still the same results.,volume,negative
+271:4_0,OSX Lion is a great performer..extremely fast and reliable.,OSX Lion,positive
+479:5_0,"Having heard from friends and family about how reliable a Mac product is, I never expected to have an application crash within the first month, but I did.",application,negative
+462:6_0,The Macbook pro's physical form is wonderful.,physical form,positive
+0:3_0,The Mini's body hasn't changed since late 2010- and for a good reason.,body,positive
+461:17_0,The unibody construction really does feel lot more solid than Apple's previous laptops.,unibody construction,positive
+0:14_0,3D rendering slows it down considerably.,3D rendering,negative
+22:0_0,Got this Mac Mini with OS X Mountain Lion for my wife.,OS X Mountain Lion,neutral
+420:1_0,"fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!",screen,positive
+420:1_1,"fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!",apps,positive
+420:1_2,"fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!",priced,neutral
+420:1_3,"fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!",cost,neutral
+872:1_0,12.44 seconds to boot.,boot,neutral
+731:5_0,All the ports are much needed since this is my main computer.,ports,neutral
+267:1_0,"The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.",Quad-Core 2.5 GHz CPU,neutral
+267:1_1,"The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.",Radeon HD 6750M 512MB graphic card,neutral
+267:1_2,"The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.",integrated Intel 4000 card,neutral
+267:1_3,"The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.",wireless Apple Keyboard and Mouse,neutral
+267:1_4,"The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.",package,positive
+419:2_0,Put a cover on it and is a little better but that is my only complaint.,cover,neutral
+291:6_0,Within a few hours I was using the gestures unconsciously.,gestures,positive
+786:633_0,This mac does come with an extender cable and I'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac.,extender cable,neutral
+786:633_1,This mac does come with an extender cable and I'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac.,cable,positive
+293:3_0,The 2.9ghz dual-core i7 chip really out does itself.,2.9ghz dual-core i7 chip,positive
+786:1277_0,It is pretty snappy and starts up in about 30 seconds which is good enough for me.,starts up,positive
+1101:1_0,Not sure on Windows 8.,Windows 8,neutral
+71:1_0,My one complaint is that there was no internal CD drive.,internal CD drive,negative
+997:1_0,This newer netbook has no hard drive or network lights.,hard drive,neutral
+997:1_1,This newer netbook has no hard drive or network lights.,network lights,neutral
+289:1_0,"I was having a though time deciding between the 13"" MacBook Air or the MacBook Pro 13"" (Both baseline models, priced at 1,200 $ retail)",priced,neutral
+98:1_0,Not too expense and has enough storage for most users and many ports.,storage,positive
+98:1_1,Not too expense and has enough storage for most users and many ports.,ports,positive
+786:1193_0,The audio volume is quite low and virtually unusable in a room with any background activity.,audio volume,negative
+389:1_0,It is lightweight and the perfect size to carry to class.,size,positive
+787:207_0,I was given a demonstration of Windows 8.,Windows 8,neutral
+314:67_0,The MBP is beautiful has many wonderful capabilities.,capabilities,positive
+339:4_0,"I thought that it will be fine, if i do some settings.",settings,neutral
+349:1_0,Runs very smoothly.,Runs,positive
+786:1355_0,Boot-up slowed significantly after all Windows updates were installed.,Boot-up,negative
+786:1355_1,Boot-up slowed significantly after all Windows updates were installed.,Windows updates,negative
+7:21_0,More likely it will require replacing the logic board once they admit they have a problem and come up with a solution.,logic board,negative
+1056:1_0,"It was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.",internet,positive
+1056:1_1,"It was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.",word processing,positive
+1056:1_2,"It was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.",graphic design,positive
+1056:1_3,"It was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.",gaming,positive
+227:1_0,"I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.",setup,positive
+227:1_1,"I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.",install,positive
+227:1_2,"I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.",tutorial,neutral
+227:1_3,"I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.",features,neutral
+227:1_4,"I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.",right mouse click menu,neutral
+378:1_0,Runs real quick.,Runs,positive
+494:1_0,Buy the separate RAM memory and you will have a rocket!,RAM memory,positive
+786:1170_0,"Since the machine's slim profile is critical to me, that was a problem.",profile,negative
+1077:1_0,"WiFi capability, disk drive and multiple USB ports to connect scale and printers was all that was required.",disk drive,positive
+1077:1_1,"WiFi capability, disk drive and multiple USB ports to connect scale and printers was all that was required.",USB ports,positive
+1077:1_2,"WiFi capability, disk drive and multiple USB ports to connect scale and printers was all that was required.",WiFi capability,positive
+1053:13_0,"The SD card reader is slightly recessed and upside down (the nail slot on the card cannot be accessed), if this was a self ejecting slot this would not be an issue, but its not.",SD card reader,negative
+1053:13_1,"The SD card reader is slightly recessed and upside down (the nail slot on the card cannot be accessed), if this was a self ejecting slot this would not be an issue, but its not.",nail slot on the card,negative
+1053:13_2,"The SD card reader is slightly recessed and upside down (the nail slot on the card cannot be accessed), if this was a self ejecting slot this would not be an issue, but its not.",slot,negative
+615:1_0,"Soft touch, anodized aluminum with laser cut precision and no flaws.",touch,positive
+615:1_1,"Soft touch, anodized aluminum with laser cut precision and no flaws.",anodized aluminum,positive
+787:873_0,"Simple details, crafted aluminium and real glass make this laptop blow away the other plastic ridden, bulky sticker filled laptops.",aluminium,positive
+787:873_1,"Simple details, crafted aluminium and real glass make this laptop blow away the other plastic ridden, bulky sticker filled laptops.",glass,positive
+261:0_0,First of all yes this is a mac and it has that nice brushed aluminum .,aluminum,positive
+115:1_0,"After all was said and done, I essentially used that $450 savings to buy 16GB of RAM, TWO Seagate Momentus XT hybrid drives and an OWC upgrade kit to install the second hard drive.",16GB of RAM,neutral
+115:1_1,"After all was said and done, I essentially used that $450 savings to buy 16GB of RAM, TWO Seagate Momentus XT hybrid drives and an OWC upgrade kit to install the second hard drive.",Seagate Momentus XT hybrid drives,neutral
+115:1_2,"After all was said and done, I essentially used that $450 savings to buy 16GB of RAM, TWO Seagate Momentus XT hybrid drives and an OWC upgrade kit to install the second hard drive.",OWC upgrade kit,neutral
+115:1_3,"After all was said and done, I essentially used that $450 savings to buy 16GB of RAM, TWO Seagate Momentus XT hybrid drives and an OWC upgrade kit to install the second hard drive.",hard drive,neutral
+843:1_0,"The Dell Inspiron is fast and has a number pad on the keyboard, which I miss on my Apple laptops.",number pad on the keyboard,positive
+578:1_0,I was concerned that the downgrade to the regular hard drive would make it unacceptably slow but I need not have worried - this machine is the fastest I have ever owned...,regular hard drive,positive
+523:1_0,This one still has the CD slot.,CD slot,neutral
+754:11_0,No HDMI port.,HDMI port,neutral
+787:619_0,I had to install Mountain Lion and it took a good two hours.,install Mountain Lion,negative
+266:25_0,Customization on mac is impossible.,Customization,negative
+29:322_0,I am replacing the HD with a Micron SSD soon.,HD,neutral
+29:322_1,I am replacing the HD with a Micron SSD soon.,Micron SSD,neutral
+275:12_0,Plus two finger clicking as a replacement for the right click button is surprisingly intuitive.,two finger clicking,positive
+275:12_1,Plus two finger clicking as a replacement for the right click button is surprisingly intuitive.,right click button,neutral
+397:17_0,The SuperDrive is quiet.,SuperDrive,positive
+1035:1_0,The power plug has to be connected to the power adaptor to charge the battery but won't stay connected.,power plug,negative
+1035:1_1,The power plug has to be connected to the power adaptor to charge the battery but won't stay connected.,power adaptor,neutral
+1035:1_2,The power plug has to be connected to the power adaptor to charge the battery but won't stay connected.,battery,neutral
+1064:1_0,"The battery was completely dead, in fact it had grown about a quarter inch thick lump on the underside.",battery,negative
+429:0_0,if yo like practicality this is the laptop for you.,practicality,positive
+398:2_0,The OS is great.,OS,positive
+203:1_0,I tried several monitors and several HDMI cables and this was the case each time.,monitors,neutral
+203:1_1,I tried several monitors and several HDMI cables and this was the case each time.,HDMI cables,neutral
+497:3_0,"CONS: Price is a bit ridiculous, kinda heavy.",Price,negative
+1160:2_0,The troubleshooting said it was the AC adaptor so we ordered a new one.,AC adaptor,neutral
+47:1_0,Fan only comes on when you are playing a game.,Fan,neutral
+47:1_1,Fan only comes on when you are playing a game.,playing a game,neutral
+961:1_0,"Which it did not have, only 3 USB 2 ports.",USB 2 ports,neutral
+279:2_0,No startup disk was not included but that may be my fault.,startup disk,neutral
+29:1175_0,"There is no ""tools"" menu.","""tools"" menu",neutral
+716:1_0,It is very fast and has everything that I need except for a word program.,word program,negative
+217:1_0,Needs a CD/DVD drive and a bigger power switch.,CD/DVD drive,neutral
+217:1_1,Needs a CD/DVD drive and a bigger power switch.,power switch,negative
+840:1_0,My laptop with Windows 7 crashed and I did not want Windows 8.,Windows 7,negative
+840:1_1,My laptop with Windows 7 crashed and I did not want Windows 8.,Windows 8,negative
+121:1_0,Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi.,install,positive
+121:1_1,Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi.,configure for ADSl cable or wifi,positive
+688:1_0,Nice packing.,packing,positive
+62:1_0,"I switched to this because I wanted something different, even though I miss windows.",windows,positive
+464:4_0,"Apple no longer includes iDVD with the computer and furthermore, Apple doesn't even offer it anymore!",iDVD,negative
+991:1_0,"I also wanted Windows 7, which this one has.",Windows 7,positive
+941:1_0,"At first, I feel a little bit uncomfortable in using the Mac system.",Mac system,negative
+440:1_0,I am used to computers with windows so I am having a little difficulty finding my way around.,windows,neutral
+626:1_0,It just works out of the box and you have a lot of cool software included with the OS.,works,positive
+626:1_1,It just works out of the box and you have a lot of cool software included with the OS.,software,positive
+626:1_2,It just works out of the box and you have a lot of cool software included with the OS.,OS,neutral
+525:1_0,its as advertised on here..... it works great and is not a waste of money!,works,positive
+786:82_0,Runs like a champ.....,Runs,positive
+692:1_0,Premium price for the OS more than anything else.,price,positive
+692:1_1,Premium price for the OS more than anything else.,OS,neutral
+976:1_0,"I was a little concerned about the touch pad based on reviews, but I've found it fine to work with.",touch pad,positive
+786:1301_1,"The sound as mentioned earlier isn't the best, but it can be solved with headphones.",headphones,neutral
+479:6_0,"However, the experience was great since the OS does not become unstable and the application will simply shutdown and reopen.",OS,positive
+479:6_1,"However, the experience was great since the OS does not become unstable and the application will simply shutdown and reopen.",application,positive
+258:1_0,"If you ask me, for this price it should be included.",price,negative
+1044:1_0,The battery is not as shown in the product photos.,battery,negative
+367:1_0,Shipping was quick and product described was the product sent and so much more...,Shipping,positive
+718:1_0,the retina display display make pictures i took years ago jaw dropping.,retina display display,positive
+109:1_0,The Mac Mini is probably the simplest example of compact computing out there.,compact computing,positive
+96:1_0,"Instead, I'll focus more on the actual performance and feature set of the hardware itself so you can make an educated decision on which Mac to buy.",performance and feature set of the hardware,neutral
+786:572_0,"Other ports include FireWire 800, Gigabit Ethernet, MagSafe port, Microphone jack.",ports,neutral
+786:572_1,"Other ports include FireWire 800, Gigabit Ethernet, MagSafe port, Microphone jack.",FireWire 800,neutral
+786:572_2,"Other ports include FireWire 800, Gigabit Ethernet, MagSafe port, Microphone jack.",Gigabit Ethernet,neutral
+786:572_3,"Other ports include FireWire 800, Gigabit Ethernet, MagSafe port, Microphone jack.",MagSafe port,neutral
+786:572_4,"Other ports include FireWire 800, Gigabit Ethernet, MagSafe port, Microphone jack.",Microphone jack,neutral
+325:1_0,"Additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot, and in fact impossible to keep on lap.",ventilation system,negative
+325:1_1,"Additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot, and in fact impossible to keep on lap.",watching videos,neutral
+325:1_2,"Additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot, and in fact impossible to keep on lap.",playing steam games,neutral
+965:1_0,"Chatting with Acer support, I was advised the problem was corrupted operating system files.",Acer support,neutral
+965:1_1,"Chatting with Acer support, I was advised the problem was corrupted operating system files.",operating system files,neutral
+50:1_0,It's been a couple weeks since the purchase and I'm struggle with finding the correct keys (but that was expected).,keys,neutral
+326:3_0,"Many people complain about the new OS, and it's urgent for Apple to fix it asap!",OS,negative
+786:237_0,Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office.,Lion,positive
+786:237_1,Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office.,MAC OS,positive
+786:179_0,User upgradeable RAM and HDD.,RAM,positive
+786:179_1,User upgradeable RAM and HDD.,HDD,positive
+786:331_0,But I wanted the Pro for the CD/DVD player.,CD/DVD player,positive
+500:1_0,I was a little worry at first because I don't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows.,os.x,neutral
+500:1_1,I was a little worry at first because I don't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows.,windows,positive
+500:1_2,I was a little worry at first because I don't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows.,windows,neutral
+574:1_0,With the softwares supporting the use of other OS makes it much better.,OS,neutral
+574:1_1,With the softwares supporting the use of other OS makes it much better.,softwares,neutral
+305:3_0,"I then upgraded to Mac OS X 10.8 ""Mountain Lion"".","Mac OS X 10.8 ""Mountain Lion""",neutral
+898:1_0,"I was considering buying the Air, but in reality, this one has a more powerful performance and seems much more convenient, even though it's about .20 inch thicker and 2 lbs heavier.",performance,positive
+891:1_0,"At home and the office it gets plugged into an external 24"" LCD screen, so built in screen size is not terribly important.",built in screen size,neutral
+891:1_1,"At home and the office it gets plugged into an external 24"" LCD screen, so built in screen size is not terribly important.","external 24"" LCD screen",neutral
+65:1_0,Just beware no DVD slot so when I went to install software I had on CD I couldn't.,install software,negative
+65:1_1,Just beware no DVD slot so when I went to install software I had on CD I couldn't.,DVD slot,neutral
+994:1_0,"I bought it to be able to dedicate a small, portable laptop to my writing and was surprised to learn that I needed to buy a word processing program to do so.",word processing program,neutral
+443:1_0,"This version of MacBook Pro runs on a third-generation CPU (""Ivy Bridge""), not the latest fourth-generation Haswell CPU the 2013 version has.","third-generation CPU (""Ivy Bridge"")",neutral
+443:1_1,"This version of MacBook Pro runs on a third-generation CPU (""Ivy Bridge""), not the latest fourth-generation Haswell CPU the 2013 version has.",fourth-generation Haswell CPU,neutral
+245:1_0,No Cd Rom in the new version there's no way I'm spending that kind of money on something has less features than the older version.,Cd Rom,neutral
+245:1_1,No Cd Rom in the new version there's no way I'm spending that kind of money on something has less features than the older version.,features,negative
+1063:403_0,the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer,volume,negative
+1063:403_1,the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer,volume,negative
+786:842_0,and its not hard to accidentally bang it against something so i recommend getting a case to protect it.,case,neutral
+285:1_0,I got this at an amazing price from Amazon and it arrived just in time.,price,positive
+43:1_0,"Every time I log into the system after a few hours, there is this endlessly frustrating process that I have to go through.",log into the system,negative
+123:1_0,"Put a SSD and use a 21"" LED screen, this set up is silky smooth!","21"" LED screen",neutral
+123:1_1,"Put a SSD and use a 21"" LED screen, this set up is silky smooth!",SSD,neutral
+123:1_2,"Put a SSD and use a 21"" LED screen, this set up is silky smooth!",set up,positive
+11:1_0,"The case is now slightly larger than the previous generation, but the lack of an external power supply justifies the small increase in size.",case,negative
+11:1_2,"The case is now slightly larger than the previous generation, but the lack of an external power supply justifies the small increase in size.",external power supply,neutral
+1009:1_0,"I had to buy a wireless mouse to go with it, as I am old school and hate the pad, but knew that before I bought it, now it works great, need to get adjusted to the key board, as I am used to a bigger one and pounding.",wireless mouse,neutral
+1009:1_1,"I had to buy a wireless mouse to go with it, as I am old school and hate the pad, but knew that before I bought it, now it works great, need to get adjusted to the key board, as I am used to a bigger one and pounding.",pad,negative
+1009:1_2,"I had to buy a wireless mouse to go with it, as I am old school and hate the pad, but knew that before I bought it, now it works great, need to get adjusted to the key board, as I am used to a bigger one and pounding.",works,positive
+1009:1_3,"I had to buy a wireless mouse to go with it, as I am old school and hate the pad, but knew that before I bought it, now it works great, need to get adjusted to the key board, as I am used to a bigger one and pounding.",key board,neutral
+404:1_0,"When considering a Mac, look at the total cost of ownership and not just the initial price tag.",cost of ownership,neutral
+404:1_1,"When considering a Mac, look at the total cost of ownership and not just the initial price tag.",price tag,neutral
+1020:1_0,"Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.",features,positive
+1020:1_1,"Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.",VGA port,neutral
+1020:1_2,"Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.",HDMI,neutral
+1020:1_3,"Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.",ethernet,neutral
+1020:1_4,"Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.",USB ports,neutral
+271:28_0,The only thing I dislike about this laptop are the rubber pads found on the bottom of the computer for grip.,rubber pads,negative
+1143:1_0,It's a decent computer for the price and hopefully it will last a long time.,price,neutral
+29:1027_0,The nicest  part is the low heat output and ultra quiet operation.,heat output,positive
+29:1027_1,The nicest  part is the low heat output and ultra quiet operation.,operation,positive
+805:1_0,I will upgrade the ram myself (because with this model you can you can do it) later on.,upgrade the ram,positive
+568:1_0,The price is 200 dollars down.,price,positive
+75:1_0,"this Mac Mini does not have a built-in mic, and it would seem that its Mac OS 10.9 does not handle external microphones properly.",built-in mic,neutral
+75:1_1,"this Mac Mini does not have a built-in mic, and it would seem that its Mac OS 10.9 does not handle external microphones properly.",Mac OS 10.9,negative
+75:1_2,"this Mac Mini does not have a built-in mic, and it would seem that its Mac OS 10.9 does not handle external microphones properly.",external microphones,neutral
+859:1_0,A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC.,features,neutral
+859:1_1,A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC.,shortcuts,neutral
+768:1_0,Wasn't sure if I was going to like it much less love it so I went to a local best buy and played around with the IOS system on a Mac Pro and it was totally unique and different.,IOS system,positive
+272:10_0,air has higher resolution but the fonts are small.,resolution,positive
+272:10_1,air has higher resolution but the fonts are small.,fonts,negative
+862:1_0,"working with Mac is so much easier, so many cool features.",working,positive
+862:1_1,"working with Mac is so much easier, so many cool features.",features,positive
+643:1_0,I like the brightness and adjustments.,brightness,positive
+643:1_1,I like the brightness and adjustments.,adjustments,positive
+164:1_0,I only wish this mac had a CD/DVD player built in.,CD/DVD player,neutral
+969:5_0,The only thing I miss is that my old Alienware laptop had backlit keys.,backlit keys,negative
+933:1_0,"The only thing I miss are the ""Home/End"" type keys and other things that I grew accustomed to after so long.","""Home/End"" type keys",neutral
+535:1_0,"So happy with this purchase, I just wish it came with Microsoft Word.",Microsoft Word,neutral
+1133:1_0,It has enough memory and speed to run my business with all the flexibility that comes with a laptop.,memory,positive
+1133:1_1,It has enough memory and speed to run my business with all the flexibility that comes with a laptop.,speed,positive
+1133:1_2,It has enough memory and speed to run my business with all the flexibility that comes with a laptop.,flexibility,positive
+881:4_0,"The speed, the simplicity, the design.. it is lightyears ahead of any PC I have ever owned.",speed,positive
+881:4_1,"The speed, the simplicity, the design.. it is lightyears ahead of any PC I have ever owned.",simplicity,positive
+881:4_2,"The speed, the simplicity, the design.. it is lightyears ahead of any PC I have ever owned.",design,positive
+390:1_0,"The battery life is excellent, the display is excellent, and downloading apps is a  breeze.",battery life,positive
+390:1_1,"The battery life is excellent, the display is excellent, and downloading apps is a  breeze.",display,positive
+390:1_2,"The battery life is excellent, the display is excellent, and downloading apps is a  breeze.",downloading apps,positive
+940:1_0,"The screen, the software and the smoothness of the operating system.",screen,positive
+940:1_1,"The screen, the software and the smoothness of the operating system.",software,positive
+940:1_2,"The screen, the software and the smoothness of the operating system.",operating system,positive
+547:16_0,i have dropped mine a couple times with only a slim plastic case covering it.,slim plastic case,neutral
+991:8_0,I also made a recovery USB stick.,recovery USB stick,neutral
+311:18_0,"But with this laptop, the bass is very weak and the sound comes out sounding tinny.",bass,negative
+311:18_1,"But with this laptop, the bass is very weak and the sound comes out sounding tinny.",sound,negative
+339:1_0,"The built quality is really good, I was so Happy and excited about this Product.",built quality,positive
+484:1_0,I am loving the fast performance also.,performance,positive
+29:313_0,"Further, this Mac Mini has a sloppy Bluetooth interface (courtesy of the Mac OS) and the range is poor.",Bluetooth interface,negative
+29:313_1,"Further, this Mac Mini has a sloppy Bluetooth interface (courtesy of the Mac OS) and the range is poor.",Mac OS,negative
+29:313_2,"Further, this Mac Mini has a sloppy Bluetooth interface (courtesy of the Mac OS) and the range is poor.",range,negative
+1063:161_0,If you start on the far right side and scroll to your left the start menu will automatically come up.,start menu,neutral
+67:1_0,My only gripe would be the need to add more RAM.,RAM,negative
+1107:3_0,Fine if you have a touch screen.,touch screen,neutral
+32:1_0,"As far as user type - I dabble in everything from games (WoW) to Photoshop, but nothing professionally.",games,neutral
+32:1_1,"As far as user type - I dabble in everything from games (WoW) to Photoshop, but nothing professionally.",Photoshop,neutral
+997:12_0,"I re-seated the ""WLAN"" card inside and re-installed the LAN device drivers.","""WLAN"" card",neutral
+997:12_1,"I re-seated the ""WLAN"" card inside and re-installed the LAN device drivers.",LAN device drivers,neutral
+934:1_0,"This by far beats any computer out on the market today built well, battery life AMAZING.",built,positive
+934:1_1,"This by far beats any computer out on the market today built well, battery life AMAZING.",battery life,positive
+787:543_0,"The OS is easy, and offers all kinds of surprises.",OS,positive
+884:1_0,I had to get Apple Customer Support to correct the problem.,Apple Customer Support,neutral
+834:1_0,A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.,Firewire 800,positive
+834:1_1,A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.,USB3,negative
+834:1_2,A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.,USB3,neutral
+834:1_3,A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.,MAC OS,negative
+834:1_4,A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.,Windows 7,positive
+146:1_0,"I like iTunes, the apparent security, the Mini form factor, all the nice graphics stuff.",iTunes,positive
+146:1_1,"I like iTunes, the apparent security, the Mini form factor, all the nice graphics stuff.",security,positive
+146:1_2,"I like iTunes, the apparent security, the Mini form factor, all the nice graphics stuff.",Mini form factor,positive
+146:1_3,"I like iTunes, the apparent security, the Mini form factor, all the nice graphics stuff.",graphics stuff,positive
+786:1472_0,The first time I used the card reader it took half an hour and a pair of tweezers to remove the card.,card reader,negative
+786:1472_1,The first time I used the card reader it took half an hour and a pair of tweezers to remove the card.,remove the card,negative
+755:1_0,"After replacing the spinning hard disk with an ssd drive, my mac is just flying.",spinning hard disk,neutral
+755:1_1,"After replacing the spinning hard disk with an ssd drive, my mac is just flying.",ssd drive,positive
+55:1_0,I know some people complained about HDMI issues but they released a firmware patch to address that issue.,HDMI,neutral
+55:1_1,I know some people complained about HDMI issues but they released a firmware patch to address that issue.,firmware patch,neutral
+762:7_0,With the needs of a professional photographer I generally need to keep up with the best specs.,specs,neutral
+685:1_0,packing and everything was perfect,packing,positive
+1068:1_0,I called Toshiba where I gave them the serial number and they informed me that they were having issues with the mother boards.,mother boards,neutral
+474:1_0,"I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty, related to the graphics card.",Mother Board,negative
+474:1_1,"I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty, related to the graphics card.",graphics card,negative
+946:1_0,It also comes with 4G of RAM but if you're like me you want to max that out so I immediately put 8G of RAM in her and I've never used a computer that performs better.,4G of RAM,neutral
+946:1_1,It also comes with 4G of RAM but if you're like me you want to max that out so I immediately put 8G of RAM in her and I've never used a computer that performs better.,8G of RAM,neutral
+946:1_2,It also comes with 4G of RAM but if you're like me you want to max that out so I immediately put 8G of RAM in her and I've never used a computer that performs better.,performs,positive
+184:1_0,This computer is also awesome for my sons virtual home schooling.,virtual home schooling,positive
+786:31_0,Cost is more as compared to other brands.,Cost,negative
+932:1_0,also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-,operating system,positive
+932:1_1,also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-,size,positive
+932:1_2,also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-,weight,positive
+932:1_3,also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-,mobility,positive
+932:1_4,also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-,durability of the battery,positive
+932:1_5,also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-,functions provided by the trackpad,positive
+256:1_0,This hardware seems to be better than the iMac in that it isn't $1400 and smaller.,hardware,positive
+520:1_0,I've had it for about 2 months now and found no issues with software or updates.,software,neutral
+520:1_1,I've had it for about 2 months now and found no issues with software or updates.,updates,neutral
+306:2_0,the latest version does not have a disc drive.,disc drive,neutral
+280:11_0,Screen - although some people might complain about low res which I think is ridiculous.,Screen,positive
+280:11_1,Screen - although some people might complain about low res which I think is ridiculous.,res,positive
