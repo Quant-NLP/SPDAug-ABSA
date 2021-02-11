@@ -6,7 +6,7 @@ Source code for "DCTA".
 
 ABSA_task : ACSC, ATSC, ATE
 
-dataset : laptop14, rest14, rest15, rest16
+dataset : lap14, rest14, rest15, rest16
 
 DPM_type : AS, Senti
 
