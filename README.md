@@ -14,4 +14,6 @@ replacement_strategy : AE, Seq2Seq
 
 ```
 bash scripts/run.sh ABSA_task dataset DPM_type replacement_strategy
+
+# e.g. bash scripts/run.sh ACSC rest14 AS AE
 ```
