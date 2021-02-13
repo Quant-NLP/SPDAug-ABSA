@@ -2,7 +2,17 @@
 
 Source code for "DCTA".
 
-For ATE experiment. Please install [bert-sklearn](https://github.com/charles9n/bert-sklearn)
+## Requirements
+
+tqdm
+torch
+transformers
+keras
+
+### ATE
+
+[bert-sklearn](https://github.com/charles9n/bert-sklearn)
+[seqeval](https://github.com/chakki-works/seqeval)
 
 ## Getting Started
 
