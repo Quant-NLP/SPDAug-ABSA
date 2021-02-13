@@ -382,7 +382,7 @@ if replacement_strategy == 'AE':
 elif replacement_strategy == 'Seq2Seq':
     train = Seq2Seq(train)
     
-train.to_json('./train' + ABSA_task + dataset + DPM_type + replacement_strategy + '.json')
+#train.to_json('./train' + ABSA_task + dataset + DPM_type + replacement_strategy + '.json')
 
 aug_train = pd.DataFrame()
 
