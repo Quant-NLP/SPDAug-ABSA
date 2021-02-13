@@ -4,19 +4,12 @@ Source code for "DCTA".
 
 ## Requirements
 
-tqdm
+`python >= 3.6.0`, Install all the requirements with pip.
 
-torch
+`$ pip install -r requirements.txt`
 
-transformers
+We require [bert-sklearn](https://github.com/charles9n/bert-sklearn) for ATE.
 
-keras
-
-### ATE
-
-[bert-sklearn](https://github.com/charles9n/bert-sklearn)
-
-[seqeval](https://github.com/chakki-works/seqeval)
 
 ## Getting Started
 
