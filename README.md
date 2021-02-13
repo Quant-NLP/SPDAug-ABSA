@@ -4,7 +4,9 @@ Source code for "DCTA".
 
 ## Getting Started
 
-ABSA_task : ACSC, ATSC, ATE
+### Aspect-based Sentiment Classification
+
+ABSA_task : ACSC, ATSC
 
 dataset : lap14, rest14, rest15, rest16
 
@@ -17,3 +19,5 @@ bash scripts/run.sh ABSA_task dataset DPM_type replacement_strategy
 
 # e.g. bash scripts/run.sh ACSC rest14 AS AE
 ```
+
+### Aspect Term Extraction
