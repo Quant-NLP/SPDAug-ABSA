@@ -2,6 +2,8 @@
 
 Source code for "DCTA".
 
+For ATE experiment. Please install [bert-sklearn](https://github.com/charles9n/bert-sklearn)
+
 ## Getting Started
 
 ABSA_task : ACSC, ATSC, ATE
