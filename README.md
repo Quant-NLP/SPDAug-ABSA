@@ -6,7 +6,9 @@ Source code for "DCTA".
 
 `python >= 3.6.0`, Install all the requirements with pip.
 
-`$ pip install -r requirements.txt`
+```
+$ pip install -r requirements.txt
+```
 
 We require [bert-sklearn](https://github.com/charles9n/bert-sklearn) for ATE.
 
