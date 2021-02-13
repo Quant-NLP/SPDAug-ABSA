@@ -5,13 +5,17 @@ Source code for "DCTA".
 ## Requirements
 
 tqdm
+
 torch
+
 transformers
+
 keras
 
 ### ATE
 
 [bert-sklearn](https://github.com/charles9n/bert-sklearn)
+
 [seqeval](https://github.com/chakki-works/seqeval)
 
 ## Getting Started
