@@ -1,6 +1,6 @@
-# DCTA
+# DCTAug
 
-Source code for "DCTA".
+Source code for "DCTAug".
 
 ## Requirements
 
