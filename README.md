@@ -1,6 +1,6 @@
 # DCDAug
 
-Source code for "DCTDug".
+Source code for "DCDAug".
 
 ## Requirements
 
