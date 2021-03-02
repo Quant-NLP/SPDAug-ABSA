@@ -44,7 +44,6 @@ MAX_LEN = 50
 batch_size = 100
 std_strength = 0
 seed_val = 2020
-print(seed_val)
 
 random.seed(seed_val)
 np.random.seed(seed_val)
