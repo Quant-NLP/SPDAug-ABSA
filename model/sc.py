@@ -43,7 +43,8 @@ input_path = './dataset/' + ABSA_task + '/' + dataset + '/'
 MAX_LEN = 50 
 batch_size = 100
 std_strength = 0
-seed_val = 2029
+seed_val = 2020
+print(seed_val)
 
 random.seed(seed_val)
 np.random.seed(seed_val)
@@ -469,8 +470,8 @@ if replacement_strategy == 'AE':
 elif replacement_strategy == 'Seq2Seq':
     train = Seq2Seq(train)
 
-train.to_csv('./train' + ABSA_task + dataset + DPM_type + replacement_strategy + '.csv', index = 0)
-train = pd.read_csv('./train' + ABSA_task + dataset + DPM_type + replacement_strategy + '.csv')
+#train.to_csv('./train' + ABSA_task + dataset + DPM_type + replacement_strategy + '.csv', index = 0)
+#train = pd.read_csv('./train' + ABSA_task + dataset + DPM_type + replacement_strategy + '.csv')
 
 train = transform_sentiment_y_true(train)
 test = transform_sentiment_y_true(test)
