@@ -1,6 +1,4 @@
-# DCDAug
-
-Source code for "DCDAug".
+# Aug-ABSA
 
 ## Requirements
 
