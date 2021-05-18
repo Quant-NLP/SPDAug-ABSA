@@ -8,7 +8,7 @@
 $ pip install -r requirements.txt
 ```
 
-We require [bert-sklearn](https://github.com/charles9n/bert-sklearn) for ATE.
+We require [bert-sklearn](https://github.com/charles9n/bert-sklearn) and [seqeval](https://github.com/chakki-works/seqeval) for ATE.
 
 
 ## Getting Started
