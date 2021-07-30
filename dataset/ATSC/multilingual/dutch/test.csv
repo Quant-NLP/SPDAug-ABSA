@@ -1,0 +1,107 @@
+id,text,aspect,sentiment
+Review-g663127-d6437804_3:1_0,"Reeds 5 keer geweest en steeds weer verrast Biryani met heerlijke gerechten: gevarieerd, kruidig en toch niet te pikant en alles tegen een eerlijke prijs.",gerechten,positive
+Review-g663127-d6437804_3:3_0,De bediening is vlot en steeds met een woordje uitleg.,bediening,positive
+Review-g663127-d6437804_3:4_0,"en wanneer Vicky, de gastvrouw ook maar eventjes tijd heeft komt ze met de charme van de Indische gastvrijheid zelf peilen of alles ok is en of je genoten hebt!",vicky,positive
+Review-g663127-d6437804_4:3_0,Erg vriendelijke ontvangst.,ontvangst,positive
+Review-g663127-d6437804_4:4_0,Verfijnd eten.,eten,positive
+Review-g663127-d6437804_4:5_0,De menu Indira was lekker.,menu indira,positive
+Review-g6739900-d1065393_1:1_0,"perfect om tijdens een fietstocht hier te stoppen gelegen aan het water, mooi uitzicht en rustig lekker eten, niets speciaal maar was niet nodig",eten,neutral
+Review-g6739900-d1065393_2:2_0,Het enige woord dat past bij het huwelijksfeest van dochter Nathalie met schoonzoon Stijn op 2 augustus 2014 in deze unieke locatie.,locatie,positive
+Review-g6739900-d1065393_2:3_0,"Van het boottochtje, aangeboden aan het huwelijkskoppel, via de gezellige en uitermate spontane en vriendelijke bediening naar de superlekkere maaltijden en de blije gezichten van familie en vrienden tot de fantastische huwelijkstaart!",maaltijden,positive
+Review-g6739900-d1065393_2:3_1,"Van het boottochtje, aangeboden aan het huwelijkskoppel, via de gezellige en uitermate spontane en vriendelijke bediening naar de superlekkere maaltijden en de blije gezichten van familie en vrienden tot de fantastische huwelijkstaart!",bediening,positive
+Review-g6739900-d1065393_3:1_0,Wij zijn hier nu al een paar keer gaan eten op 2 jaar tijd en vinden het eten telkens opnieuw lekker maar niets speciaal.,eten,neutral
+Review-g6739900-d1065393_3:2_0,"Wat ons ook opgevallen is, is dat de menu op deze tijd eigenlijk bijna niet veranderd wat ik persoonlijk wel spijtig vind.",menu,negative
+Review-g6739900-d1065393_3:3_0,De bediening is best wel oke afhankelijk van wie/wanneer/... de ene is al wat vriendelijker dan de andere.,bediening,neutral
+Review-g6739900-d1065393_3:4_0,Het uitzicht is echt wel aangenaam als je buiten zit en binnen is het gezellig.,uitzicht,positive
+Review-g6739900-d1065393_4:1_0,"Al een aantal keer gaan eten bij Gwen en Philippe in het Keyserhof, en altijd met een glimlach weer naar buiten gegaan.",keyserhof,positive
+Review-g6739900-d1065393_4:2_0,"Niet alleen is het eten overheerlijk, maar ook hun personeel verdient een dikke pluim!",personeel,positive
+Review-g6739900-d1065393_4:2_1,"Niet alleen is het eten overheerlijk, maar ook hun personeel verdient een dikke pluim!",eten,positive
+Review-g6739900-d1065393_4:3_0,"Het restaurant is gelegen aan de Moervaart, wat je bezoek alleen maar gezelliger/romantischer maakt.",restaurant,positive
+Review-g6739900-d1065393_4:4_0,Doe zo verder Keyserhof!!,keyserhof,positive
+Review-g680686-d3809665_1:1_0,"slechte en onvriendelijke bediening, eten was ronduit slecht.",eten,negative
+Review-g680686-d3809665_1:1_1,"slechte en onvriendelijke bediening, eten was ronduit slecht.",bediening,negative
+Review-g680686-d3809665_1:2_0,"2 uur wachten op je eten met een water sangria, dan half warm eten bekomen.",eten,negative
+Review-g680686-d3809665_1:2_1,"2 uur wachten op je eten met een water sangria, dan half warm eten bekomen.",sangria,negative
+Review-g680686-d3809665_1:3_0,"De afrekening was 4,5 euro verkeerd in ons nadeel!",afrekening,negative
+Review-g680686-d3809665_1:4_0,Slechtste restaurant( café) waar we ooit geweest zijn.,restaurant,negative
+Review-g680686-d3809665_2:1_0,"veel gehoord hiervan maar wat een tegenvaller, de zogezegd alles self made viel behoorlijk tegen, eerder een betere hapjestent en de bediening was ronduit vreselijk, lang wachten, foute zaken op tafel, kunnen de druk en bediening duidelijk niet aan en laten dit heel duidelijk merken aan de klanten ook, grote tegenvaller",bediening,negative
+Review-g680686-d3809665_3:1_0,Weer naar ons favo tapasbarretje in Herentals.,tapasbarretje,positive
+Review-g680686-d3809665_3:2_0,Tot onze verbazing nieuwe uitbaters en niet zo gezellig donker als voorheen in de tapasbar.,tapasbar,negative
+Review-g680686-d3809665_3:3_0,De nieuwe uitbaters komen direct uit Spanje dus wij waren vol verwachting voor extra lekkere tapas maar helaas de gamba's in look waren lauw geserveerd en niet lekker pittig zoals t hoort en de de rest van het eten ook lauw.,eten,negative
+Review-g680686-d3809665_3:3_1,De nieuwe uitbaters komen direct uit Spanje dus wij waren vol verwachting voor extra lekkere tapas maar helaas de gamba's in look waren lauw geserveerd en niet lekker pittig zoals t hoort en de de rest van het eten ook lauw.,gamba's in look,negative
+Review-g680686-d3809665_3:4_0,Wat jammer maar ik zei er wat van en bestelde 2 nieuwe porties maar dan heet en dat was wel lekker.,porties,positive
+Review-g680686-d3809665_3:5_0,"Maar de sfeer was er niet meer, blijkbaar vertrokken met de vorige uitbaters.",sfeer,negative
+Review-g680686-d3809665_4:2_0,"soms heb je wel de indruk dat de huidige uitbaters, in tegenstelling tot de vorige uitbaters, er niet met volle ""goesting"" werken.",huidige uitbaters,neutral
+Review-g680686-d740424_1:1_0,Heerlijk gegeten in de romantische tuin bij het water met de vissen.,tuin,positive
+Review-g680686-d740424_1:2_0,Gamba's op Indische wijze is super lekker..,gamba's op indische wijze,positive
+Review-g680686-d740424_1:3_0,De bediening is altijd vriendelijk en snel.,bediening,positive
+Review-g680686-d740424_1:6_0,Kortom de wilde vespers is onze favoriet hier in Herentals.,de wilde vespers,positive
+Review-g680686-d740424_2:1_0,"Mooi en gezellig terras, lekker eten, slaatjes, pasta's, vlees, vis, voor elk wat wils.",eten,positive
+Review-g680686-d740424_2:1_1,"Mooi en gezellig terras, lekker eten, slaatjes, pasta's, vlees, vis, voor elk wat wils.",eten,positive
+Review-g680686-d740424_2:1_2,"Mooi en gezellig terras, lekker eten, slaatjes, pasta's, vlees, vis, voor elk wat wils.",terras,positive
+Review-g680686-d740424_2:2_0,en zeer lekkere deserties.,deserties,positive
+Review-g680686-d740424_2:3_0,"Ook binnen is het wel gezellig, maar buiten in de zomer is het echt super.",binnen,positive
+Review-g680686-d740424_2:3_1,"Ook binnen is het wel gezellig, maar buiten in de zomer is het echt super.",buiten,positive
+Review-g680686-d740424_3:1_0,De Wilde Vespers heeft een smaakvol interieur en een prachtige tuin met vijver.,tuin met vijver,positive
+Review-g680686-d740424_3:1_1,De Wilde Vespers heeft een smaakvol interieur en een prachtige tuin met vijver.,interieur,positive
+Review-g680686-d740424_4:1_0,of gewoon klassiek -voor een goede snelle lunch kan je hier steeds terecht.,lunch,positive
+Review-g680686-d740424_4:2_0,"De opstelling van de tafels lijkt me een beetje vreemd, ongezellig.",opstelling,negative
+Review-g780932-d3468888_4:1_0,Zondagavond... en blijkbaar vind het personeel het normaal dat er dan nauwelijks nog iets voorradig is.,personeel,negative
+Review-g780932-d3468888_4:2_0,De tortilla's die normaliter als hapje vooraf geserveerd worden -op.,tortilla's,negative
+Review-g780932-d3468888_4:4_0,"Bier, verschillende gerechten -op.",bier,negative
+Review-g780932-d3468888_4:4_1,"Bier, verschillende gerechten -op.",gerechten,negative
+Review-g780932-d3468888_4:6_0,"Bij chi chi's verwacht ik geen culinaire hoogstandjes, maar de bediening mag op z'n minst correct en beleefd zijn.",bediening,negative
+Review-g801350-d5504291_1:2_0,"Bij 25° gezellig eten op een schitterend terras, wat kan er leuker zijn.",terras,positive
+Review-g801350-d5504291_1:5_0,Het steppegras en de saus was lekker.,steppegras,positive
+Review-g801350-d5504291_1:5_1,Het steppegras en de saus was lekker.,saus,positive
+Review-g801350-d5504291_1:6_0,Maar de steak was volledig doorbakken en net een schoenzool.,steak,negative
+Review-g801350-d5504291_1:7_0,Mijn vriendin haar kippenfilet was wel goed gebakken en lekker sappig.,kippenfilet,positive
+Review-g801350-d5504291_1:8_0,"Jammer van het vlees en het lange wachten, maar verdiend wel een tweede kans omwille van de gezellige locatie",vlees,negative
+Review-g801350-d5504291_1:8_2,"Jammer van het vlees en het lange wachten, maar verdiend wel een tweede kans omwille van de gezellige locatie",locatie,positive
+Review-g801350-d5504291_2:1_0,"Een fijne ontvangst, een mooie locatie, Het eten was zeer goed verzorgd en een fatsoenlijke portie!",eten,positive
+Review-g801350-d5504291_2:1_1,"Een fijne ontvangst, een mooie locatie, Het eten was zeer goed verzorgd en een fatsoenlijke portie!",locatie,positive
+Review-g801350-d5504291_2:1_2,"Een fijne ontvangst, een mooie locatie, Het eten was zeer goed verzorgd en een fatsoenlijke portie!",ontvangst,positive
+Review-g801350-d5504291_3:2_1,"Kan je als het mooi weer heel lekker eten buiten op een groot, rustig en prachtig terras.",terras,positive
+Review-g801350-d5504291_3:4_0,Goede bediening en de eigenaars zijn super vriendelijk.,eigenaars,positive
+Review-g801350-d5504291_3:4_1,Goede bediening en de eigenaars zijn super vriendelijk.,bediening,positive
+Review-g801350-d5504291_4:1_0,Je kan er heel lekkere steppengras fritten met biefstuk of kip eten.,kip,positive
+Review-g801350-d5504291_4:1_1,Je kan er heel lekkere steppengras fritten met biefstuk of kip eten.,steppengras fritten met biefstuk,positive
+Review-g801350-d5504291_4:2_0,Er is een groot terras en een leuke buiten speeltuin voor de kids.,terras,positive
+Review-g801350-d5504291_4:2_1,Er is een groot terras en een leuke buiten speeltuin voor de kids.,buiten speeltuin,positive
+Review-g941689-d1020348_1:2_1,"Heerlijk gegeten en supervriendelijke bediening, een aanrader.",bediening,positive
+Review-g941689-d1020348_3:1_0,"Wij waren gelogeerd in hotel Van Eyck, markt oversteken en we waren in een super gezellig restaurantje.",restaurantje,positive
+Review-g941689-d1020348_3:2_0,Het eten was uitstekend en bediening super lief.,bediening,positive
+Review-g941689-d1020348_3:2_1,Het eten was uitstekend en bediening super lief.,eten,positive
+Review-g941689-d1020348_4:3_2,"Wat geschrokken door het feit dat er maar 1 menu voorgesteld werd, maar o zo heerlijk gegeten en gedronken.",menu,negative
+Review-g941689-d1020348_4:5_0,"2 Mensen die bijzonder goed hun vak kennen, zeer gastvrij zijn en als de dienst het toelaat graag een babbeltje met hun gasten maken.",mensen,positive
+Review-g941689-d1020348_4:6_0,Wij zijn blij dit leuke adresje te hebben ontdekt en gaan zeker terug!,adresje,positive
+Review-g941689-d3671892_1:2_0,Varkenshaas bijna rauw en het vlees in het stoofpotje moest je zoeken.,vlees in het stoofpotje,negative
+Review-g941689-d3671892_1:2_1,Varkenshaas bijna rauw en het vlees in het stoofpotje moest je zoeken.,varkenshaas,negative
+Review-g941689-d3671892_4:2_0,"Personeel onvriendelijk, zelf 2 keer gevraagd om kaart.",personeel,negative
+Review-g941689-d3671892_4:4_0,"1x fetuccine met curry, echt slecht hebben we dan ook laten staan, 2x gegrilde scampi in kruidenboter, deze werd geserveerd in een laf smakeloos lookroomsausje niet in kruidenboter, kant-en-klaar liflafje.",gegrilde scampi in kruidenboter,negative
+Review-g941689-d3671892_4:4_1,"1x fetuccine met curry, echt slecht hebben we dan ook laten staan, 2x gegrilde scampi in kruidenboter, deze werd geserveerd in een laf smakeloos lookroomsausje niet in kruidenboter, kant-en-klaar liflafje.",fetuccine met curry,negative
+Review-g941689-d3671892_4:4_2,"1x fetuccine met curry, echt slecht hebben we dan ook laten staan, 2x gegrilde scampi in kruidenboter, deze werd geserveerd in een laf smakeloos lookroomsausje niet in kruidenboter, kant-en-klaar liflafje.",lookroomsausje,negative
+Review-g941689-d3671892_4:4_3,"1x fetuccine met curry, echt slecht hebben we dan ook laten staan, 2x gegrilde scampi in kruidenboter, deze werd geserveerd in een laf smakeloos lookroomsausje niet in kruidenboter, kant-en-klaar liflafje.",liflafje,negative
+Review-g941689-d3671892_4:5_0,"Daarnaast een biefstuk met peperroomsaus, saus was redelijk biefstuk wederom flauw.",saus,neutral
+Review-g941689-d3671892_4:5_1,"Daarnaast een biefstuk met peperroomsaus, saus was redelijk biefstuk wederom flauw.",biefstuk,negative
+Review-g941689-d3671892_4:6_0,"Wijn uit tap, ook smerig, geen andere wijn te bestellen!",wijn,negative
+Review-g941689-d3671892_4:6_1,"Wijn uit tap, ook smerig, geen andere wijn te bestellen!",wijn,negative
+Review-g941689-d3671892_4:7_0,"De serveester, ik denk dochter, drie keer om de gratis toegangscode van het wifi-netwerk gevraagd, die kon ze niet onthouden (!) dus kreeg ik deze niet?",serveester,negative
+Review-g941689-d3671892_4:9_1,"Vervolgens bij het afrekenen (Euro 100,--) werd niet gevraagd door de serveerster, of het ons had gesmaakt, dat was duidelijk want de borden waren niet leeg.",serveerster,negative
+Review-g941689-d3671892_4:10_1,"Vervolgens kwam de eigenaar die vroeg of het had gesmaakt, ik heb duidelijk aangegeven dat het niet goed was.",eigenaar,neutral
+Review-g941689-d3671892_4:11_0,"Meneer liep weg om me vervolgens niet meer aan te kijken, en verder niets met mijn antwoord te doen.",meneer,negative
+Review-g954018-d967590_2:1_0,Fijne persoonlijke welkom -heerlijk en verrassend huisapero op basis van vlierbloesem+mandarine napoleon -fijne verzorgde amuses -professionele en warmhartige bediening -zowel personeel als mevrouw een pluim -intense beleving van het uitgebreide menu met superlekkere smaakcombinaties en voldoende voor een bourgondiër -de keuken met Peter Goosens een echte aanrader -warme sfeer -gevraagde attentie gekregen,personeel,positive
+Review-g954018-d967590_2:1_1,Fijne persoonlijke welkom -heerlijk en verrassend huisapero op basis van vlierbloesem+mandarine napoleon -fijne verzorgde amuses -professionele en warmhartige bediening -zowel personeel als mevrouw een pluim -intense beleving van het uitgebreide menu met superlekkere smaakcombinaties en voldoende voor een bourgondiër -de keuken met Peter Goosens een echte aanrader -warme sfeer -gevraagde attentie gekregen,mevrouw,positive
+Review-g954018-d967590_2:1_2,Fijne persoonlijke welkom -heerlijk en verrassend huisapero op basis van vlierbloesem+mandarine napoleon -fijne verzorgde amuses -professionele en warmhartige bediening -zowel personeel als mevrouw een pluim -intense beleving van het uitgebreide menu met superlekkere smaakcombinaties en voldoende voor een bourgondiër -de keuken met Peter Goosens een echte aanrader -warme sfeer -gevraagde attentie gekregen,bediening,positive
+Review-g954018-d967590_2:1_3,Fijne persoonlijke welkom -heerlijk en verrassend huisapero op basis van vlierbloesem+mandarine napoleon -fijne verzorgde amuses -professionele en warmhartige bediening -zowel personeel als mevrouw een pluim -intense beleving van het uitgebreide menu met superlekkere smaakcombinaties en voldoende voor een bourgondiër -de keuken met Peter Goosens een echte aanrader -warme sfeer -gevraagde attentie gekregen,amuses,positive
+Review-g954018-d967590_2:1_4,Fijne persoonlijke welkom -heerlijk en verrassend huisapero op basis van vlierbloesem+mandarine napoleon -fijne verzorgde amuses -professionele en warmhartige bediening -zowel personeel als mevrouw een pluim -intense beleving van het uitgebreide menu met superlekkere smaakcombinaties en voldoende voor een bourgondiër -de keuken met Peter Goosens een echte aanrader -warme sfeer -gevraagde attentie gekregen,huisapero,positive
+Review-g954018-d967590_2:1_5,Fijne persoonlijke welkom -heerlijk en verrassend huisapero op basis van vlierbloesem+mandarine napoleon -fijne verzorgde amuses -professionele en warmhartige bediening -zowel personeel als mevrouw een pluim -intense beleving van het uitgebreide menu met superlekkere smaakcombinaties en voldoende voor een bourgondiër -de keuken met Peter Goosens een echte aanrader -warme sfeer -gevraagde attentie gekregen,welkom,positive
+Review-g954018-d967590_2:1_6,Fijne persoonlijke welkom -heerlijk en verrassend huisapero op basis van vlierbloesem+mandarine napoleon -fijne verzorgde amuses -professionele en warmhartige bediening -zowel personeel als mevrouw een pluim -intense beleving van het uitgebreide menu met superlekkere smaakcombinaties en voldoende voor een bourgondiër -de keuken met Peter Goosens een echte aanrader -warme sfeer -gevraagde attentie gekregen,menu,positive
+Review-g954018-d967590_2:1_7,Fijne persoonlijke welkom -heerlijk en verrassend huisapero op basis van vlierbloesem+mandarine napoleon -fijne verzorgde amuses -professionele en warmhartige bediening -zowel personeel als mevrouw een pluim -intense beleving van het uitgebreide menu met superlekkere smaakcombinaties en voldoende voor een bourgondiër -de keuken met Peter Goosens een echte aanrader -warme sfeer -gevraagde attentie gekregen,keuken,positive
+Review-g954018-d967590_2:1_8,Fijne persoonlijke welkom -heerlijk en verrassend huisapero op basis van vlierbloesem+mandarine napoleon -fijne verzorgde amuses -professionele en warmhartige bediening -zowel personeel als mevrouw een pluim -intense beleving van het uitgebreide menu met superlekkere smaakcombinaties en voldoende voor een bourgondiër -de keuken met Peter Goosens een echte aanrader -warme sfeer -gevraagde attentie gekregen,sfeer,positive
+Review-g954018-d967590_3:1_0,Van de champagne tot de koffie alles top.,koffie,positive
+Review-g954018-d967590_3:1_1,Van de champagne tot de koffie alles top.,champagne,positive
+Review-g954018-d967590_3:2_0,Zeer vriendelijke bediening.,bediening,positive
+Review-g954018-d967590_3:4_0,Zeer goede wijnen.,wijnen,positive
+Review-g954018-d967590_4:2_0,In de eerste plaats de creatieve gerechten en steeds terugkerend de top service.,service,positive
+Review-g954018-d967590_4:2_1,In de eerste plaats de creatieve gerechten en steeds terugkerend de top service.,gerechten,positive

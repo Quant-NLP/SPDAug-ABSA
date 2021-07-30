@@ -1,0 +1,1152 @@
+id,text,aspect,sentiment
+Review-g1006565-d2066794_1:1_0,Lange wachttijd.,wachttijd,negative
+Review-g1006565-d2066794_1:2_0,"Zelfde dessert, 2 dagen na mekaar.",dessert,negative
+Review-g1006565-d2066794_1:3_0,Ontbijtbuffet was tip top in orde.,ontbijtbuffet,positive
+Review-g1006565-d2066794_2:3_0,Maar eens in het kasteelrestaurant aangekomen werd het een feest.,kasteelrestaurant,positive
+Review-g1006565-d2066794_2:4_0,"Vooreerst de bediening, uitzonderlijk vriendelijk attent niet geforceerd maar echt.",bediening,positive
+Review-g1006565-d2066794_2:5_0,"Zelden meegemaakt, tussen het personeel was er een heerlijk plagende chemie.",personeel,positive
+Review-g1006565-d2066794_2:6_0,Je hebt de keuze tussen een beperkt aantal menus.,menus,negative
+Review-g1006565-d2066794_2:8_1,Als je uitleg vraagt over dit lekkere rundvlees wordt het vlees op voorhand op een bord aan je voorgesteld.,rundvlees,positive
+Review-g1006565-d2066794_2:10_0,"Als je geen steak liefhebber bent is er een visalternatief, eend en lam aan aanvaardbare prijzen.",visalternatief,positive
+Review-g1006565-d2066794_2:10_1,"Als je geen steak liefhebber bent is er een visalternatief, eend en lam aan aanvaardbare prijzen.",lam,positive
+Review-g1006565-d2066794_2:10_2,"Als je geen steak liefhebber bent is er een visalternatief, eend en lam aan aanvaardbare prijzen.",eend,positive
+Review-g1006565-d2066794_2:11_0,De wijnkaart is een goede selectie van lekkere kwaliteitsvolle wijnen.,wijnen,positive
+Review-g1006565-d2066794_2:11_1,De wijnkaart is een goede selectie van lekkere kwaliteitsvolle wijnen.,wijnkaart,positive
+Review-g1006565-d2066794_2:13_1,Op de grens tussen Nederland en België hebben we uitzonderlijk lekker geëten in een sfeervolle omgeving met een livebandje die de juiste toon vond en ons een heerlijke namiddag hebben bezorgd.,omgeving,positive
+Review-g1006565-d2066794_4:2_0,Het is een fantastische gelegenheid.,gelegenheid,positive
+Review-g1006565-d2066794_4:4_0,Op het landgoed Altembrouck werkt men met verse eerlijke producten.,producten,positive
+Review-g1006565-d2066794_4:6_0,Er is geen menukaart.,menukaart,negative
+Review-g1006565-d2066794_4:7_0,"Op zondag is er een 3 gang menu voor 27,50 wat echt prijs kwaliteit is.",3 gang menu,positive
+Review-g1006565-d2066794_4:7_1,"Op zondag is er een 3 gang menu voor 27,50 wat echt prijs kwaliteit is.",3 gang menu,positive
+Review-g1006565-d2066794_4:8_0,Nadeel is dat er geen menukaart is zelfs geen dagelijkse.,menukaart,negative
+Review-g1006565-d2066794_4:10_0,Het personeel is zeer vriendelijk en correct zonder stijf te zijn.,personeel,positive
+Review-g1006565-d2066794_4:18_0,Zo heerlijk fantasievol opgedient eten in een fijne ambiance.,ambiance,positive
+Review-g1006565-d2066794_4:18_1,Zo heerlijk fantasievol opgedient eten in een fijne ambiance.,eten,positive
+Review-g1009379-d1094833_1:1_0,"Spijtig, zo een zaak, prachtig gelegen, goede keuken, maar de vriendelijkheid van de ober is een echte schande en onproffesioneel,",keuken,positive
+Review-g1009379-d1094833_1:1_1,"Spijtig, zo een zaak, prachtig gelegen, goede keuken, maar de vriendelijkheid van de ober is een echte schande en onproffesioneel,",zaak,positive
+Review-g1009379-d1094833_1:1_2,"Spijtig, zo een zaak, prachtig gelegen, goede keuken, maar de vriendelijkheid van de ober is een echte schande en onproffesioneel,",ober,negative
+Review-g1009379-d1094833_2:5_0,"Het idee om deze mooi avond af te sluiten met een etentje op het terras van ""'t Groot Café"" was een echte afknapper van je welste.",'t groot café,negative
+Review-g1009379-d1094833_2:6_0,De ober was juist ontslagen dacht ik.,ober,negative
+Review-g1009379-d1094833_2:9_0,Het eten veel ook niet echt mee of speelde de bediening hier bij een rol.,eten,negative
+Review-g1009379-d1094833_2:9_1,Het eten veel ook niet echt mee of speelde de bediening hier bij een rol.,bediening,neutral
+Review-g1009379-d1094833_2:10_0,Zo lang die ober daar blijft werken mij niet meer gezien.,ober,negative
+Review-g1009379-d1094833_3:3_0,De ober was ronduit onbeleefd en deed er alles aan om ons duidelijk te maken dat hij geen zin had om ons te bedienen.,ober,negative
+Review-g1009379-d1094833_3:4_0,"Toen we zegden: ja, als het te moeilijk is om ons te bedienen, we konden onze zin niet afmaken maar werden toegeschreeuwd door de oor de ober die zich dan omdraaide en weg ging.",ober,negative
+Review-g1009379-d1094833_3:7_0,"Als deze zaak het hoofd niet boven water kan houden, ligt het niet aan de crisis!",zaak,negative
+Review-g1009379-d1094833_3:8_0,"Eigenaar, leer uw personeel manieren.",personeel,negative
+Review-g1009379-d1094833_4:1_0,We komen hier vaker eten: degelijke brasserie zonder meer.,brasserie,neutral
+Review-g1081485-d4399506_1:1_0,"De gastvrouw kreeg van ons de vrije keuze aan tapagerechtjes, zij leverde snel aan en alhoewel alles lekker was en van goede kwaliteit, miste ik verfijning.",tapagerechtjes,neutral
+Review-g1081485-d4399506_1:1_1,"De gastvrouw kreeg van ons de vrije keuze aan tapagerechtjes, zij leverde snel aan en alhoewel alles lekker was en van goede kwaliteit, miste ik verfijning.",gastvrouw,positive
+Review-g1081485-d4399506_1:2_0,"Wij vertelden bij het begin te houden van de combinatie tapa en vis en hier werd helemaal niet op ingegaan: iberico, chorizo, manchego, Russiisch ei, champignons, tomaatjes...., gehaktballetjes in tomatensaus, allemaal lekker, echter niet authentiek...",russiisch ei,neutral
+Review-g1081485-d4399506_1:2_1,"Wij vertelden bij het begin te houden van de combinatie tapa en vis en hier werd helemaal niet op ingegaan: iberico, chorizo, manchego, Russiisch ei, champignons, tomaatjes...., gehaktballetjes in tomatensaus, allemaal lekker, echter niet authentiek...",champignons,neutral
+Review-g1081485-d4399506_1:2_2,"Wij vertelden bij het begin te houden van de combinatie tapa en vis en hier werd helemaal niet op ingegaan: iberico, chorizo, manchego, Russiisch ei, champignons, tomaatjes...., gehaktballetjes in tomatensaus, allemaal lekker, echter niet authentiek...",chorizo,neutral
+Review-g1081485-d4399506_1:2_3,"Wij vertelden bij het begin te houden van de combinatie tapa en vis en hier werd helemaal niet op ingegaan: iberico, chorizo, manchego, Russiisch ei, champignons, tomaatjes...., gehaktballetjes in tomatensaus, allemaal lekker, echter niet authentiek...",manchego,neutral
+Review-g1081485-d4399506_1:2_4,"Wij vertelden bij het begin te houden van de combinatie tapa en vis en hier werd helemaal niet op ingegaan: iberico, chorizo, manchego, Russiisch ei, champignons, tomaatjes...., gehaktballetjes in tomatensaus, allemaal lekker, echter niet authentiek...",iberico,neutral
+Review-g1081485-d4399506_1:2_5,"Wij vertelden bij het begin te houden van de combinatie tapa en vis en hier werd helemaal niet op ingegaan: iberico, chorizo, manchego, Russiisch ei, champignons, tomaatjes...., gehaktballetjes in tomatensaus, allemaal lekker, echter niet authentiek...",tomaatjes,neutral
+Review-g1081485-d4399506_1:2_6,"Wij vertelden bij het begin te houden van de combinatie tapa en vis en hier werd helemaal niet op ingegaan: iberico, chorizo, manchego, Russiisch ei, champignons, tomaatjes...., gehaktballetjes in tomatensaus, allemaal lekker, echter niet authentiek...",gehaktballetjes in tomatensaus,neutral
+Review-g1081485-d4399506_1:3_0,"De wijn was lekker, duurste fles nog aan modeste prijs van 30 eur.....",wijn,positive
+Review-g1081485-d4399506_1:3_1,"De wijn was lekker, duurste fles nog aan modeste prijs van 30 eur.....",wijn,positive
+Review-g1081485-d4399506_1:4_0,Dit is dus een leuk adresje voor gezellige babbel en eenvoudige maar toch lekkere tapàs,tapàs,neutral
+Review-g1081485-d4399506_1:4_1,Dit is dus een leuk adresje voor gezellige babbel en eenvoudige maar toch lekkere tapàs,adresje,positive
+Review-g1081485-d4399506_1:5_0,Bediening vriendelijk maar gehaast....,bediening,neutral
+Review-g1081485-d4399506_2:1_0,Zuiderse sfeer...,sfeer,neutral
+Review-g1081485-d4399506_2:3_0,Geweldig concept voor een geweldige avond in Spaanse decor!!,concept,positive
+Review-g1081485-d4399506_3:1_0,Prachtige wijnen en heel gezellig ambiente.,ambiente,positive
+Review-g1081485-d4399506_3:1_1,Prachtige wijnen en heel gezellig ambiente.,wijnen,positive
+Review-g1081485-d4399506_3:2_0,Authentieke recepten (als spanje kenners kunnen we dat bevestigen) en alles huisgemaakt (dat proef je!).,recepten,neutral
+Review-g1081485-d4399506_4:1_0,"Leuk concept, zeer lekkere wijnen en tapas, deze wisselen regelmatig soms zeer goed andere gewoon goed.",tapas,positive
+Review-g1081485-d4399506_4:1_1,"Leuk concept, zeer lekkere wijnen en tapas, deze wisselen regelmatig soms zeer goed andere gewoon goed.",wijnen,positive
+Review-g1081485-d4399506_4:1_2,"Leuk concept, zeer lekkere wijnen en tapas, deze wisselen regelmatig soms zeer goed andere gewoon goed.",concept,positive
+Review-g1081485-d4399506_4:2_0,"komen steeds terug om een gezellige avond door te brengen met hapje en drankje, de bediening zou soms sneller kunnen, maar bekijk dit als een leuke en ontspannen middag of avond zonder stress",bediening,negative
+Review-g1081485-d803873_1:2_0,Ook in de periferie zijn er juweeltjes zoals Klein Constantia.,klein constantia,positive
+Review-g1081485-d803873_1:3_0,"Hoewel eerder gericht op een modaal publiek dat graag een biefstuk eet, presenteert dit restaurant met de regelmaat van de klok smaakparadijzen van schotels voor gastronomen.",schotels,positive
+Review-g1081485-d803873_3:1_0,Gewoonweg het beste restaurant in de buurt!,restaurant,positive
+Review-g1081485-d803873_4:1_0,Vroegere bezoeken aan KC waren altijd een culinair hoogtepunt.,kc,negative
+Review-g1081485-d803873_4:4_0,"De menukaart is veel te beperkt, suggesties zijn verdwenen, net als de creativiteit op het bord.",bord,negative
+Review-g1081485-d803873_4:4_1,"De menukaart is veel te beperkt, suggesties zijn verdwenen, net als de creativiteit op het bord.",suggesties,negative
+Review-g1081485-d803873_4:4_2,"De menukaart is veel te beperkt, suggesties zijn verdwenen, net als de creativiteit op het bord.",menukaart,negative
+Review-g1081485-d803873_4:5_0,Een simpele sla als bijgerecht is niet meteen mijn motivatie om op restaurant te gaan.,sla,negative
+Review-g1081485-d803873_4:6_0,Amuses die vroeger een leuke entree waren zijn nu beperkt tot een pompoensoepje.,amuses,negative
+Review-g1081485-d803873_4:7_0,"Maar zelfs met deze beperkte kaart (4 hoofdgerechten, 4 voorgerechten en 2 desserts) waren er toch 2 gerechten niet beschikbaar!",kaart,negative
+Review-g1081485-d803873_4:14_0,Positief blijft wel dat de kwaliteit van de producten ok is en de ruime keuze uit de Zuid-Afrikaanse wijnen.,producten,neutral
+Review-g1081485-d803873_4:14_1,Positief blijft wel dat de kwaliteit van de producten ok is en de ruime keuze uit de Zuid-Afrikaanse wijnen.,zuid-afrikaanse wijnen,positive
+Review-g1120021-d4097420_1:5_0,Zeer vriendelijke en vlotte bediening.,bediening,positive
+Review-g1120021-d4097420_4:1_0,"Lekker broodje met vol-au-vent Aan 8,5€!",broodje met vol-au-vent,positive
+Review-g1120021-d4097420_4:3_0,Bediening was niet vriendelijk.,bediening,negative
+Review-g1120021-d4097420_4:4_0,Sfeer was ok maar niet zo aangenaam,sfeer,negative
+Review-g1549789-d1745655_1:1_0,"The Village, een echte aanrader!",the village,positive
+Review-g1549789-d1745655_1:2_0,"Gezellige sfeer, vriendelijke bediening en het eten is TOP!",eten,positive
+Review-g1549789-d1745655_1:2_1,"Gezellige sfeer, vriendelijke bediening en het eten is TOP!",bediening,positive
+Review-g1549789-d1745655_1:2_2,"Gezellige sfeer, vriendelijke bediening en het eten is TOP!",sfeer,positive
+Review-g1549789-d1745655_2:3_0,"Mooie aankleding van de zaak, super vriendelijke bediening en voor ieder wat wils op de kaart.",kaart,positive
+Review-g1549789-d1745655_2:3_1,"Mooie aankleding van de zaak, super vriendelijke bediening en voor ieder wat wils op de kaart.",bediening,positive
+Review-g1549789-d1745655_2:3_2,"Mooie aankleding van de zaak, super vriendelijke bediening en voor ieder wat wils op de kaart.",zaak,positive
+Review-g1549789-d1745655_2:4_0,"Wat ik zelf leuk vind om te doen hier is de Tapas schotel, maar ook hun village gras met bijhorende saus, hun mosselen en de legendarische Pelt stoofvlees is super lekker.",tapas schotel,positive
+Review-g1549789-d1745655_2:4_1,"Wat ik zelf leuk vind om te doen hier is de Tapas schotel, maar ook hun village gras met bijhorende saus, hun mosselen en de legendarische Pelt stoofvlees is super lekker.",village gras met bijhorende saus,positive
+Review-g1549789-d1745655_2:4_2,"Wat ik zelf leuk vind om te doen hier is de Tapas schotel, maar ook hun village gras met bijhorende saus, hun mosselen en de legendarische Pelt stoofvlees is super lekker.",pelt stoofvlees,positive
+Review-g1549789-d1745655_2:4_3,"Wat ik zelf leuk vind om te doen hier is de Tapas schotel, maar ook hun village gras met bijhorende saus, hun mosselen en de legendarische Pelt stoofvlees is super lekker.",mosselen,positive
+Review-g1549789-d1745655_2:5_1,"Ook de gezelligheid om van in de sofa te zitten of aan de toog te hangen en van een lekkere Cocktail te genieten, het is hier allemaal.",cocktail,positive
+Review-g1549789-d1745655_2:6_0,"Tanja, je bent goed bezig!!!!!",tanja,positive
+Review-g1549789-d1745655_3:4_0,En ja er was zeker plaats (3 uur met vier personen in de zaak gezeten) we werden wel zeer goed ontvangen de garcon van dienst was dan ook het enige aansprakelijke in de zaak!,garcon van dienst,positive
+Review-g1549789-d1745655_3:5_0,De zaak is mooi maar koel omdat er geen volk te vertoeven was: het eten gewoon SCHANDALIG!!!!,eten,negative
+Review-g1549789-d1745655_3:5_1,De zaak is mooi maar koel omdat er geen volk te vertoeven was: het eten gewoon SCHANDALIG!!!!,zaak,neutral
+Review-g1549789-d1745655_3:6_0,Sla van de aldi de kwaliteit was slecht en de dressing was al precies maand over datum!,dressing,negative
+Review-g1549789-d1745655_3:6_1,Sla van de aldi de kwaliteit was slecht en de dressing was al precies maand over datum!,sla,negative
+Review-g1549789-d1745655_3:7_0,De huisbereide garnaal kroketten kwamen van de makro!!!!,huisbereide garnaal kroketten,negative
+Review-g1549789-d1745655_3:8_0,Stond een vrouwelijk personeelslid gewoon te roken in de zaak dit is allemaal jammer en voor ons Wker niet voor herhaling vatbaar.,zaak,negative
+Review-g1549789-d1745655_3:8_1,Stond een vrouwelijk personeelslid gewoon te roken in de zaak dit is allemaal jammer en voor ons Wker niet voor herhaling vatbaar.,vrouwelijk personeelslid,negative
+Review-g188636-d1227444_1:1_0,zowel het concept als het Interieur is orgineel.,interieur,positive
+Review-g188636-d1227444_1:1_1,zowel het concept als het Interieur is orgineel.,concept,positive
+Review-g188636-d1227444_1:3_0,Daarom kleine kaart met enkel super verse bordjes.,bordjes,positive
+Review-g188636-d1227444_1:3_1,Daarom kleine kaart met enkel super verse bordjes.,kaart,neutral
+Review-g188636-d1227444_1:4_0,De wijnkeuze is fantastisch en prijs kwaliteit is zeer correct.,wijnkeuze,positive
+Review-g188636-d1227444_3:1_0,"Leuke sfeer, gemoedelijke ontvangst, de beste steak tartare die we ooit hebben gegeten (de gebakken moet je ook zeker eens proberen!), wijn aangepast aan je eigen smaak,...",steak tartare,positive
+Review-g188636-d1227444_3:1_1,"Leuke sfeer, gemoedelijke ontvangst, de beste steak tartare die we ooit hebben gegeten (de gebakken moet je ook zeker eens proberen!), wijn aangepast aan je eigen smaak,...",ontvangst,neutral
+Review-g188636-d1227444_3:1_2,"Leuke sfeer, gemoedelijke ontvangst, de beste steak tartare die we ooit hebben gegeten (de gebakken moet je ook zeker eens proberen!), wijn aangepast aan je eigen smaak,...",sfeer,positive
+Review-g188636-d1227444_3:1_3,"Leuke sfeer, gemoedelijke ontvangst, de beste steak tartare die we ooit hebben gegeten (de gebakken moet je ook zeker eens proberen!), wijn aangepast aan je eigen smaak,...",wijn,positive
+Review-g188636-d1227444_3:1_4,"Leuke sfeer, gemoedelijke ontvangst, de beste steak tartare die we ooit hebben gegeten (de gebakken moet je ook zeker eens proberen!), wijn aangepast aan je eigen smaak,...",gebakken,positive
+Review-g188636-d1227444_4:1_0,Geweldig restaurant buiten het echte centrum van Antwerpen.,restaurant,positive
+Review-g188636-d1227444_4:2_0,"Sublieme, ongedwongen sfeer, weinig couverts (reserveren is noodzakelijk) en een fantastische bediening.",bediening,positive
+Review-g188636-d1227444_4:2_1,"Sublieme, ongedwongen sfeer, weinig couverts (reserveren is noodzakelijk) en een fantastische bediening.",couverts,neutral
+Review-g188636-d1227444_4:2_2,"Sublieme, ongedwongen sfeer, weinig couverts (reserveren is noodzakelijk) en een fantastische bediening.",sfeer,positive
+Review-g188636-d1227444_4:3_0,Het eten is top (die steak tartaar!) en het is heerlijk om je te laten verrassen door hun wijnkeuze.,eten,positive
+Review-g188636-d1227444_4:3_1,Het eten is top (die steak tartaar!) en het is heerlijk om je te laten verrassen door hun wijnkeuze.,steak tartaar,positive
+Review-g188636-d1227444_4:3_2,Het eten is top (die steak tartaar!) en het is heerlijk om je te laten verrassen door hun wijnkeuze.,wijnkeuze,positive
+Review-g188636-d1790921_1:3_0,De koffies en warme choco waren naar mijn mening veel te duur geprijsd en werden te koud opgediend.,koffies en warme choco,negative
+Review-g188636-d1790921_1:3_1,De koffies en warme choco waren naar mijn mening veel te duur geprijsd en werden te koud opgediend.,koffies en warme choco,negative
+Review-g188636-d1790921_1:4_0,Lauwe koffie is gewoon niet accepteerbaar.,koffie,negative
+Review-g188636-d1790921_1:8_0,Portie taart was voldoende groot en daar viel op zich weinig op aan te merken.,taart,neutral
+Review-g188636-d1790921_1:8_1,Portie taart was voldoende groot en daar viel op zich weinig op aan te merken.,taart,neutral
+Review-g188636-d1790921_2:1_0,"Enig adresje waar je lekkere pastrami kan eten, wordt geserveerd met een speciaal sausje en op dikke sneden brood.",sausje,neutral
+Review-g188636-d1790921_2:1_1,"Enig adresje waar je lekkere pastrami kan eten, wordt geserveerd met een speciaal sausje en op dikke sneden brood.",pastrami,positive
+Review-g188636-d1790921_2:1_2,"Enig adresje waar je lekkere pastrami kan eten, wordt geserveerd met een speciaal sausje en op dikke sneden brood.",brood,neutral
+Review-g188636-d1790921_2:2_0,Ook de koffie is er lekker en er heerst een gezellige sfeer.,sfeer,positive
+Review-g188636-d1790921_2:2_1,Ook de koffie is er lekker en er heerst een gezellige sfeer.,koffie,positive
+Review-g188636-d1790921_3:2_0,Na bij het hotel uitgecheckt te hebben zijn we naar het gezellige cafe getogen.,cafe,positive
+Review-g188636-d1790921_3:3_1,Hier hebben we uitgebreid ontbeten en van een goede kop koffie genoten.,koffie,positive
+Review-g188636-d1790921_3:4_0,De kwaliteit van het eten was heerlijk en net als de sfeer alsof je bij vrienden thuis o bezoek was.,eten,positive
+Review-g188636-d1790921_3:4_1,De kwaliteit van het eten was heerlijk en net als de sfeer alsof je bij vrienden thuis o bezoek was.,sfeer,positive
+Review-g188636-d1790921_3:5_0,De bediening was vriendelijk en correct.,bediening,positive
+Review-g188636-d3907081_1:1_0,De keuken van à L'infintise is een unieke ervaring in geheel Antwerpen.,keuken van à l'infintise,positive
+Review-g188636-d3907081_1:2_0,Voor een schappelijke prijs serveert de chef ons zijn culinaire creaties waar zijn persoonlijke stijl tot zijn recht komt.,culinaire creaties,positive
+Review-g188636-d3907081_1:3_0,Marc is een kunstenaar die weet om te gaan met de smaken en uiterlijk van lekker eten.,marc,positive
+Review-g188636-d3907081_1:3_1,Marc is een kunstenaar die weet om te gaan met de smaken en uiterlijk van lekker eten.,eten,positive
+Review-g188636-d3907081_1:3_2,Marc is een kunstenaar die weet om te gaan met de smaken en uiterlijk van lekker eten.,eten,positive
+Review-g188636-d3907081_4:2_0,Het concept is zeer origineel.,concept,positive
+Review-g188636-d3907081_4:3_0,"Het eten is fantastisch, zeer creatief, lekker, ik heb er geen woorden voor.",eten,positive
+Review-g188636-d3907081_4:4_0,Vriendelijke service.,service,positive
+Review-g188636-d3907081_4:6_0,Spijtig dat de wachttijden zo lang zijn.,wachttijden,negative
+Review-g188636-d3907081_4:8_0,Voor mij verdient de chef 4 sterren.,chef,positive
+Review-g188636-d4080718_1:1_2,"Leuk ingericht, genoeg keuze, goed prijs/kwaliteitverhouding.",keuze,neutral
+Review-g188636-d4080718_2:2_0,De ontvangst was zéér vriendelijk en hartelijk.,ontvangst,positive
+Review-g188636-d4080718_2:3_0,"Het voorgerecht was héél lekker, de hoofdschotel ook.",hoofdschotel,positive
+Review-g188636-d4080718_2:3_1,"Het voorgerecht was héél lekker, de hoofdschotel ook.",voorgerecht,positive
+Review-g188636-d4080718_2:4_0,Verschillende superlekkere gerechtjes met rijst apart.,gerechtjes,positive
+Review-g188636-d4080718_2:5_0,Heel veel groenten.,groenten,positive
+Review-g188636-d4080718_2:6_1,Zeker voldoende voor 2 pers. enig minmuntje: wat weinig kip en scampi's.,kip,negative
+Review-g188636-d4080718_2:6_2,Zeker voldoende voor 2 pers. enig minmuntje: wat weinig kip en scampi's.,scampi's,negative
+Review-g188636-d4080718_2:7_0,Het nagerechtje was wat taai en geen verse chocoladesaus.,nagerechtje,negative
+Review-g188636-d4080718_2:7_1,Het nagerechtje was wat taai en geen verse chocoladesaus.,chocoladesaus,negative
+Review-g188636-d4080718_2:9_0,Bediening SUPER vriendelijk.,bediening,positive
+Review-g188636-d4080718_2:11_0,"De kaart is zéér uitgebreid, wij komen zeker en vast terug!",kaart,positive
+Review-g188636-d4080718_2:12_0,"Er zou juist een nieuwe eigenaar zijn, vandaar misschien het positieve dat hij betracht.",nieuwe eigenaar,positive
+Review-g188636-d4170392_1:1_0,Het is een klein leuk restaurantje en ze serveren prima sushi maar daar is het ook mee gezegd.,sushi,positive
+Review-g188636-d4170392_1:1_1,Het is een klein leuk restaurantje en ze serveren prima sushi maar daar is het ook mee gezegd.,restaurantje,positive
+Review-g188636-d4170392_1:5_0,Daarnaast vliegen er rondom de bar allemaal vieze vliegjes dus daar zou ik niet in de buurt gaan zitten.,bar,negative
+Review-g188636-d4170392_1:6_0,De dame was wel vriendelijk en we mochten zelfs tijdens de drukte van tafel wisselen.,dame,positive
+Review-g188636-d4170392_2:2_0,Maar als het wat drukker wordt hebben de mensen in zowel de keuken als de bediening handen te kort.,mensen,negative
+Review-g188636-d4170392_2:3_0,Wel proberen de mensen jou met de glimlach te helpen waar ze kunnen.,mensen,positive
+Review-g188636-d4170392_2:4_0,"De tafels lijken niet altijd even proper, en hier en daar is er wel iets aan vervanging toe (zoals een krakende luidspreker).",tafels,negative
+Review-g188636-d4170392_2:6_0,Het eten is echt lekker.,eten,positive
+Review-g188636-d4170392_2:7_0,"Zoveel verschillende keuze, en de smaken zitten goed.",smaken,positive
+Review-g188636-d4170392_2:7_1,"Zoveel verschillende keuze, en de smaken zitten goed.",keuze,positive
+Review-g188636-d4170392_2:8_0,"Het concept op zich lijkt misschien eerst een beetje vreemd, en velen denken dat ze niet genoeg zullen hebben.",concept,negative
+Review-g188636-d4170392_3:1_1,"Eten is perfect, we zijn er dol op en hebben ervan genoten en we komen ooit nog terug zonder twijfel!",eten,positive
+Review-g188636-d4170392_3:2_0,"We mochten zoooveel eten, perfect!!!!",eten,positive
+Review-g188636-d4170392_4:1_0,Shusi's zijn goed al moet men zelf kunnen beslissen of er wasabi en/of peper op zit.,shusi's,neutral
+Review-g188636-d4170392_4:2_0,Warme gerechten komen uit magnetron vooral de spiezen en spareribs waren onsmakelijk.,spareribs,negative
+Review-g188636-d4170392_4:2_1,Warme gerechten komen uit magnetron vooral de spiezen en spareribs waren onsmakelijk.,spiezen,negative
+Review-g188636-d4170392_4:2_2,Warme gerechten komen uit magnetron vooral de spiezen en spareribs waren onsmakelijk.,warme gerechten,negative
+Review-g188636-d4170392_4:3_0,Als je een frequent shusi eeter bent sla deze zaak dan over.,zaak,negative
+Review-g188636-d4562380_1:1_0,"Aangetrokken door het leuke terras aan de straatzijde en de heerlijke kazen in de vitrine, besloten een lunch te doen in deze zaak.",kazen,positive
+Review-g188636-d4562380_1:1_1,"Aangetrokken door het leuke terras aan de straatzijde en de heerlijke kazen in de vitrine, besloten een lunch te doen in deze zaak.",terras,positive
+Review-g188636-d4562380_1:2_0,"Geen menukaart, maar gewoon kiezen tussen de lekkernijen in de koeltoog, ik nam een tortellini met pancetta aangeprezen door de uitbater, superlekker!",tortellini met pancetta,positive
+Review-g188636-d4562380_1:3_0,Dit in combinatie met fijne muziek op de achtergrond en een heerlijk glas wit voor voor een zeer correcte prijs.,muziek,positive
+Review-g188636-d4562380_1:3_1,Dit in combinatie met fijne muziek op de achtergrond en een heerlijk glas wit voor voor een zeer correcte prijs.,wit,positive
+Review-g188636-d4562380_1:3_2,Dit in combinatie met fijne muziek op de achtergrond en een heerlijk glas wit voor voor een zeer correcte prijs.,wit,positive
+Review-g188636-d4562380_2:2_0,Leuk adres voor n lunch maar ook voor iets lekkers te halen om thuis te eten of n lekker glas wijn te drinken met n assortimentje kaas erbij!,wijn,positive
+Review-g188636-d4562380_2:2_1,Leuk adres voor n lunch maar ook voor iets lekkers te halen om thuis te eten of n lekker glas wijn te drinken met n assortimentje kaas erbij!,iets lekkers,positive
+Review-g188636-d4562380_2:2_2,Leuk adres voor n lunch maar ook voor iets lekkers te halen om thuis te eten of n lekker glas wijn te drinken met n assortimentje kaas erbij!,adres,positive
+Review-g188636-d4562380_2:6_0,"Probeer ook eens een van de zalige taarten of quiches, ze zijn om de vingers bij af te likken!",quiches,positive
+Review-g188636-d4562380_2:6_1,"Probeer ook eens een van de zalige taarten of quiches, ze zijn om de vingers bij af te likken!",taarten,positive
+Review-g188636-d4562380_3:1_0,De mooie locatie (Sint Jorispoort) trok ons naar het terrasje.,sint jorispoort,positive
+Review-g188636-d4562380_3:2_0,Maar de bediening sloeg hier alles.,bediening,negative
+Review-g188636-d4562380_3:3_0,"Het leek alsof we de kok stoorden, hoewel er naast ons niemand was.",kok,negative
+Review-g188636-d4562380_3:9_0,Het enige waarvan we de prijs niet hadden gevraagd (5 euro voor een glas wijn konden we nog aanvaarden) was een stukje focaccia van 5x5 cm oftwel 3 happen.,focaccia,negative
+Review-g188636-d4562380_3:9_1,Het enige waarvan we de prijs niet hadden gevraagd (5 euro voor een glas wijn konden we nog aanvaarden) was een stukje focaccia van 5x5 cm oftwel 3 happen.,wijn,neutral
+Review-g188636-d4562380_3:11_0,"Wat de smaak betreft, waarmee zo gedweept wordt, was m'n soep even flauw als in de doorsnee brasseriekeuken.",soep,negative
+Review-g188636-d4562380_3:13_0,"Bon, benieuwd hoe lang deze omhooggevallen zaak stand houdt...",zaak,negative
+Review-g188636-d4562380_4:1_0,"Als je op zoek bent naar een originelere plaats om 's middags te lunchen, ben je hier aan het juiste adres.",plaats,positive
+Review-g188636-d4562380_4:2_0,De winkel met open keuken is mooi ingericht en de uitbater is zeer vriendelijk en behulpzaam bij het kiezen van de maaltijd.,uitbater,positive
+Review-g188636-d4562380_4:2_1,De winkel met open keuken is mooi ingericht en de uitbater is zeer vriendelijk en behulpzaam bij het kiezen van de maaltijd.,winkel met open keuken,positive
+Review-g188636-d4562380_4:3_0,"Elke dag zijn er dagvers bereide soepen, lichte maaltijd-gerechten, quiches en er is ook een ruim aanbod van kazen.",kazen,positive
+Review-g188636-d4562380_4:3_1,"Elke dag zijn er dagvers bereide soepen, lichte maaltijd-gerechten, quiches en er is ook een ruim aanbod van kazen.",soepen,positive
+Review-g188636-d4562380_4:3_2,"Elke dag zijn er dagvers bereide soepen, lichte maaltijd-gerechten, quiches en er is ook een ruim aanbod van kazen.",maaltijd-gerechten,positive
+Review-g188636-d4562380_4:6_0,"De soep was echt super en de kazen, die de uitbater geselecteerd had, was ook zeker in orde.",soep,positive
+Review-g188636-d4562380_4:6_1,"De soep was echt super en de kazen, die de uitbater geselecteerd had, was ook zeker in orde.",kazen,positive
+Review-g188636-d4579497_1:2_2,"Goe gegeten, goe gedronken, goeie service, eerlijke keuken, toffen baas--->leve de Steve!!",service,positive
+Review-g188636-d4579497_1:2_3,"Goe gegeten, goe gedronken, goeie service, eerlijke keuken, toffen baas--->leve de Steve!!",keuken,positive
+Review-g188636-d4579497_1:2_4,"Goe gegeten, goe gedronken, goeie service, eerlijke keuken, toffen baas--->leve de Steve!!",baas,positive
+Review-g188636-d4579497_3:1_0,Leuk restaurantje.,restaurantje,positive
+Review-g188636-d4579497_3:2_0,Inrichting is modern.,inrichting,positive
+Review-g188636-d4579497_3:3_0,"Het personeel casual qua stijl, en vriendelijk.",personeel,positive
+Review-g188636-d4579497_3:5_0,De tafeltjes zijn als op zoveel plekken in Antwerpen erg klein.,tafeltjes,negative
+Review-g188636-d4579497_3:6_0,Het eten was echter prima.,eten,positive
+Review-g188636-d4579497_3:7_0,Lekkere kaaskroketjes vooraf gehad.,kaaskroketjes,positive
+Review-g188636-d4579497_3:8_0,LHoofdgerecht stoofpotje ook lekker.,lhoofdgerecht stoofpotje,positive
+Review-g188636-d5929173_2:6_0,Bij aankomst doet de gevel van dit mooie herenhuis in niets vermoeden dat hierachter een gezellig restaurant schuil gaat.,restaurant,positive
+Review-g188636-d5929173_2:7_0,We worden vriendelijk en met die typische Oosterse beleefdheid ontvangen door Sombat.,sombat,positive
+Review-g188636-d5929173_2:8_0,"De achterliggende tuin met vijver is prachtig, jammer genoeg is het te koud buiten en nemen we het aperitief in het lederen salon.",tuin,positive
+Review-g188636-d5929173_2:9_0,"Dit is een lekkere cava en inbegrepen in de set-menu prijs à 50,00€ per persoon.",cava,positive
+Review-g188636-d5929173_2:13_0,"Het geheel biedt een hoog huiskamer gevoel, het is gezellig zitten hier.",geheel,positive
+Review-g188636-d5929173_2:17_0,De 2 hapjes vooraf zijn fris en erg lekker van smaak.,hapjes,positive
+Review-g188636-d5929173_2:20_0,"Dit is een vrij pittig soepje, aanvaardbaar gekruid en subtiel qua smaak.",soepje,positive
+Review-g188636-d5929173_2:22_0,Dit gerecht is het betere werk.,gerecht,positive
+Review-g188636-d5929173_2:29_0,"De hoeveelheid eten is te ruim bemeten, en met verkwisting van voedsel heb ik altijd een probleem.",hoeveelheid,negative
+Review-g188636-d5929173_2:30_0,Ook de harmonie qua structuur en smaakexpressie tussen de (té) talrijke ingrediënten gaat volledig de mist in.,ingrediënten,negative
+Review-g188636-d5929173_2:30_1,Ook de harmonie qua structuur en smaakexpressie tussen de (té) talrijke ingrediënten gaat volledig de mist in.,ingrediënten,negative
+Review-g188636-d5929173_2:31_0,"Jammer, maar dit gerecht is niet geslaagd.",gerecht,negative
+Review-g188636-d5929173_2:34_0,Afsluiten doen we met een ijs compositie die erg lekker is.,ijs compositie,positive
+Review-g188636-d5929173_2:36_0,"De dienstverlening is voorkomend en beleefd, zij het aan de timide kant.",dienstverlening,neutral
+Review-g188636-d5929173_2:37_0,Dit 'Home Cooking' concept is een iets anders dan een formeel restaurant.,home cooking' concept,neutral
+Review-g188636-d5929173_2:38_0,De gebruikte ingrediënten zijn vers en op zich allemaal smaakvol bereid.,ingrediënten,positive
+Review-g188636-d5929173_2:39_0,Maar de harmonie klopt niet altijd en de porties zijn te ruim bemeten.,porties,negative
+Review-g188636-d5929173_2:39_1,Maar de harmonie klopt niet altijd en de porties zijn te ruim bemeten.,harmonie,negative
+Review-g188636-d5929173_2:40_0,"Al bij al de betere Thaise keuken, maar het is net geen verfijnde gastronomie.",thaise keuken,positive
+Review-g188636-d5929173_3:2_0,"Gastvrijheid top, omgeving binnen en buiten om helemaal tot rust te komen en het eten om bij weg te dromen.",eten,positive
+Review-g188636-d5929173_3:2_1,"Gastvrijheid top, omgeving binnen en buiten om helemaal tot rust te komen en het eten om bij weg te dromen.",omgeving,positive
+Review-g188636-d5929173_3:2_2,"Gastvrijheid top, omgeving binnen en buiten om helemaal tot rust te komen en het eten om bij weg te dromen.",gastvrijheid,positive
+Review-g188636-d5929173_4:2_0,"Het restaurant is stijlvol en gezellig ingericht, alsook de tuin waar we het aperitief hebben genuttigd.",tuin,positive
+Review-g188636-d5929173_4:2_1,"Het restaurant is stijlvol en gezellig ingericht, alsook de tuin waar we het aperitief hebben genuttigd.",restaurant,positive
+Review-g188636-d5929173_4:3_0,"Het eten (4 gangen menu voor 50€) was heel lekker en niet al te ""spicy"".",eten,positive
+Review-g188636-d5929173_4:4_0,De gastheer en zijn personeel waren zeer voorkomend en vriendelijk.,gastheer,positive
+Review-g188636-d5929173_4:4_1,De gastheer en zijn personeel waren zeer voorkomend en vriendelijk.,personeel,positive
+Review-g188636-d5929173_4:5_0,Sombat Thai cuisine is een echte aanrader en wij gaan zeker nog eens terug.,sombat thai cuisine,positive
+Review-g188636-d809942_2:1_0,We hebben genoten van een excellente lunch met een super lekker dessert.,dessert,positive
+Review-g188636-d809942_2:1_1,We hebben genoten van een excellente lunch met een super lekker dessert.,lunch,positive
+Review-g188636-d809942_2:2_0,De aangepaste wijnen waren lekker.,aangepaste wijnen,positive
+Review-g188636-d809942_2:3_0,De bediening was correct en zeer vriendelijk en wij hadden het geluk om in de binnentuin te kunnen lunchen.,binnentuin,positive
+Review-g188636-d809942_2:3_1,De bediening was correct en zeer vriendelijk en wij hadden het geluk om in de binnentuin te kunnen lunchen.,bediening,positive
+Review-g188636-d809942_2:5_0,Laat de drukke omgeving je niet afschrikken.,omgeving,negative
+Review-g188636-d809942_3:7_0,De amuses en ook de gerechten hadden een verfijnde smaak.,gerechten,positive
+Review-g188636-d809942_3:7_1,De amuses en ook de gerechten hadden een verfijnde smaak.,amuses,positive
+Review-g188636-d809942_3:8_0,De porties waren wel niet erg groot.,porties,negative
+Review-g188636-d809942_3:9_0,Maar als ik het Irish beef kreeg voorgeschoteld waren mijn 4 stukjes (7x 2 cm) vol met pezen waar men zelf met een mes niet kon doorsnijden.,irish beef,negative
+Review-g188636-d809942_3:11_0,En enkele minuten later kwam de chef met 4 treffelijke stukjes vlees.,vlees,neutral
+Review-g188636-d809942_3:11_1,En enkele minuten later kwam de chef met 4 treffelijke stukjes vlees.,chef,positive
+Review-g188636-d809942_3:13_0,Ook het dessert was voortreffelijk van smaakcombinatie.,dessert,positive
+Review-g188636-d809942_4:4_0,Wijnen van uitstekende kwaliteit maken je menu af.,wijnen,positive
+Review-g188636-d809942_4:5_1,Een aanrader in een ongedwongen vlotte sfeer doch met stijl.,sfeer,positive
+Review-g188636-d809942_4:6_0,"Het adresje voor die ene aparte gelegenheid, samen genieten en verwend worden.",adresje,positive
+Review-g188637-d1973474_2:1_0,"De ligging op een drukke steenweg is een afknapper, het terras ook geen aanrader.",terras,negative
+Review-g188637-d1973474_2:1_1,"De ligging op een drukke steenweg is een afknapper, het terras ook geen aanrader.",ligging,negative
+Review-g188637-d1973474_2:2_0,Maar het Indische eten is heel lekker en de bediening ongelooflijk vriendelijk.,bediening,positive
+Review-g188637-d1973474_2:2_1,Maar het Indische eten is heel lekker en de bediening ongelooflijk vriendelijk.,indische eten,positive
+Review-g188650-d1161871_3:1_0,"Goei mosselen, goei service, da's echte Hasseltse gastvrijheid!",gastvrijheid,positive
+Review-g188650-d1161871_3:1_1,"Goei mosselen, goei service, da's echte Hasseltse gastvrijheid!",service,positive
+Review-g188650-d1161871_3:1_2,"Goei mosselen, goei service, da's echte Hasseltse gastvrijheid!",mosselen,positive
+Review-g188650-d1161871_3:2_0,Ook een geweldige sfeer muziek!,sfeer muziek,positive
+Review-g188650-d1162613_1:1_0,Lekkere broodjes en pasta's.,pasta's,positive
+Review-g188650-d1162613_1:1_1,Lekkere broodjes en pasta's.,broodjes,positive
+Review-g188650-d1162613_1:3_0,Ook de menu is goed en goedkoop.,menu,positive
+Review-g188650-d1162613_1:3_1,Ook de menu is goed en goedkoop.,menu,positive
+Review-g188650-d1162613_2:1_0,Hier heb je een ruime kuize aan gebak voor een eerlijke prijs.,gebak,positive
+Review-g188650-d1162613_2:1_1,Hier heb je een ruime kuize aan gebak voor een eerlijke prijs.,gebak,positive
+Review-g188650-d1162613_2:2_0,De pannenkoeken zijn zeker aan te raden!,pannenkoeken,positive
+Review-g188650-d1162613_3:3_0,Dits is echt een toffe zaak.,zaak,positive
+Review-g188650-d1162613_3:4_0,"Supervriendelijke bediening de lekkere pannenkoeken en gerechten zijn echt goed, en zeker niet duur.",bediening,positive
+Review-g188650-d1162613_3:4_1,"Supervriendelijke bediening de lekkere pannenkoeken en gerechten zijn echt goed, en zeker niet duur.",gerechten,positive
+Review-g188650-d1162613_3:4_2,"Supervriendelijke bediening de lekkere pannenkoeken en gerechten zijn echt goed, en zeker niet duur.",gerechten,positive
+Review-g188650-d1162613_4:1_0,Nergens in Hasselt zijn de pannekoeken zo lekker als hier!!!!,pannekoeken,positive
+Review-g188650-d1162613_4:2_0,Snelle bediening en vriendelijke personeel moet ook gemeld worden!!,bediening,positive
+Review-g188650-d1162613_4:2_1,Snelle bediening en vriendelijke personeel moet ook gemeld worden!!,personeel,positive
+Review-g188650-d4374911_1:1_0,Alleen blije gezichten bij 6 zinnen: -alles uitermate lekker -geen moeite te veel - n op het einde nog een redelijke rekening toe,rekening,positive
+Review-g188650-d4374911_2:2_0,Het nagerecht was dame blanche zeer goed mmm,dame blanche,positive
+Review-g188650-d4374911_4:1_0,Super goed restaurant.,restaurant,positive
+Review-g188650-d4374911_4:2_0,"Heerlijke gerechten, zeer goede wijnen.",wijnen,positive
+Review-g188650-d4374911_4:2_1,"Heerlijke gerechten, zeer goede wijnen.",gerechten,positive
+Review-g188650-d4374911_4:4_0,Zeer goede ligging vlak bij het centrum van de stad.,ligging,positive
+Review-g188650-d4374911_4:5_0,Super goede ontvangst en bediening.,ontvangst,positive
+Review-g188650-d4374911_4:5_1,Super goede ontvangst en bediening.,bediening,positive
+Review-g188650-d4374911_4:6_0,Beste restaurant in de stad en ver daarbuiten,restaurant,positive
+Review-g188650-d786299_1:2_0,"Originele zwitserse inkleding, met grappige koetjes en veel hout.",inkleding,positive
+Review-g188650-d786299_1:3_0,"Vlotte bediening, lekkere fondue (kaasfondue is lekker licht!) en zeker a volonté.",fondue,positive
+Review-g188650-d786299_1:3_1,"Vlotte bediening, lekkere fondue (kaasfondue is lekker licht!) en zeker a volonté.",bediening,positive
+Review-g188650-d786299_1:3_2,"Vlotte bediening, lekkere fondue (kaasfondue is lekker licht!) en zeker a volonté.",fondue,positive
+Review-g188650-d786299_3:1_0,"Zwitsers eethuisje waar je lekkere fondue, kaasfondue of raclette kan eten!","fondue, kaasfondue of raclette",positive
+Review-g188650-d786299_3:1_1,"Zwitsers eethuisje waar je lekkere fondue, kaasfondue of raclette kan eten!",zwitsers eethuisje,positive
+Review-g188650-d786299_3:2_0,"De sfeer is top, de bediening vriendelijk en de omgeving gezellig!",sfeer,positive
+Review-g188650-d786299_3:2_1,"De sfeer is top, de bediening vriendelijk en de omgeving gezellig!",bediening,positive
+Review-g188650-d786299_3:2_2,"De sfeer is top, de bediening vriendelijk en de omgeving gezellig!",omgeving,positive
+Review-g188665-d967009_2:1_0,De bediening was goed en het interieur is in orde.,interieur,neutral
+Review-g188665-d967009_2:1_1,De bediening was goed en het interieur is in orde.,bediening,positive
+Review-g188665-d967009_2:2_0,Het eten was te duur.,eten,negative
+Review-g188665-d967009_2:3_0,Weinig eten in vergelijking met wat je betaalt.,eten,negative
+Review-g188665-d967009_2:4_0,De frietjes kwamen uit de diepvries en hadden weinig smaak.,frietjes,negative
+Review-g188665-d967009_2:5_0,De vissaus was flets en zoutig.,vissaus,negative
+Review-g188665-d967009_2:6_0,"23,90 euro vind ik persoonlijk veel geld voor 4 kleine tongrolletjes, zoute saus en puree.",saus,negative
+Review-g188665-d967009_2:6_2,"23,90 euro vind ik persoonlijk veel geld voor 4 kleine tongrolletjes, zoute saus en puree.",tongrolletjes,negative
+Review-g188665-d967009_2:7_0,"22,80 euro voor een visbrochette met 2 droge brokjes kabeljauw en 2 droge brokjes zalm vind ik ook nogal duur en eenvoudig.",visbrochette,negative
+Review-g188665-d967009_2:7_1,"22,80 euro voor een visbrochette met 2 droge brokjes kabeljauw en 2 droge brokjes zalm vind ik ook nogal duur en eenvoudig.",zalm,negative
+Review-g188665-d967009_2:7_3,"22,80 euro voor een visbrochette met 2 droge brokjes kabeljauw en 2 droge brokjes zalm vind ik ook nogal duur en eenvoudig.",kabeljauw,negative
+Review-g188665-d967009_2:7_4,"22,80 euro voor een visbrochette met 2 droge brokjes kabeljauw en 2 droge brokjes zalm vind ik ook nogal duur en eenvoudig.",zalm,negative
+Review-g188665-d967009_3:1_0,"Bij onze aankomst werden wij door de eigenaar, tot onze verbazing, op een ongelofelijke verbale manier aangepakt.",eigenaar,negative
+Review-g188665-d967009_3:4_0,Wij hebben het restaurant onmiddellijk verlaten om er nooit meer terug te komen.,restaurant,negative
+Review-g188665-d967009_3:6_0,Spijtig genoeg kunnen we over de keuken geen oordeel vellen.,keuken,neutral
+Review-g188665-d967009_4:1_0,Net terug van een totaal mislukt etentje in dit restaurant.,etentje,negative
+Review-g188665-d967009_4:3_1,"Groep van 8+4 kinderen binnen om 12u30 en hoofdgerecht, na simpele/lekkere garnaalkroket, om 14u45 ontvangen (alle kleinere tafels voor genomen incl. collega reca uitbaters uit Aalst die absolute prioriteit kregen).",garnaalkroket,neutral
+Review-g188665-d967009_4:5_0,Slechte kwaliteit vlees (geprikte pseudo filetpur =>...,vlees,negative
+Review-g188666-d1011768_1:1_0,"Het restaurant is eigenlijk een veredeld café, waar men met een minimum aan personeel zowel mogelijk geld wil binnenrijven.",restaurant,negative
+Review-g188666-d1011768_1:3_0,Hier denkt de kelner dat hij god de vader is.,kelner,negative
+Review-g188666-d1011768_2:2_0,"De setting ziet er leuk uit, informeel met de houten tafels en stoelen, de (voor dit restaurant zeer uitgebreide) menukaart op een krijtbord geschreven en de vele (lege) wijnflessen die uitgestald staan.",setting,positive
+Review-g188666-d1011768_2:2_1,"De setting ziet er leuk uit, informeel met de houten tafels en stoelen, de (voor dit restaurant zeer uitgebreide) menukaart op een krijtbord geschreven en de vele (lege) wijnflessen die uitgestald staan.",menukaart,positive
+Review-g188666-d1011768_2:3_0,Er is een indrukwekkende verzameling grand crus uit de Bourgogne en topwijnen uit Bordeaux.,topwijnen,positive
+Review-g188666-d1011768_2:3_1,Er is een indrukwekkende verzameling grand crus uit de Bourgogne en topwijnen uit Bordeaux.,grand crus,positive
+Review-g188666-d1011768_2:5_0,"Misschien wil de chef een bepaalde sfeer scheppen, hoewel ik me niet kan voorstellen wat dit dan wel moet zijn.",sfeer,negative
+Review-g188666-d1011768_2:7_0,"Waar men in de regel een ginmenu krijgt of toch op zijn minst een mondelinge opsomming van wat beschikbaar is kreeg in van de bediening de keuze tussen ""kruidig"" of ""niet kruidig"".",bediening,negative
+Review-g188666-d1011768_2:9_1,"Nu goed, niet iedereen heeft de taalvaardigheid om een destillaat in uitgebreide termen te omschrijven, dus kreeg ik uiteindelijk iets wat ik ""bijna zelf"" had gekozen uit het handvol (idd, niet meer) beschikbare gins in de gekozen categorie.",gins,negative
+Review-g188666-d1011768_2:10_0,"De apero was goed bereid, ook op die van mijn echtgenote was niets aan te merken.",apero,positive
+Review-g188666-d1011768_2:11_0,"Een amuse was mss niet slecht geweest (als toevoeging aan de 5 flinters rauwe ham), maar soit.",ham,negative
+Review-g188666-d1011768_2:16_0,"Dus, waarschijnlijk een OK restaurant als je er niet met kinderen heengaat, en je het niet erg vindt dat de bediening zich nogal verwaand gedraagt.",bediening,negative
+Review-g188666-d1011768_2:16_1,"Dus, waarschijnlijk een OK restaurant als je er niet met kinderen heengaat, en je het niet erg vindt dat de bediening zich nogal verwaand gedraagt.",restaurant,neutral
+Review-g188666-d1011768_3:1_0,"Garcon arrogant en degoutant, kan geen kritiek verdragen, en een baas (kok) die niet beweegt als er iets fout loopt.",baas,negative
+Review-g188666-d1011768_3:1_1,"Garcon arrogant en degoutant, kan geen kritiek verdragen, en een baas (kok) die niet beweegt als er iets fout loopt.",garcon,negative
+Review-g188666-d1011768_3:3_0,Gamba's waren ok maar frieten waren niet te vreten (dik slap en in ou frutuurvet gebakken!!!),frieten,negative
+Review-g188666-d1011768_3:3_1,Gamba's waren ok maar frieten waren niet te vreten (dik slap en in ou frutuurvet gebakken!!!),gamba's,positive
+Review-g188666-d1011768_3:4_0,"Garcon, volg een cursus elementaire beleefdheid en klantvriendelijkheid ipv arrogantie en onbeleefdheid, maar dit zal door gebrek aan opvoeding zijn!",garcon,negative
+Review-g188666-d1011768_3:5_0,Voor ons nooit meer naar dit omgebouwd café tot zogezegd (veel te duur) restaurant.,restaurant,negative
+Review-g188666-d1011768_4:2_0,Qua wijn hebben ze enkel de duurdere flessen.,wijn,negative
+Review-g188666-d1179195_1:1_2,"Het was leuk om hier iets kleins te eten, de keuken is wel traag maar als je niet gehaast bent is dit wel gezellig.",keuken,negative
+Review-g188666-d1179195_2:2_0,"Het eten is lekker, smaakvol en vers.",eten,positive
+Review-g188666-d1179195_2:3_0,Hun brood is heerlijk en geserveerd als bij gerecht met boter.,brood,positive
+Review-g188666-d1179195_2:4_0,"De dagsoep, vegetarisch, is warm, en gemaakt van seizoen groenten.",dagsoep,positive
+Review-g188666-d1179195_2:5_0,"Hun spaghetti bolo was correct, goed gekruid en met kaas geserveerd.",spaghetti bolo,positive
+Review-g188666-d1179195_2:6_0,Terras is best aangenaam.,terras,positive
+Review-g188666-d1179195_2:7_0,"Bediening is een beetje traag, maar vriendelijk.",bediening,neutral
+Review-g188666-d1179195_4:2_0,Je kunt wel zeven of acht verschillende soorten taart kiezen bij je koffie.,taart,positive
+Review-g188666-d1179195_4:3_0,De chocoladetaart was alvast heel lekker.,chocoladetaart,positive
+Review-g188666-d3163710_1:1_0,"veel keuze, lekker en verzorgd, gemakkelijk parking te vinden aan de vrijdagsmarkt.",vrijdagsmarkt,positive
+Review-g188666-d3163710_2:1_0,Ruime zaak met eindelijk eens degelijke tafels waar alles op past!,zaak,positive
+Review-g188666-d3163710_3:1_1,Met vrienden een gezellige en erg smakelijke avond beleefd in het Fonduehuis.,fonduehuis,positive
+Review-g188666-d3163710_3:2_0,Mooie all-in-menu's met ruime keuze en bovendien: à volonté.,all-in-menu's,positive
+Review-g188666-d3163710_3:3_0,Verse vis en vlees.,vis,positive
+Review-g188666-d3163710_3:3_1,Verse vis en vlees.,vlees,positive
+Review-g188666-d3163710_3:5_0,Keurige huiswijn.,huiswijn,positive
+Review-g188666-d3163710_3:7_0,Erg vriendelijke bediening.,bediening,positive
+Review-g188666-d3603065_1:1_0,"Per toeval daar beland, mooi interieur, geen lange wachttijd ondanks drukke bezetting, net servies en glazen, voortreffelijke schotels, betaalbaar.",schotels,positive
+Review-g188666-d3603065_1:1_1,"Per toeval daar beland, mooi interieur, geen lange wachttijd ondanks drukke bezetting, net servies en glazen, voortreffelijke schotels, betaalbaar.",servies en glazen,positive
+Review-g188666-d3603065_1:1_3,"Per toeval daar beland, mooi interieur, geen lange wachttijd ondanks drukke bezetting, net servies en glazen, voortreffelijke schotels, betaalbaar.",interieur,positive
+Review-g188666-d3603065_1:4_0,"Ribbetjes excellent gekruid, hartige sausjes.",ribbetjes,positive
+Review-g188666-d3603065_1:4_1,"Ribbetjes excellent gekruid, hartige sausjes.",sausjes,positive
+Review-g188666-d3603065_2:2_0,"Niemand van het personeel die de moeite doet om ons naar een tafel te begeleiden, wegens te druk personeelsgesprek!",personeel,negative
+Review-g188666-d3603065_2:3_0,We kiezen zelf een plaatsje en na 5 min. komt de ober ons vriendelijk vertellen dat de keuken al gesloten is.,ober,neutral
+Review-g188666-d3603065_3:3_0,Uiteindelijk hebben we voor deze zaak gekozen omdat het er gezellig en proper uitzag.,zaak,positive
+Review-g188666-d3603065_3:6_0,"Hierop hebben we niet te lang moeten wachten, vlotte bediening.",bediening,positive
+Review-g188666-d3603065_3:8_0,"De ribbetjes à volonté waren super lekker, krokant en niet aangebrand.",ribbetjes à volonté,positive
+Review-g188666-d3603065_4:2_0,De service is er vlot en goed en de ribbetjes zijn er heel lekker en niet zo vet als in eerder vermelde zaak.,ribbetjes,positive
+Review-g188666-d3603065_4:2_1,De service is er vlot en goed en de ribbetjes zijn er heel lekker en niet zo vet als in eerder vermelde zaak.,service,positive
+Review-g188666-d3803270_2:1_0,"M.i. een aanrader, toch voor de chateaubriand bouquetière: meestal heerlijk vlees en overdaad inzake hoeveelheid, de groenten zwemmen in de boter maar smelten in je mond.",chateaubriand bouquetière,positive
+Review-g188666-d3803270_2:3_0,Jammer dat de wijnen recentelijk nog eens 10-15% opgeslagen zijn (een modale 2010 châteauneuf du pape kost er nu 90 euro).,wijnen,negative
+Review-g188666-d3803270_2:3_1,Jammer dat de wijnen recentelijk nog eens 10-15% opgeslagen zijn (een modale 2010 châteauneuf du pape kost er nu 90 euro).,2010 châteauneuf du pape,negative
+Review-g188666-d3803270_2:5_0,De bar/lounge met rokers-annex is gezellig en slaagt er elke avond in mensen te overtuigen om tevblijven plakken.,bar/lounge met rokers-annex,positive
+Review-g188666-d3803270_2:6_0,"Geen top-restaurant maar toch een aanrader, zeker voor de oervlaamse bon-vivant met grotere honger.",top-restaurant,neutral
+Review-g188666-d3803270_3:2_0,We waren hier reeds verscheidene malen geweest en wisten dat de kwaliteit van de steaks top is.,steaks,positive
+Review-g188666-d3803270_3:5_0,"Al heel vlug kregen we een hapje (plakje ""Gentse Kop"") en werd onze bestelling opgenomen door een vriendelijke dame.",dame,positive
+Review-g188666-d3803270_3:15_0,Toen we uiteindelijk om 21u45 (na 2u15 wachten) onze steak kregen was de steak (die bleu gebakken moest zijn) eigenlijk koud.,steak,negative
+Review-g188666-d3803270_3:16_0,Onze vriendelijke dame heeft echter onmiddellijk ingegrepen en de steak terug meegenomen naar de keuken waarna hij perfect gebakken en warm werd geserveerd.,dame,positive
+Review-g188666-d3803270_3:16_1,Onze vriendelijke dame heeft echter onmiddellijk ingegrepen en de steak terug meegenomen naar de keuken waarna hij perfect gebakken en warm werd geserveerd.,steak,positive
+Review-g188666-d3803270_3:17_0,We hadden de chef reeds de hele avond klanten zien verwelkomen en praatjes zien slaan dus wilden we eigenlijk wel eens weten wat er aan de hand was (lange wachttijden).,chef,negative
+Review-g188666-d3803270_3:20_0,Blijkbaar moet je op zijn minst BV zijn om met de chef te kunnen praten.,chef,negative
+Review-g188666-d3803270_3:21_0,"Conclusie: kwaliteit was top maar zaakvoerder verlaagt zich niet om met gewone klanten te praten, hij laat liever de problemen oplossen door zijn personeel in plaats van zelf orde op zaken te stellen.",zaakvoerder,negative
+Review-g188666-d783278_4:2_0,Zeker de kreeft met de zes verschillende sausjes eens bestellen!,kreeft met de zes verschillende sausjes,positive
+Review-g188666-d842061_2:1_0,De meest uitgelezen zondagsbrunch die ik al heb ervaren.,zondagsbrunch,positive
+Review-g188666-d842061_2:2_0,"Een schitterend kader met uitzicht op de graslei (inderdaad, Coeur d'Artichaut is niet langer in Onderbergen gevestigd, maar op de Korenlei!).",kader,positive
+Review-g188666-d842061_2:2_1,"Een schitterend kader met uitzicht op de graslei (inderdaad, Coeur d'Artichaut is niet langer in Onderbergen gevestigd, maar op de Korenlei!).",kader,positive
+Review-g188666-d842061_2:3_0,"Het personeel is jong, spontaan, vriendelijk, en tegelijk voornaam.",personeel,positive
+Review-g188666-d842061_2:4_0,"Alles begint met een glaasje uitgelezen Prosecco, en daarna begint het eigenlijke buffet: soep, koude voorgerechten, waarme voorgerechten, een speciaal stoofpotje van de chef (dit keer was het buikspek met trompettes de la mort), kaasschotel, zoete broodjes, dessert, een een chocoladefontein.",prosecco,positive
+Review-g188666-d842061_4:2_0,Het minder goede hoteleten als brunch,brunch,negative
+Review-g188666-d842061_4:4_0,35 euro per persoon voor minderwaardig eten -beperkte keuze als brunch,eten,negative
+Review-g188666-d842061_4:4_2,35 euro per persoon voor minderwaardig eten -beperkte keuze als brunch,brunch,negative
+Review-g188666-d842061_4:5_0,Enig pluspunt: vriendelljke bediening,bediening,positive
+Review-g188669-d1091321_1:1_0,Een piepklein authentiek Italiaans restaurant vlakbij de oude markt.,italiaans restaurant,neutral
+Review-g188669-d1091321_1:2_0,"Er is een ruime keuze aan pizza's, zowel vegetarisch, vlees als vis.",pizza's,positive
+Review-g188669-d1091321_1:3_0,"Probeer de pizza 'whisky', een aanrader!",pizza 'whisky',positive
+Review-g188669-d1091321_3:1_0,"Gezellig restaurant, plaatsen op kleine 3 verdiepingen met voldoende plaats.",restaurant,positive
+Review-g188669-d1091321_3:2_2,"Snelle bediening, lekkere pizza's normale prijzen.",bediening,positive
+Review-g188669-d1091321_3:3_0,"Opmerkelijk is het aantal soorten pizza's, nooit elders gezien",pizza's,positive
+Review-g188669-d3372515_3:1_0,"De enige zaak in Leuven met écht echt, met versgemaakte sorbets waarin ook effectief fruit inzit (en geen smaakstoffen+suiker), enorm grote bollen en supervriendelijke enthousiaste bediening!",bediening,positive
+Review-g188669-d3372515_3:1_1,"De enige zaak in Leuven met écht echt, met versgemaakte sorbets waarin ook effectief fruit inzit (en geen smaakstoffen+suiker), enorm grote bollen en supervriendelijke enthousiaste bediening!",sorbets,positive
+Review-g188669-d3372515_4:1_0,Overheerlijk ijs in centrum Leuven.,ijs,positive
+Review-g188669-d3372515_4:2_0,ladeuzeplein biedt je mooie zitbanken waar je van dit heerlijk ijs kunt genieten.,ijs,positive
+Review-g188669-d3372515_4:3_0,de bolletjes ijs worden gul uitgedeeld!,bolletjes ijs,positive
+Review-g188669-d3631466_4:1_0,De porties zijn voor een brasserie vrij klein.,porties,negative
+Review-g188669-d3631466_4:2_0,"Het is lekker, maar er is bijvoorbeeld amper brood bij een omelet met spek.",omelet met spek,negative
+Review-g188669-d3631466_4:3_0,2 Kleine afgebakken broodjes en een mini omeletje zijn eigenlijk een teleurstelling.,omeletje,negative
+Review-g188669-d3631466_4:3_1,2 Kleine afgebakken broodjes en een mini omeletje zijn eigenlijk een teleurstelling.,afgebakken broodjes,negative
+Review-g188669-d3631466_4:4_0,De gerechten waren wel lekker.,gerechten,positive
+Review-g188669-d3631466_4:5_0,"Aangezien het een leffe cafe is verwachtte ik een uitgebreid assortiment aan bieren, maar dit was niet het geval.",bieren,negative
+Review-g188669-d740885_1:1_0,Het eten was niet lekker en de bediening was niet erg vriendelijk.,bediening,negative
+Review-g188669-d740885_1:1_1,Het eten was niet lekker en de bediening was niet erg vriendelijk.,eten,negative
+Review-g188669-d740885_4:2_0,De keuken is eerder Belgisch-Frans (allerlei steakbereidingen) maar wel met uitstekende ingrediënten (super mals vlees).,vlees,positive
+Review-g188669-d740885_4:2_1,De keuken is eerder Belgisch-Frans (allerlei steakbereidingen) maar wel met uitstekende ingrediënten (super mals vlees).,ingrediënten,positive
+Review-g188669-d740885_4:3_0,De bediening is zeer vriendelijk en snel.,bediening,positive
+Review-g188669-d740885_4:4_0,"Vooral het gegrilde vlees (cote à l'os, chateaubriand,...) draagt onze voorkeur weg.",gegrilde vlees,neutral
+Review-g188669-d815146_1:1_0,"het intérieur is niet hip, maar degelijk.",intérieur,neutral
+Review-g188669-d815146_3:2_0,Het restaurant is klassiek ingericht en dat straalt een charme uit.,restaurant,positive
+Review-g188669-d815146_3:4_0,Bovendien weten wij de attente service van het zaalpersoneel bijzonder te waarderen.,zaalpersoneel,positive
+Review-g188669-d815146_3:5_0,Een adresje in Leuven waar we blindelings opnieuw naar toe gaan.,adresje,positive
+Review-g188669-d815146_4:2_0,"Mijn favoriet is de Emanuelle met bananen, banenenlikeur en warme chocoladesaus.","emanuelle met bananen, banenenlikeur en warme chocoladesaus",positive
+Review-g188669-d815146_4:3_0,"Ook de Na-aper met vanille, chocomousse, banaan en advokaat is zeer lekker.","na-aper met vanille, chocomousse, banaan en advokaat",positive
+Review-g188669-d815146_4:4_1,De bediening is vlot en vriendelijk en er heerst vaak een gezellige drukte.,bediening,positive
+Review-g188671-d1045514_1:1_0,"Dit restaurant bevindt zich aan de Markt (het grote plein), wij wilden hier niet eten omdat we er al vanuit gingen dat de kwaliteit niet al te best zou zijn, het is hier heel toeristisch.",restaurant,neutral
+Review-g188671-d1045514_1:2_0,"Na enige tijd wandelen door de straten rondom het plein zagen we een gezellig tentje en besloten naar binnen te gaan, het bleek de achteringang te zijn.",tentje,positive
+Review-g188671-d1045514_1:3_0,"De prijzen zijn echt heel hoog, voor 4 dunne sneetjes verbrand stokbrood met knoflook betaal je €5,50, en tot onze grote teleurstelling kwam de pizza à +/- €13,50 uit de diepvries!",stokbrood met knoflook,negative
+Review-g188671-d1045514_1:3_2,"De prijzen zijn echt heel hoog, voor 4 dunne sneetjes verbrand stokbrood met knoflook betaal je €5,50, en tot onze grote teleurstelling kwam de pizza à +/- €13,50 uit de diepvries!",stokbrood met knoflook,negative
+Review-g188671-d1045514_1:3_3,"De prijzen zijn echt heel hoog, voor 4 dunne sneetjes verbrand stokbrood met knoflook betaal je €5,50, en tot onze grote teleurstelling kwam de pizza à +/- €13,50 uit de diepvries!",pizza,negative
+Review-g188671-d1045514_1:4_0,"Ook de bediening laat te wensen over, er kan geen glimlachje vanaf.",bediening,negative
+Review-g188671-d1045514_3:5_0,"LET OP: Als de ober je vraagt of je stokbrood met kruidenboter wilt hebben, dit kost €5,5- euro voor een bordje met 3 zielige stukjes stokbrood per persoon dus niet eens een mandje voor meer personen!",stokbrood met kruidenboter,negative
+Review-g188671-d1045514_3:5_1,"LET OP: Als de ober je vraagt of je stokbrood met kruidenboter wilt hebben, dit kost €5,5- euro voor een bordje met 3 zielige stukjes stokbrood per persoon dus niet eens een mandje voor meer personen!",stokbrood met kruidenboter,negative
+Review-g188671-d1045514_3:6_0,"De friet die je apart moet bestellen kosten €,- voor een hele kleine portie en het sausje van €3,- is veel te waterig.",sausje,negative
+Review-g188671-d1045514_3:6_1,"De friet die je apart moet bestellen kosten €,- voor een hele kleine portie en het sausje van €3,- is veel te waterig.",friet,negative
+Review-g188671-d1045514_3:7_0,"Drankjes zijn abnormaal duur, €6,- voor een cola en €9,50 voor een Belgisch biertje!",drankjes,negative
+Review-g188671-d1045514_3:9_0,"Als je achteraf de ober aanspreekt over de prijs dan is hij hier bekend mee maar ligt het aan de locatie, maar ondertussen wel zonder uitleg bordjes stokbrood verkopen voor €5,5",bordjes stokbrood,negative
+Review-g188671-d1045514_3:10_0,"Deze ondernemer heeft duidelijk geen zin om klanten te bewegen om de volgende dag terug te komen, nee elke klant die ze een poot kunnen uitdraaien is er is weer kassa en morgen lopen er weer honderden toeristen in deze val!",ondernemer,negative
+Review-g188671-d1045518_1:1_0,"ZEER SLECHTE ERVARING slechte wijn wordt verkocht als huiswijn voor 18,50€/1/2 liter men durft echter de lege fles niet laten zien omdat er op grote schaal bedrog wordt gepleegd met merk en kwaliteit frites maar half afgebakken, saus koud en op elk gerecht hetzelfde personeel is beschaamd voor de manier waarop ze het clienteel moeten bedriegen ZEKER GEEN AANRADER",frites,negative
+Review-g188671-d1045518_1:1_1,"ZEER SLECHTE ERVARING slechte wijn wordt verkocht als huiswijn voor 18,50€/1/2 liter men durft echter de lege fles niet laten zien omdat er op grote schaal bedrog wordt gepleegd met merk en kwaliteit frites maar half afgebakken, saus koud en op elk gerecht hetzelfde personeel is beschaamd voor de manier waarop ze het clienteel moeten bedriegen ZEKER GEEN AANRADER",wijn,negative
+Review-g188671-d1045518_1:1_4,"ZEER SLECHTE ERVARING slechte wijn wordt verkocht als huiswijn voor 18,50€/1/2 liter men durft echter de lege fles niet laten zien omdat er op grote schaal bedrog wordt gepleegd met merk en kwaliteit frites maar half afgebakken, saus koud en op elk gerecht hetzelfde personeel is beschaamd voor de manier waarop ze het clienteel moeten bedriegen ZEKER GEEN AANRADER",saus,negative
+Review-g188671-d1045518_1:1_5,"ZEER SLECHTE ERVARING slechte wijn wordt verkocht als huiswijn voor 18,50€/1/2 liter men durft echter de lege fles niet laten zien omdat er op grote schaal bedrog wordt gepleegd met merk en kwaliteit frites maar half afgebakken, saus koud en op elk gerecht hetzelfde personeel is beschaamd voor de manier waarop ze het clienteel moeten bedriegen ZEKER GEEN AANRADER",saus,negative
+Review-g188671-d1045518_1:1_6,"ZEER SLECHTE ERVARING slechte wijn wordt verkocht als huiswijn voor 18,50€/1/2 liter men durft echter de lege fles niet laten zien omdat er op grote schaal bedrog wordt gepleegd met merk en kwaliteit frites maar half afgebakken, saus koud en op elk gerecht hetzelfde personeel is beschaamd voor de manier waarop ze het clienteel moeten bedriegen ZEKER GEEN AANRADER",personeel,negative
+Review-g188671-d1045518_2:1_0,".. buiten in de zon op het terras aan de Eiermarkt, een leuk pleintje grenzend aan de Markt.",terras aan de eiermarkt,positive
+Review-g188671-d1045518_2:3_0,"Dit bleek betrekking te hebben op de lunch, maar we konden deze gerust bestellen, (het was over zessen in de avond) de porties waren alleen wat kleiner volgens de ober.",porties,neutral
+Review-g188671-d1045518_2:3_1,"Dit bleek betrekking te hebben op de lunch, maar we konden deze gerust bestellen, (het was over zessen in de avond) de porties waren alleen wat kleiner volgens de ober.",ober,positive
+Review-g188671-d1045518_2:6_0,"Nee dat hadden we niet, we zaten gezellig, leuke locatie, mensen kijken, prachtig weer!",locatie,positive
+Review-g188671-d1045518_2:7_0,"Na een dik half uurtje kwam mijn vissoep en die was voortreffelijk, mocht alleen wel wat warmer zijn.",vissoep,positive
+Review-g188671-d1045518_2:8_0,Ook de escargots van mijn partner waren heerlijk.,escargots,positive
+Review-g188671-d1045518_2:12_0,De ober was correct en vriendelijk.,ober,positive
+Review-g188671-d1045518_2:14_0,"Niet goedkoop, maar dat verwachtte we ook niet, ik vond Brugge over het algemeen genomen best prijzig, niet alleen Cafe Belfort.",cafe belfort,neutral
+Review-g188671-d1045518_3:1_0,Bar en bar slechte tent.,tent,negative
+Review-g188671-d1045518_3:3_0,"Ik zit er nu en we werden net gewoon uitgelachen door de ober omdat we ""maar 2 thee"" hadden besteld.",ober,negative
+Review-g188671-d1045518_3:5_0,Zelfingenomen eikels!,eikels,negative
+Review-g188671-d1045518_4:1_0,"Het eten (3 gangen) werden op 40 minuten gebracht, voorgerecht was nog eetbaar, maar de waterzooi was meer bot dan kip en zag er verschrikkelijk wansmakelijk uit, het stoofvlees was ongelofelijk droog.",waterzooi,negative
+Review-g188671-d1045518_4:1_1,"Het eten (3 gangen) werden op 40 minuten gebracht, voorgerecht was nog eetbaar, maar de waterzooi was meer bot dan kip en zag er verschrikkelijk wansmakelijk uit, het stoofvlees was ongelofelijk droog.",stoofvlees,negative
+Review-g188671-d1045518_4:1_2,"Het eten (3 gangen) werden op 40 minuten gebracht, voorgerecht was nog eetbaar, maar de waterzooi was meer bot dan kip en zag er verschrikkelijk wansmakelijk uit, het stoofvlees was ongelofelijk droog.",waterzooi,negative
+Review-g188671-d1045518_4:1_3,"Het eten (3 gangen) werden op 40 minuten gebracht, voorgerecht was nog eetbaar, maar de waterzooi was meer bot dan kip en zag er verschrikkelijk wansmakelijk uit, het stoofvlees was ongelofelijk droog.",voorgerecht,neutral
+Review-g188671-d1045518_4:1_4,"Het eten (3 gangen) werden op 40 minuten gebracht, voorgerecht was nog eetbaar, maar de waterzooi was meer bot dan kip en zag er verschrikkelijk wansmakelijk uit, het stoofvlees was ongelofelijk droog.",eten,negative
+Review-g188671-d1164103_1:1_0,"Lachwekkende vertoning, een ander schreef hier al over dat het net Fawlty Towers is.",vertoning,negative
+Review-g188671-d1164103_1:3_0,"We hadden een menu van 17 euro genomen, vooraf paté wat wel smaakte.",paté,neutral
+Review-g188671-d1164103_1:6_0,Biertje bij het eten waar ze 8 euro voor vroegen.,biertje,negative
+Review-g188671-d1164103_1:10_0,Wat een zeldzame ballentent.,ballentent,negative
+Review-g188671-d1164103_2:5_0,"Was niet verkeerd, smaak was redelijk tot goed.",smaak,neutral
+Review-g188671-d1164103_2:7_0,"Bediening was chagrijnig, er kon geen lachje vanaf.",bediening,negative
+Review-g188671-d1164103_3:1_0,"In een Fawlty Towers tafereel kreeg de vrouwelijke Basyl in ons bijzijn de mantel uitgeveegd van de vrouwelijke John Cleese, de uitbaatster.",fawlty towers tafereel,negative
+Review-g188671-d1164103_3:2_0,Het arme wicht had per ongeluk de mosselen van onze buren aan ons geserveerd.,wicht,neutral
+Review-g188671-d1164103_3:4_0,Plotseling werd de kom met mosselen door de vrouwelijke John Cleese onder mijn neus vandaan gerukt.,john cleese,negative
+Review-g188671-d1164103_3:8_0,Wegblijven bij deze ballentent is mijn enige advies.,ballentent,negative
+Review-g188671-d1164103_4:2_0,Personeel niet vriendelijk.,personeel,negative
+Review-g188671-d1164103_4:3_0,De kaart vermeld geen non-alcoholische dranken.,kaart,negative
+Review-g188671-d1164103_4:6_0,Eten was van zeer slechte kwaliteit.,eten,negative
+Review-g188671-d1164103_4:7_0,Wijn was niet te drinken.,wijn,negative
+Review-g188671-d1164712_1:1_0,Wat een vriendelijke bediening.,bediening,positive
+Review-g188671-d1164712_1:2_0,"Menu genomen met diverse kleine voorgerechtjes, geweldig lekker.",menu,positive
+Review-g188671-d1164712_1:3_0,"Daarna visgerechten, ook echt goed.",visgerechten,positive
+Review-g188671-d1164712_2:1_0,Ons etentje bij The Olive Tree was een zeer aangename verrassing.,the olive tree,positive
+Review-g188671-d1164712_2:2_0,"Het eten is er puur Grieks, de bediening ontzettend vriendelijk en attent.",eten,neutral
+Review-g188671-d1164712_2:2_1,"Het eten is er puur Grieks, de bediening ontzettend vriendelijk en attent.",bediening,positive
+Review-g188671-d1164712_2:3_0,Wij kunnen dit restaurant zowel aan de locals als aan de toeristen aanraden.,restaurant,positive
+Review-g188671-d1164712_3:1_0,Heel vriendelijk onthaal door de patron en kersverse gerechten met eerlijke wijnen.,wijnen,positive
+Review-g188671-d1164712_3:1_1,Heel vriendelijk onthaal door de patron en kersverse gerechten met eerlijke wijnen.,gerechten,positive
+Review-g188671-d1164712_3:1_2,Heel vriendelijk onthaal door de patron en kersverse gerechten met eerlijke wijnen.,patron,positive
+Review-g188671-d1164712_3:2_0,Dolmades en een nooit geziene kwaliteit van de Moussaka;,moussaka,positive
+Review-g188671-d1164712_3:3_0,"Mooie porties in een zeer gezellig kader, vlak aan de markt.",porties,positive
+Review-g188671-d1164712_3:3_1,"Mooie porties in een zeer gezellig kader, vlak aan de markt.",kader,positive
+Review-g188671-d1164712_4:1_1,"zeer vriendelijke uitbater, ik heb er lekkere gegrilde inktvis gegeten, door zijn ligging nogal duur en vooral op toeristen gericht, maar toch geen slechte ervaring!",ligging,negative
+Review-g188671-d1164712_4:1_2,"zeer vriendelijke uitbater, ik heb er lekkere gegrilde inktvis gegeten, door zijn ligging nogal duur en vooral op toeristen gericht, maar toch geen slechte ervaring!",gegrilde inktvis,positive
+Review-g188671-d1164712_4:1_3,"zeer vriendelijke uitbater, ik heb er lekkere gegrilde inktvis gegeten, door zijn ligging nogal duur en vooral op toeristen gericht, maar toch geen slechte ervaring!",uitbater,positive
+Review-g188671-d1371876_2:1_0,Zowel de kaart als de suggesties brengen je op een hoogte waar elke fijnproever van droomt.,suggesties,positive
+Review-g188671-d1371876_2:1_1,Zowel de kaart als de suggesties brengen je op een hoogte waar elke fijnproever van droomt.,kaart,positive
+Review-g188671-d1371876_2:2_0,"De betere Wijn, gin en whisky zijn hier geen onbekende en de desserts zijn voor duimen en vingers op te eten en...","wijn, gin en whisky",positive
+Review-g188671-d1371876_2:2_1,"De betere Wijn, gin en whisky zijn hier geen onbekende en de desserts zijn voor duimen en vingers op te eten en...",desserts,positive
+Review-g188671-d1371876_3:1_0,Witte sangria aan gunstig prijsje en heerlijke salade met crème brulee van geitenkaas!,salade met crème brulee van geitenkaas,positive
+Review-g188671-d1371876_3:1_1,Witte sangria aan gunstig prijsje en heerlijke salade met crème brulee van geitenkaas!,witte sangria,positive
+Review-g188671-d1371876_3:2_0,Grappige en vriendelijke ober.,ober,positive
+Review-g188671-d1371876_4:1_0,Ongelooflijk lekkere gerechten aan een ongelofelijke prijs!,gerechten,positive
+Review-g188671-d1371876_4:1_1,Ongelooflijk lekkere gerechten aan een ongelofelijke prijs!,gerechten,positive
+Review-g188671-d1371876_4:2_0,De gastvrouw is een prima kokkin en Tom is attent en vriendelijk!,kokkin,positive
+Review-g188671-d1371876_4:2_1,De gastvrouw is een prima kokkin en Tom is attent en vriendelijk!,tom,positive
+Review-g188671-d1371876_4:3_0,Eén van de betere adressen in Brugge!,adressen,positive
+Review-g188671-d1604411_1:1_0,Zeker een goed restaurant.,restaurant,positive
+Review-g188671-d1604411_1:3_0,"Hierbij kregen wij ook nog dusdanig veel amuses, dat het makkelijk als viergangen had doorgekund.",amuses,positive
+Review-g188671-d1604411_1:4_0,"Alles perfect op smaak, leuke en verrassende gerechten.",gerechten,positive
+Review-g188671-d1604411_1:6_0,De bediening vond ik vrij informeel voor de setting.,bediening,neutral
+Review-g188671-d1604411_3:1_0,"Wat een topkok, wat een heerlijke amuses",amuses,positive
+Review-g188671-d1604411_3:4_0,Vriendelijke bediening,bediening,positive
+Review-g188671-d1604411_3:5_0,Mooie wijnen,wijnen,positive
+Review-g188671-d1604411_4:3_0,Alles wordt zeer origineel gebracht en de smaken zijn top!,smaken,positive
+Review-g188671-d1604411_4:4_0,Aangezien het mijn verjaardag was kreeg ik een speciaal bordje met een lekkere afsluiter.,afsluiter,positive
+Review-g188671-d1761224_1:2_0,Lekkere wijn en hele vriendelijke bediening.,bediening,positive
+Review-g188671-d1761224_1:2_1,Lekkere wijn en hele vriendelijke bediening.,wijn,positive
+Review-g188671-d1761224_1:3_1,"Leuke muziek, kortom een hele goede keuze.",muziek,positive
+Review-g188671-d1761224_3:1_0,her restaurant heeft een beperkte kaart maar alle gerechten zijn copieus en lekker.,gerechten,positive
+Review-g188671-d1761224_3:1_1,her restaurant heeft een beperkte kaart maar alle gerechten zijn copieus en lekker.,gerechten,positive
+Review-g188671-d1761224_3:1_2,her restaurant heeft een beperkte kaart maar alle gerechten zijn copieus en lekker.,restaurant,negative
+Review-g188671-d1761224_3:2_0,"de gastvrouw, tevens Brugse gids, maakt het verschil.",gastvrouw,positive
+Review-g188671-d1960672_1:1_0,"Wat een romantisch etentje met een Grouponbon moest worden, werd een regelrechte flop.",etentje,negative
+Review-g188671-d1960672_1:3_1,"1 uur wachten op een bruchetta, die een droog stukje brood was met wat platgebakken champignons erbij!",bruchetta,negative
+Review-g188671-d1960672_1:4_0,Hoofdgerecht was pasta met diepvrieszeevruchtenmix en nul komma nul smaak!,pasta met diepvrieszeevruchtenmix,negative
+Review-g188671-d1960672_1:5_0,Echt geen restaurant waardig!!!!,restaurant,negative
+Review-g188671-d1960672_1:6_0,De enige garnituur was wat ongewassen peterselie die het gerecht volledig naar de knoppen hielp.,gerecht,negative
+Review-g188671-d1960672_1:6_1,De enige garnituur was wat ongewassen peterselie die het gerecht volledig naar de knoppen hielp.,peterselie,negative
+Review-g188671-d1960672_1:9_2,"Deze was (uit een potje), op een bord gesmeten met diepvries rode vruchten!!",rode vruchten,negative
+Review-g188671-d1960672_2:2_0,Het kader is heel typisch Italiaans.,kader,neutral
+Review-g188671-d1960672_2:3_0,Super bediening & eten heel heel lekker!,eten,positive
+Review-g188671-d1960672_2:3_1,Super bediening & eten heel heel lekker!,bediening,positive
+Review-g188671-d1960672_2:4_0,Is het enige Italiaans rest waar we komen...,italiaans rest,neutral
+Review-g188671-d1960672_3:3_0,Vriendelijke gastvrouw en no nonsense bediening.,bediening,neutral
+Review-g188671-d1960672_3:3_1,Vriendelijke gastvrouw en no nonsense bediening.,gastvrouw,positive
+Review-g188671-d1960672_3:4_0,De pizza en de pasta zijn lekker zonder meer.,pasta,neutral
+Review-g188671-d1960672_3:4_1,De pizza en de pasta zijn lekker zonder meer.,pizza,neutral
+Review-g188671-d1960672_4:1_0,Dit restaurant ademt gezelligheid uit.,restaurant,positive
+Review-g188671-d1960672_4:2_0,Het eten was lekker.....mijn zoon zou een 5 sterren hebben gegeven....indien hij dit kon doen.,eten,positive
+Review-g188671-d2166198_1:3_0,"Heel lekker salaatje met mooie verse saladesoorten, niet die die je dikwijls geserveerd krijgt, recht uit de zak!",salaatje,positive
+Review-g188671-d2166198_1:3_1,"Heel lekker salaatje met mooie verse saladesoorten, niet die die je dikwijls geserveerd krijgt, recht uit de zak!",salaatje,positive
+Review-g188671-d2166198_1:4_0,"Slaatje afgewerkt met lekkere dressing, gebakken spekjes en goede feta.",feta,positive
+Review-g188671-d2166198_1:4_1,"Slaatje afgewerkt met lekkere dressing, gebakken spekjes en goede feta.",dressing,positive
+Review-g188671-d2166198_1:5_0,Als hoofdgerecht een stukje gebakken zalm met krieltjes en verse groentjes!,groentjes,positive
+Review-g188671-d2166198_1:9_0,De vriendeljke bediening mogen we zeker ook niet na laten te vermelden.,bediening,positive
+Review-g188671-d2166198_3:3_0,"Geen spijt van gehad, het driegangen Marktmenu van €35,- was heerlijk.",driegangen marktmenu,positive
+Review-g188671-d2166198_4:2_0,"Het menu van €35,- was erg goed.",menu,positive
+Review-g188671-d2166198_4:3_0,De smaken van de gerechten kwamen goed tot hun recht.,gerechten,neutral
+Review-g188671-d2166198_4:4_0,De sfeer in dit prachtige gebouw is ongedwongen en plezierig.,sfeer,positive
+Review-g188671-d2166198_4:5_0,Wij kunnen dit restaurant in Brugge zeker aanbevelen.,restaurant,positive
+Review-g188671-d2294477_2:1_0,"Erg vlotte bediening, toffe sfeer en daarenboven zeer lekkere ribbetjes.",ribbetjes,positive
+Review-g188671-d2294477_2:1_1,"Erg vlotte bediening, toffe sfeer en daarenboven zeer lekkere ribbetjes.",sfeer,positive
+Review-g188671-d2294477_2:1_2,"Erg vlotte bediening, toffe sfeer en daarenboven zeer lekkere ribbetjes.",bediening,positive
+Review-g188671-d2294477_2:3_0,Enig minpuntje: moeilijk parking te vinden in de buurt,buurt,negative
+Review-g188671-d2294477_3:1_0,Vriendelijke ontvangst en heel vlotte bediening achteraf.,bediening,positive
+Review-g188671-d2294477_3:1_1,Vriendelijke ontvangst en heel vlotte bediening achteraf.,ontvangst,positive
+Review-g188671-d2294477_3:2_0,De kwaliteit van de schotels is heel goed (wel niet de ribs genomen) en de porties zijn enorm.,porties,positive
+Review-g188671-d2294477_3:2_1,De kwaliteit van de schotels is heel goed (wel niet de ribs genomen) en de porties zijn enorm.,schotels,positive
+Review-g188671-d2330356_1:1_0,"het was even geleden... maar gisteren een onverwachte stop gemaakt, en natuurlijk niet kunnen weerstaan aan deze zoete verleidingen.... brownie met gember was superjammie!!!!!",brownie met gember,positive
+Review-g188671-d2330356_4:1_0,hele lekkere patisserie!,patisserie,positive
+Review-g188671-d2330356_4:2_0,ongelofelijke eclairs..,eclairs,positive
+Review-g188671-d2330356_4:3_0,Maar het brood vind ik veeel te duur!,brood,negative
+Review-g188671-d2330356_4:4_0,leuk dat je kan binnenkijken in de atelier!,atelier,positive
+Review-g188671-d3162667_2:4_0,"Het ontbijt is verzorgd, vers en lekker.",ontbijt,positive
+Review-g188671-d3162667_2:5_0,Er is keuze tussen verschillende formules.,keuze,positive
+Review-g188671-d3162667_2:6_0,De bediening is vlot en vriendelijk.,bediening,positive
+Review-g188671-d3162667_4:8_0,"Hoewel we vlot onze drankjes kregen, duurde het wel nogal lang totdat de man onze bestelling van eten kwam opnemen.",man,neutral
+Review-g188671-d3162667_4:9_0,"Keuze is beperkt, belegde bagels, speciale croques van dikke sneden brood, kaas/vleesbordje,. uiteindelijk namen zowel ik als mijn vriendin een croque.",keuze,negative
+Review-g188671-d3162667_4:17_0,"Ik begrijp dat de vrouw in de keuken ook maar twee handen heeft, maar de man stond ondertussen achter de bar -als ik me niet vergis -met zijn gsm te spelen.",man,negative
+Review-g188671-d3162667_4:19_0,Ook na het eten duurde het minstens nog 10 min (en een wenkgebaar van ons) voor de man onze borden kwam afruimen en ons vroeg of we nog iets wensten.,man,negative
+Review-g188671-d3162667_4:21_0,"Deze kwam even traag als de rest van de bediening, dus zijn we gaan betalen aan de bar.",bediening,negative
+Review-g188671-d3162667_4:24_0,Pluspunt: het eten was lekker en verzorgd.,eten,neutral
+Review-g188671-d3162667_4:26_0,"Prijzen zijn ook echt aan de dure kant voor lunch, als ik ruim 15 euro betaal voor lunch heb ik op meeste bistro's daarvoor al een biefstuk+friet, vol-au-vent, of een verzorgd bord pasta.",lunch,negative
+Review-g188671-d3318591_2:1_0,"Het was aangenaam vertoefen, heel vriendelijk mensen en het eten was zeker naar behoren, een snelle degelijke hap.",eten,neutral
+Review-g188671-d3318591_2:1_1,"Het was aangenaam vertoefen, heel vriendelijk mensen en het eten was zeker naar behoren, een snelle degelijke hap.",mensen,positive
+Review-g188671-d3318591_2:2_0,Iemand die gek is op self-made ice tea is op het juiste adres.,self-made ice tea,positive
+Review-g188671-d3318591_3:1_0,"Super lekker eten, vers, leuk gebracht, grote portie.",eten,positive
+Review-g188671-d3318591_3:1_1,"Super lekker eten, vers, leuk gebracht, grote portie.",portie,positive
+Review-g188671-d3318591_3:1_2,"Super lekker eten, vers, leuk gebracht, grote portie.",eten,positive
+Review-g188671-d3318591_3:2_0,"Super bediening, vriendelijk en attent.",bediening,positive
+Review-g188671-d3318591_4:1_0,"Uiterst gezellige familiezaak, waar ze 'service with a smile' hoog in het vaandel dragen.",service,positive
+Review-g188671-d3318591_4:1_1,"Uiterst gezellige familiezaak, waar ze 'service with a smile' hoog in het vaandel dragen.",familiezaak,positive
+Review-g188671-d3318591_4:2_0,De uitbaters leggen je er echt in de watten.,uitbaters,positive
+Review-g188671-d3318591_4:3_0,"Je kan er terecht voor een uitgebreid ontbijt, een lichte lunch of een afternoon tea.",ontbijt,positive
+Review-g188671-d3318591_4:4_0,"Toppers zijn de verse chocolademelk, de Victoria spongecake, cheesecake en de 'scrambled eggs'-bagel.",victoria spongecake,positive
+Review-g188671-d3318591_4:4_1,"Toppers zijn de verse chocolademelk, de Victoria spongecake, cheesecake en de 'scrambled eggs'-bagel.",cheesecake,positive
+Review-g188671-d3318591_4:4_2,"Toppers zijn de verse chocolademelk, de Victoria spongecake, cheesecake en de 'scrambled eggs'-bagel.",chocolademelk,positive
+Review-g188671-d3318591_4:4_3,"Toppers zijn de verse chocolademelk, de Victoria spongecake, cheesecake en de 'scrambled eggs'-bagel.",scrambled eggs'-bagel,positive
+Review-g188671-d3318591_4:5_0,"Allemaal huisgemaakt, uiteraard!",allemaal,positive
+Review-g188671-d3570292_1:1_0,"De seizoensgebonden kaart, geweldige bediening en de prettige ambiance, maakt het dat dit restaurant zeer goed is!",restaurant,positive
+Review-g188671-d3570292_1:1_1,"De seizoensgebonden kaart, geweldige bediening en de prettige ambiance, maakt het dat dit restaurant zeer goed is!",ambiance,positive
+Review-g188671-d3570292_1:1_2,"De seizoensgebonden kaart, geweldige bediening en de prettige ambiance, maakt het dat dit restaurant zeer goed is!",bediening,positive
+Review-g188671-d3570292_1:1_3,"De seizoensgebonden kaart, geweldige bediening en de prettige ambiance, maakt het dat dit restaurant zeer goed is!",kaart,positive
+Review-g188671-d3570292_2:2_0,Het was genieten van de atmosfeer en het eten.,eten,positive
+Review-g188671-d3570292_2:2_1,Het was genieten van de atmosfeer en het eten.,atmosfeer,positive
+Review-g188671-d3570292_2:3_0,"De broers brengen je een pure, verfijnde en kwaliteitsvolle keuken in een sprookjesachtig kader.",kader,positive
+Review-g188671-d3570292_2:3_1,"De broers brengen je een pure, verfijnde en kwaliteitsvolle keuken in een sprookjesachtig kader.",keuken,positive
+Review-g188671-d3570292_3:1_0,"Pomperlut is een sfeervol restaurant, mooi ingericht en cosy.",pomperlut,positive
+Review-g188671-d3570292_3:2_0,Weinig keus maar toch voldoende om je een lekker menuutje te laten serveren.,menuutje,positive
+Review-g188671-d3570292_3:2_1,Weinig keus maar toch voldoende om je een lekker menuutje te laten serveren.,keus,neutral
+Review-g188671-d3570292_3:3_0,De service is een beetje koel maar toch correct.,service,neutral
+Review-g188671-d3570292_4:1_0,"Een sfeervol, gezellig kader.",kader,positive
+Review-g188671-d3570292_4:4_1,"We gaan zeker terug, maar misschien alleen met vrouwen, want peter, die ons bediende was een streling voor het oog.",peter,positive
+Review-g188671-d3617522_1:1_0,Per toeval in dit 'huisje' beland waar we op het binnenterras genoten hebben van een lekker stukje 'Limousin' vlees.,limousin' vlees,positive
+Review-g188671-d3617522_1:2_0,"Super toffe bediening, aangepaste wijntjes en dat in een mooi en rustig kader, weg van de drukte aan 't Zand en zijn toeristenvallen.",bediening,positive
+Review-g188671-d3617522_1:2_1,"Super toffe bediening, aangepaste wijntjes en dat in een mooi en rustig kader, weg van de drukte aan 't Zand en zijn toeristenvallen.",wijntjes,neutral
+Review-g188671-d3617522_1:2_2,"Super toffe bediening, aangepaste wijntjes en dat in een mooi en rustig kader, weg van de drukte aan 't Zand en zijn toeristenvallen.",kader,positive
+Review-g188671-d3617522_3:1_1,Het was een verademing voor ons om even uit de drukte van de markt in Brugge in alle rust en zeer sfeervol te genieten van een heerlijke maaltijd.,maaltijd,positive
+Review-g188671-d3617522_3:2_0,Al in het menu wordt je geïnformeerd over lactose- en glutenvrije recepten.,menu,positive
+Review-g188671-d3617522_3:3_0,De combinatie met de wijn soorten was bijzonder.,combinatie met de wijn soorten,positive
+Review-g188671-d3617522_4:2_0,In dit restaurant lukt het wel.,restaurant,positive
+Review-g188671-d5944255_1:1_0,"Als in Brugge wonend, is dit restaurant een echte aanrader en ééntje dat ik andere zou aanraden.",restaurant,positive
+Review-g188671-d5944255_1:2_0,Het is er verzorgd en heel verse voedsel.,voedsel,positive
+Review-g188671-d5944255_1:3_0,De chef toont een grote gedrevenheid en passie voor zijn vak.,chef,positive
+Review-g188671-d5944255_2:1_1,"Heb hier al verschillende malen gegeten en telkens vlotte bediening, heel lekker om te eten, mooi gepresenteerd en ruime porties ook.",porties,positive
+Review-g188671-d5944255_2:1_3,"Heb hier al verschillende malen gegeten en telkens vlotte bediening, heel lekker om te eten, mooi gepresenteerd en ruime porties ook.",bediening,positive
+Review-g188671-d5944255_2:2_1,Heel redelijk van prijs en veel gerechten dat je ergens anders niet direct Zal vinden.,gerechten,positive
+Review-g188671-d5944255_2:3_0,De Lasagne is super.,lasagne,positive
+Review-g188671-d5944255_3:2_0,Niet het gewone alledaagse restaurant maar eens iets anders.,restaurant,positive
+Review-g188671-d5944255_3:3_0,"Mooi, modern interieur en een kok waar je aan merkt dat hij enorm gepassioneerd met eten bezig is!",interieur,positive
+Review-g188671-d5944255_3:3_1,"Mooi, modern interieur en een kok waar je aan merkt dat hij enorm gepassioneerd met eten bezig is!",kok,positive
+Review-g188671-d5944255_3:4_0,"De verse limonade vonden we wat bitter afsmaken maar het eten, in ons geval een salade met zalm en een quiche smaakten ongelooflijk goed.",limonade,negative
+Review-g188671-d5944255_3:4_1,"De verse limonade vonden we wat bitter afsmaken maar het eten, in ons geval een salade met zalm en een quiche smaakten ongelooflijk goed.",salade met zalm en een quiche,positive
+Review-g188671-d5944255_3:5_0,"En dan heb ik het nog niet gehad over het dessert, een eigen versie van een snicker een absolute aanrader.",dessert,positive
+Review-g188671-d5944255_4:3_0,Wanneer je binnen stapt in dit restaurantje wordt je onder gedompeld in wat volgens mij de ideale wereld moet zijn volgens deze twee leuke jonge mensen.,restaurantje,positive
+Review-g188671-d5944255_4:4_2,"Op een uurtje tijd kom je tot rust, eet je fantastisch lekker en zie je twee mensen die voor 100% achter dit concept staan.",mensen,positive
+Review-g188671-d694742_1:1_0,Wij hebben heerlijk gegeten en genoten van de lekkere wijn.,wijn,positive
+Review-g188671-d694742_1:2_0,"Bediening was keurig, ambiance sfeervol en gezellig.",ambiance,positive
+Review-g188671-d694742_1:2_1,"Bediening was keurig, ambiance sfeervol en gezellig.",bediening,neutral
+Review-g188671-d694742_2:1_0,"Het Parkrestaurant is zeker de moeite waard, wel eerder te beoordelen als een totaalconcept: zeer vriendelijke en persoonlijke ontvangst, mooi, gezellig en stijlvol interieur, warme sfeer, goede achtergrondmuziek (wij zaten in het tweede gedeelte op een tussenverdieping, aan te raden)",sfeer,positive
+Review-g188671-d694742_2:1_1,"Het Parkrestaurant is zeker de moeite waard, wel eerder te beoordelen als een totaalconcept: zeer vriendelijke en persoonlijke ontvangst, mooi, gezellig en stijlvol interieur, warme sfeer, goede achtergrondmuziek (wij zaten in het tweede gedeelte op een tussenverdieping, aan te raden)",interieur,positive
+Review-g188671-d694742_2:1_2,"Het Parkrestaurant is zeker de moeite waard, wel eerder te beoordelen als een totaalconcept: zeer vriendelijke en persoonlijke ontvangst, mooi, gezellig en stijlvol interieur, warme sfeer, goede achtergrondmuziek (wij zaten in het tweede gedeelte op een tussenverdieping, aan te raden)",ontvangst,positive
+Review-g188671-d694742_2:1_3,"Het Parkrestaurant is zeker de moeite waard, wel eerder te beoordelen als een totaalconcept: zeer vriendelijke en persoonlijke ontvangst, mooi, gezellig en stijlvol interieur, warme sfeer, goede achtergrondmuziek (wij zaten in het tweede gedeelte op een tussenverdieping, aan te raden)",parkrestaurant,positive
+Review-g188671-d694742_2:2_0,"De keuken is op het niveau van de ""goede burgerkeuken"", verwacht geen topgastronomie.",keuken,neutral
+Review-g188671-d694742_2:3_0,De gerechten zijn heel lekker en de porties ruim er wordt met verse ingrediënten gewerkt.,gerechten,positive
+Review-g188671-d694742_2:3_1,De gerechten zijn heel lekker en de porties ruim er wordt met verse ingrediënten gewerkt.,porties,positive
+Review-g188671-d694742_2:4_0,"De bediening is vriendelijk en attent (veel personeel aanwezig) maar mist wat ervaring en vlotheid, soms nogal onhandig.",bediening,neutral
+Review-g188671-d694742_2:5_0,"Er is misschien 1 aandachtspunt: het sanitair is heel netjes en ruim, maar er is slechts 1 toilet voor dames en 1 voor heren.",sanitair,neutral
+Review-g188671-d694742_3:1_0,goed eten de bediening is ook heel attent en weet waar ze over praten zoals de wijn en wat vooreten je op je bord krijgt,eten,positive
+Review-g188671-d694742_3:1_1,goed eten de bediening is ook heel attent en weet waar ze over praten zoals de wijn en wat vooreten je op je bord krijgt,bediening,positive
+Review-g188671-d694742_3:2_0,Ook de persoonlijke aandacht van de chef is heel leuk ik zou iedereen aanraden dit restaurant een keer te bezoeken wel reserveren via internet,chef,positive
+Review-g188671-d694742_3:2_1,Ook de persoonlijke aandacht van de chef is heel leuk ik zou iedereen aanraden dit restaurant een keer te bezoeken wel reserveren via internet,restaurant,positive
+Review-g188671-d694742_4:1_0,We hebben vorig weekend bij Park Restaurant gegeten om de verjaardag van mijn vriend te vieren en het was een zeer geslaagde avond.,park restaurant,positive
+Review-g188671-d694742_4:2_1,"Het menu was om van te smullen, de wijn paste uitstekend bij de gerechten, en we zijn zeer vriendelijk ontvangen.",wijn,positive
+Review-g188671-d694742_4:2_2,"Het menu was om van te smullen, de wijn paste uitstekend bij de gerechten, en we zijn zeer vriendelijk ontvangen.",menu,positive
+Review-g188671-d741857_1:1_1,"Onbeschofte bediening, zeer hoge prijzen, 51 euro voor 3 koffie, 3 ""appelgebak"" en 2 cola.",bediening,negative
+Review-g188671-d741857_3:1_0,"Personeel kijkt je niet aan, kwakken je eten op je tafel en nemen niet eens de moeite om iets tegen je te zeggen.",personeel,negative
+Review-g188671-d741857_3:2_0,Als je om brood vraag krijg je een stapel boterhammen uit een plastic zak.,brood,negative
+Review-g188671-d741857_3:3_0,En dat tegen de prijzen; 4 Euro 80 voor een pilsje en zes en halve Euro voor een glas witte huiswijn.,prijzen,negative
+Review-g188671-d741857_3:5_0,Mijden dit restaurant.,restaurant,negative
+Review-g188671-d897856_1:2_0,Prima ambiance en een aantrekkelijke kaart.,kaart,positive
+Review-g188671-d897856_1:2_1,Prima ambiance en een aantrekkelijke kaart.,ambiance,positive
+Review-g188671-d897856_1:4_0,De gastvrouw is bijzonder attent.,gastvrouw,positive
+Review-g188671-d897856_1:5_0,Een aandachtspuntje wat mij betreft is het gebruik van kruiden; waar de soep naar mijn smaak juist een te uitgesproken pepersmaak had waardoor andere smaken worden overschaduwd waren de hertennootjes juist nogal 'laf' gekruid.,hertennootjes,negative
+Review-g188671-d897856_1:5_1,Een aandachtspuntje wat mij betreft is het gebruik van kruiden; waar de soep naar mijn smaak juist een te uitgesproken pepersmaak had waardoor andere smaken worden overschaduwd waren de hertennootjes juist nogal 'laf' gekruid.,soep,negative
+Review-g188671-d897856_2:1_0,Dit kleine restaurant in een Brugs zijstraatje is een echte aanrader.,restaurant,positive
+Review-g188671-d897856_2:4_0,Vooral de babykreeft met waterzooi heeft me zeer aangenaam verrast.,babykreeft met waterzooi,positive
+Review-g188671-d897856_4:2_0,"Eindelijk weer eens een klassieke keuken, vers en lekker zonder alteveel cinema!",keuken,positive
+Review-g188672-d1915624_1:2_0,De bediening was zeer vlot.,bediening,positive
+Review-g188672-d1915624_1:5_0,Het eten was lekker.,eten,positive
+Review-g188672-d1915624_1:6_0,Veel keuze en iedereen was tevreden over zijn/haar gerecht.,keuze,positive
+Review-g188672-d1915624_1:6_1,Veel keuze en iedereen was tevreden over zijn/haar gerecht.,gerecht,positive
+Review-g188672-d1915624_1:7_0,Een dikke pluim voor het personeel van deze zaak!,personeel,positive
+Review-g188672-d1915624_2:4_0,"Jammer genoeg hebben we dit de laatste jaren steeds meer zien wegdeemsteren tot een niveau vér beneden alle peil: klant-onvriendelijke patron, slecht eten en geen service...",service,negative
+Review-g188672-d1915624_2:4_1,"Jammer genoeg hebben we dit de laatste jaren steeds meer zien wegdeemsteren tot een niveau vér beneden alle peil: klant-onvriendelijke patron, slecht eten en geen service...",eten,negative
+Review-g188672-d1915624_2:4_2,"Jammer genoeg hebben we dit de laatste jaren steeds meer zien wegdeemsteren tot een niveau vér beneden alle peil: klant-onvriendelijke patron, slecht eten en geen service...",patron,negative
+Review-g188672-d1915624_4:2_0,"Deze keer nam ik de vissoep 'kleine bouillabaise' deze was naar mijn mening zeer ondermaats, De soep smaakte niet naar vis, er was een groot stuk zalm in (wat ik niet graag lust: dus niet hun fout) er was de kop van een langoust in (lust ik wel graag) dus jammer genoeg enkel de kop.",vissoep 'kleine bouillabaise,negative
+Review-g188672-d1915624_4:7_0,En zeggen dat we deze zaak reeds aanbevolen aan vrienden.,zaak,negative
+Review-g188672-d2414248_1:1_1,"Vlees en vis van de beste kwaliteit, vriendelijk geserveerd op een professionele wijze.",vis,positive
+Review-g188672-d2414248_1:1_2,"Vlees en vis van de beste kwaliteit, vriendelijk geserveerd op een professionele wijze.",vlees,positive
+Review-g188672-d2414248_2:1_1,Ik heb niets aan te merken op de kwaliteit van het eten maar het is gewoon te duur.,eten,neutral
+Review-g188672-d2414248_2:2_0,"De irish coffee komt de baas inderdaad aan tafel maken, je betaalt er 10 euro voor en dit is ook gewoon té duur.",irish coffee,negative
+Review-g188672-d2414248_2:2_1,"De irish coffee komt de baas inderdaad aan tafel maken, je betaalt er 10 euro voor en dit is ook gewoon té duur.",baas,neutral
+Review-g188672-d2414248_3:1_1,"Supervriendelijke bediening, heel lekker eten en zeer hondvriendelijk!",eten,positive
+Review-g188672-d2414248_3:1_2,"Supervriendelijke bediening, heel lekker eten en zeer hondvriendelijk!",bediening,positive
+Review-g188672-d2722090_1:2_0,2 van ons hadden de zalm besteld van om en bij de 24€ met frietjes 1 had de steak (nog geen 125 gr) 23€ met frietjes 1 had saté 19€ met frietjes 1 scampi in curry met brood het stukje zalm was niet om aan te zien en de steak bijna niet te vinden.,steak,negative
+Review-g188672-d2722090_1:2_1,2 van ons hadden de zalm besteld van om en bij de 24€ met frietjes 1 had de steak (nog geen 125 gr) 23€ met frietjes 1 had saté 19€ met frietjes 1 scampi in curry met brood het stukje zalm was niet om aan te zien en de steak bijna niet te vinden.,stukje zalm,negative
+Review-g188672-d2722090_1:2_2,2 van ons hadden de zalm besteld van om en bij de 24€ met frietjes 1 had de steak (nog geen 125 gr) 23€ met frietjes 1 had saté 19€ met frietjes 1 scampi in curry met brood het stukje zalm was niet om aan te zien en de steak bijna niet te vinden.,steak,negative
+Review-g188672-d2722090_1:4_0,1 schotel friet voor 5 volwassen personen was ruim ondermaats en bijbestelde friet kwam nadat onze borden reeds geruime tijd leeg was.,friet,negative
+Review-g188672-d2722090_1:6_0,Nadat wij de patroon van ons ongenoegen hadden op de hoogte gebracht heeft hij ons arrogant te woord gestaan en ons gewezen dat dit de normale porties zijn die hij zijn klanten voorschotelt.,patroon,negative
+Review-g188672-d2722090_3:4_0,Voorgerechten: 'Licht gebakken tonijn' was doorbakken.,licht gebakken tonijn,negative
+Review-g188672-d2722090_3:5_0,"'Scampi in de look' was niet overdreven, ze zwemden in de boter, ongeloofelijk veel look.",scampi in de look,negative
+Review-g188672-d2722090_3:7_0,"Hoofdgerechten Gebakken ribbetjes met 3 sauzen, ribbetje was precies al eens opgewarmd geweest, de smaak was wat vreemd, maar ik dacht aan een vreemde marinade.",ribbetje,negative
+Review-g188672-d2722090_3:8_0,"De sausjes (huisgemaakt?) hadden precies meerdere kleuren (voor de duidelijkheid, dezelfde saus had verschillende kleuren na er in te hebben geroerd).",sausjes,neutral
+Review-g188672-d2722090_3:9_0,Ook hangde er veel vet aan de ribbetjes.,ribbetjes,negative
+Review-g188672-d2722090_3:10_0,"De steak met bearnaisesaus van mijn vriendin werd saignant besteld, maar bien cuit geleverd, na dit duidelijk te maken antwoord de ober, oh ik zei bc maar ik wist het eigenlijk niet, zal wel saignant zijn, de steak was net niet zwart...",ober,negative
+Review-g188672-d2722090_3:11_0,"De frietjes... wel om in dezelfde sfeer te blijven als andere commentaren, zelfs deze in de MacDonalds zijn beter.",frietjes,negative
+Review-g188672-d2722090_3:12_0,Het slaatje dat er werd bijgegeven was ok.,slaatje,neutral
+Review-g188672-d2722090_3:13_0,"Het dessert was nog het beste, maar wij hadden geluk blijkbaar.",dessert,positive
+Review-g188672-d2722090_3:14_0,"Dezelfde tiramisu bij de buren was keihard en enkel warm aan de onderkant, klinkt als microgolf voor mij.",tiramisu,positive
+Review-g188672-d2722090_3:16_0,"Mijn vriendin had appeltaart, die ze wel ok vond.",appeltaart,neutral
+Review-g188672-d2722090_3:17_0,De wijn... laat ons zeggen dat ik er al betere heb gedronken voor voor veel minder dan 22 euro.,wijn,negative
+Review-g188672-d2722090_3:17_1,De wijn... laat ons zeggen dat ik er al betere heb gedronken voor voor veel minder dan 22 euro.,wijn,negative
+Review-g188672-d2722090_3:22_0,"Deze zaak zou moeten gesloten worden, want ik ben duidelijk niet de enige die hier een slechte ervaring heeft meegemaakt.",zaak,negative
+Review-g188672-d2722090_4:3_0,"Toen we na een halfuur eindelijk ons eten aan tafel kregen, namen wij elk 1 hap van ons gerecht om dan tot besef te komen dat het niet te vreten was!",gerecht,negative
+Review-g188672-d2722090_4:4_0,"De pasta carbonara was niks meer dan een harde laag koude kaas, room en doorweekte spaghetti, en de pannenkoeken waren precies gemaakt in een pan dat ze al dagen niet hadden gewassen.",pannenkoeken,negative
+Review-g188672-d2722090_4:4_1,"De pasta carbonara was niks meer dan een harde laag koude kaas, room en doorweekte spaghetti, en de pannenkoeken waren precies gemaakt in een pan dat ze al dagen niet hadden gewassen.",pasta carbonara,negative
+Review-g188672-d2722090_4:6_0,"De ober (een jobstudent) ging terug naar de keuken met onze borden maar wij kregen deze gewoon terug, en de chef zei dat deze beide gerechten normaal waren en er niks mis mee was.",chef,negative
+Review-g188672-d2722090_4:7_0,"Omdat mijn vriend amper 2 happen had genomen van zijn pasta, weigerde hij deze te betalen, waarna het keukenpersoneel heel frank deed en ons dwong om te betalen!!!!!!!",keukenpersoneel,negative
+Review-g188672-d2722090_4:10_0,Als ik kon zou ik het aan het restaurant zelf een bordje plaatsen om het aan alle bezoekers af te raden!!!!!!!!!!!!!!!!!!!,restaurant,negative
+Review-g188672-d3165028_1:1_0,Fijn en gezellig familiaal restaurant.,restaurant,positive
+Review-g188672-d3165028_1:2_2,Klasse maaltijden en positief qua prijs/kwaliteit.,maaltijden,positive
+Review-g188672-d3165028_1:4_0,"Toffe mensen met een fijne, vriendschappelijke en verzorgde uitstraling.",mensen,positive
+Review-g188672-d3165028_2:1_0,"Fijne en gezellige bediening, klasse maaltijden.",maaltijden,positive
+Review-g188672-d3165028_2:1_1,"Fijne en gezellige bediening, klasse maaltijden.",bediening,positive
+Review-g188672-d3165028_2:2_0,Voor mij zeker het tofste en leukste restaurantje in Oostende.,restaurantje,positive
+Review-g188672-d3165028_2:3_1,Ik zal hier nog geregeld binnenspringen en dan niet alleen voor het lekkere eten maar ook voor de gastvrijheid.,eten,positive
+Review-g188672-d3165028_3:1_0,Ten eerste zijn we heel leuk ontvangen door het personeel.,personeel,positive
+Review-g188672-d3165028_3:2_0,Toen kwam het eten en dat was perfect!,eten,positive
+Review-g188672-d3165028_3:3_0,Lekkerste lam en kip in tijden.,lam en kip,positive
+Review-g188672-d3165028_3:4_0,De couscous was daarnaast ook zeer goed bereid.,couscous,positive
+Review-g188672-d3165028_4:1_2,Alles tip top in orde... eten super lekker... hele vriendelijke bediening en nog zoveel meer... heel leuk ook voor familie gelegenheden... weinig geld en heel veel om te eten...,bediening,positive
+Review-g188672-d3165028_4:1_3,Alles tip top in orde... eten super lekker... hele vriendelijke bediening en nog zoveel meer... heel leuk ook voor familie gelegenheden... weinig geld en heel veel om te eten...,eten,positive
+Review-g188672-d3750960_1:1_0,"Gezellig vernieuwd terras, maar omdat het frisjes was toch maar binnen gaan eten.",terras,positive
+Review-g188672-d3750960_1:2_0,"Zeer verouderd restaurant, stoffige gordijnen, zitbanken en stoelen serieus beschadigd, mosselen natuur besteld.",restaurant,negative
+Review-g188672-d3750960_1:4_0,Keteltje geroest en goed beschadigd.,keteltje,negative
+Review-g188672-d3750960_1:5_0,"Platte frietjes erbij gekregen, zure en lopende mayo.",frietjes,negative
+Review-g188672-d3750960_1:5_1,"Platte frietjes erbij gekregen, zure en lopende mayo.",mayo,negative
+Review-g188672-d3750960_1:6_0,"Vriendin had vol au vent, maar die zag eruit alsof ie al eens gegeten was...",vol au vent,negative
+Review-g188672-d3750960_2:4_0,Zéér onvriendelijk personeel eten was zeer matig.,eten,negative
+Review-g188672-d3750960_2:4_1,Zéér onvriendelijk personeel eten was zeer matig.,personeel,negative
+Review-g188672-d3750960_4:1_0,"Dit is zeker geen aanrader, het eten is zeer flauw",eten,negative
+Review-g188672-d3750960_4:2_0,"Als je graag goed eet is dit zeker niet een restaurant die je moet nemen, er zijn veel betere in Oostende, spijtig want de locatie is prachtig... op de markt",restaurant,negative
+Review-g188672-d3750960_4:2_1,"Als je graag goed eet is dit zeker niet een restaurant die je moet nemen, er zijn veel betere in Oostende, spijtig want de locatie is prachtig... op de markt",locatie,positive
+Review-g188672-d3852991_1:2_0,"Stel je geen toprestaurant voor, maar... wij werden vriendelijk ontvangen, kregen een correcte bediening en lekker eten.",bediening,positive
+Review-g188672-d3852991_1:2_1,"Stel je geen toprestaurant voor, maar... wij werden vriendelijk ontvangen, kregen een correcte bediening en lekker eten.",eten,positive
+Review-g188672-d3852991_2:1_0,"zijn er gaan eten op zondagavond 02 november met bon van groupon, hadden een brede keuze uit menu's, kregen een mooie tafel aan het venster met kaarslicht, goede en snelle bediening.",bediening,positive
+Review-g188672-d3852991_2:1_1,"zijn er gaan eten op zondagavond 02 november met bon van groupon, hadden een brede keuze uit menu's, kregen een mooie tafel aan het venster met kaarslicht, goede en snelle bediening.",menu's,positive
+Review-g188672-d3852991_2:1_2,"zijn er gaan eten op zondagavond 02 november met bon van groupon, hadden een brede keuze uit menu's, kregen een mooie tafel aan het venster met kaarslicht, goede en snelle bediening.",tafel,positive
+Review-g188672-d3852991_2:2_0,"het eten echt lekker, niets op aan te merken.",eten,positive
+Review-g188672-d3852991_3:1_0,"We zaten op het terras vol in de herfstzon, heerlijk plekje!",terras,positive
+Review-g188672-d3852991_3:3_0,Menu kaart onduidelijk (Frans en Nederlands door elkaar).,menu kaart,negative
+Review-g188672-d3852991_3:4_0,Wel redelijk lekkere soep en garnalen kroketten.,garnalen kroketten,neutral
+Review-g188672-d3852991_3:4_1,Wel redelijk lekkere soep en garnalen kroketten.,soep,neutral
+Review-g188672-d3852991_3:5_0,Maar de dame uit de bediening schold twee andere gasten uit om een meningsverschil op het bonnetje.,dame,negative
+Review-g188672-d3852991_4:3_0,"Inderdaad, lang wachten, drank niet gekoeld, onbeleefde, neen, onbeschofte bediening, aangebrand voedsel en als je dan als klant voorzichtig een opmerking maakt, moet je (dixit) ""stoppen met zeveren""...",drank,negative
+Review-g188672-d3852991_4:3_1,"Inderdaad, lang wachten, drank niet gekoeld, onbeleefde, neen, onbeschofte bediening, aangebrand voedsel en als je dan als klant voorzichtig een opmerking maakt, moet je (dixit) ""stoppen met zeveren""...",bediening,negative
+Review-g188672-d3852991_4:3_2,"Inderdaad, lang wachten, drank niet gekoeld, onbeleefde, neen, onbeschofte bediening, aangebrand voedsel en als je dan als klant voorzichtig een opmerking maakt, moet je (dixit) ""stoppen met zeveren""...",voedsel,negative
+Review-g188672-d3852991_4:4_0,Het is mijn persoonlijke indruk dat deze zaak draait op (dagjes-)toeristen of klanten die hier één maal komen en daarna nooit meer.,zaak,neutral
+Review-g188672-d4570177_1:1_0,Als je een snelle hap wilt in Oostende zijn er tientallen andere adresjes dan de McDonalds!!!!,mcdonalds,negative
+Review-g188672-d4570177_1:4_0,"Het toiletbezoek (tja, kinderen kunnen niet wachten) is een hel!",toiletbezoek,negative
+Review-g188672-d4570177_1:5_1,"Warm, vuile vloeren, stinken, lange wachtrij...",wachtrij,negative
+Review-g188672-d4570177_1:6_0,"Ik spreek me niet uit over McDonalds in het algemeen, maar ik vind het een misdaad als je in Oostende naar de McDo gaat!!!!",mcdo,negative
+Review-g188672-d4570177_4:1_1,Het is er nooit echt proper en het de vloer is er ook altijd zeer plakkerig.,vloer,negative
+Review-g188672-d4570177_4:2_0,Ook heb je veel dat het eten er koud is of dat er machines kapot zijn vb mc flurry.,eten,negative
+Review-g188672-d4570177_4:2_1,Ook heb je veel dat het eten er koud is of dat er machines kapot zijn vb mc flurry.,machines,negative
+Review-g188672-d4570177_4:3_0,Maar het personeel is er wel vriendelijk.,personeel,positive
+Review-g188672-d742256_2:2_1,Aperitief OK -ongeveer 7' nadien komen de aperitiefhapjes...OK kan gebeuren.,aperitief,neutral
+Review-g188672-d742256_2:3_0,Nadien kwam de rogge: zodanig uitgedroogd dat het onmogelijk was om het van de graat te krijgen.,rogge,negative
+Review-g188672-d742256_3:1_0,Een etentje dat in het geheugen staat gegrift :(,etentje,negative
+Review-g188672-d742256_3:2_0,Bij het binnenkomen reeds verbaasd dat er vast tapijt ligt in heel het restaurant.,restaurant,negative
+Review-g188672-d742256_3:3_0,Na een tijdje dan toch de menukaart gekregen...... deze was niet meer dan een plakboek letterlijk en figuurlijk.,menukaart,negative
+Review-g188672-d742256_3:4_0,Prijzen aangepast met een klevertje en de kaart blijft aan je handen kleven.,kaart,negative
+Review-g188672-d742256_3:5_0,"Om nog maar te zwijgen over de de wijnkaart, een gore ringmap die totaal verkreukt was en aan je handen bleef kleven.",wijnkaart,negative
+Review-g188672-d742256_3:8_0,"Was duidelijk 2de rangs vlees en was nauwelijks warm, sauzen zijn te verkrijgen in potjes van de frituur.",sauzen,positive
+Review-g188672-d742256_3:8_1,"Was duidelijk 2de rangs vlees en was nauwelijks warm, sauzen zijn te verkrijgen in potjes van de frituur.",vlees,negative
+Review-g188672-d742256_3:9_0,"De jongens van de bediening proberen hun best te doen, maar helaas kunnen zij het verdenken kalf niet redden.",jongens van de bediening,positive
+Review-g188672-d742256_3:12_0,"Positieve nood voor de hondenliefhebbers, hondjes mogen mee in restaurant.....",restaurant,neutral
+Review-g188672-d742256_4:4_0,De mosselen waren lekker en voor 13 euro krijg je ze nagenoeg nergens.,mosselen,positive
+Review-g188672-d742256_4:4_1,De mosselen waren lekker en voor 13 euro krijg je ze nagenoeg nergens.,mosselen,positive
+Review-g188672-d742256_4:5_0,Friet met mayonaise was inbegrepen en het personeel was vriendelijk.,friet met mayonaise,positive
+Review-g188672-d742256_4:5_1,Friet met mayonaise was inbegrepen en het personeel was vriendelijk.,personeel,positive
+Review-g188673-d3411707_1:2_0,"Maar toen we daar ter plekke arriveerden, bleek het restaurant dicht, met vakantie.",restaurant,negative
+Review-g188673-d3411707_3:1_0,Het aan bod van bieren en andere is zeer beperkt,bieren,negative
+Review-g188673-d3411707_3:2_0,De prijzen aan de hoge kant en de service is zeer traag.,service,negative
+Review-g188673-d3411707_4:4_0,"op de markt te Kortrijk, met een leuke terras.",terras,positive
+Review-g188673-d742121_1:1_0,Een leuke plek op een prachtig Kortrijks plein.,plek,positive
+Review-g188673-d742121_1:2_0,Mooi kader.,kader,positive
+Review-g188673-d742121_1:6_0,Goede bediening.,bediening,positive
+Review-g188673-d742121_1:7_0,Kwaliteit van de geserveerde wijnen per glas kon beter.,wijnen,negative
+Review-g188673-d742121_2:3_0,Zeer aangenaam interieur.,interieur,positive
+Review-g188673-d742121_2:4_0,Op het krijtbord waren er wijnsuggesties aan aan aantrekkelijke prijs.,wijnsuggesties,positive
+Review-g188673-d742121_2:5_0,"We hebben gekozen voor de tartaar van kingkrab, zeer lekker en fris bereid.",tartaar van kingkrab,positive
+Review-g188673-d742121_2:6_0,De vissoep en de huisgemaakte Garnaalkroketten deze zijn echt authentiek bereid.,huisgemaakte garnaalkroketten,positive
+Review-g188673-d742121_2:7_0,Daarna een filet pur met pepersaus perfect gebakken.,filet pur met pepersaus,positive
+Review-g188673-d742121_2:9_0,Zeer goede gegaarde risotto.,risotto,positive
+Review-g188673-d742121_2:11_0,"Zeker een aanrader zowel interieur, bediening, en eten.",interieur,positive
+Review-g188673-d742121_2:11_1,"Zeker een aanrader zowel interieur, bediening, en eten.",bediening,positive
+Review-g188673-d742121_2:11_2,"Zeker een aanrader zowel interieur, bediening, en eten.",eten,positive
+Review-g188673-d742121_3:2_0,Het ziet er allemaal mooi en veelbelovend uit maar eten is een ramp.,eten,negative
+Review-g188673-d742121_3:3_0,"Het onthaal is verre van hartelijk, het menu van de maand af te raden.",onthaal,negative
+Review-g188673-d742121_3:3_1,"Het onthaal is verre van hartelijk, het menu van de maand af te raden.",menu van de maand,negative
+Review-g188673-d742121_3:4_0,Het voorgerecht zit vol; bloemsaus en het hoofdgerecht een puinhoop.,hoofdgerecht,negative
+Review-g188673-d742121_3:4_1,Het voorgerecht zit vol; bloemsaus en het hoofdgerecht een puinhoop.,voorgerecht,negative
+Review-g188673-d742121_3:5_0,"De aangepaste wijnen bij het menu zijn slecht, de witte wijn niet gekoeld, de service is gevoelloos en onpersoonlijk.",aangepaste wijnen,negative
+Review-g188673-d742121_3:5_1,"De aangepaste wijnen bij het menu zijn slecht, de witte wijn niet gekoeld, de service is gevoelloos en onpersoonlijk.",service,negative
+Review-g188673-d742121_3:5_2,"De aangepaste wijnen bij het menu zijn slecht, de witte wijn niet gekoeld, de service is gevoelloos en onpersoonlijk.",witte wijn,negative
+Review-g188673-d857948_1:1_0,Samen met mijn dochter ging ik een avondje genieten in restaurant St Christophe; het was voor beiden een aangename ervaring!,st christophe,positive
+Review-g188673-d857948_1:3_0,Ook de langoest kon onze goedkeuring krijgen.,langoest,positive
+Review-g188673-d857948_1:4_0,Een dikke bravo voor de keuken!,keuken,positive
+Review-g188673-d857948_1:5_0,En de mango tango-thee was een perfecte afsluiter van het etentje!,mango tango-thee,positive
+Review-g188673-d857948_1:6_0,Deskundige weetjes over de wijnen werden ons heel vriendelijk meegegeven en de gastvrijheid van mevrouw is hartverwarmend!,mevrouw,positive
+Review-g188673-d857948_2:2_0,Het was dineren in de tuin van dit prachtig herenhuis.,herenhuis,positive
+Review-g188673-d857948_2:3_0,"Hoewel zeer gezellig zitten, heeft de tuin toch wel wat onderhoud nodig.",tuin,neutral
+Review-g188673-d857948_2:5_0,Moet kunnen met drie tafeltjes en toch liep de bediening niet echt vlot.,bediening,negative
+Review-g188673-d857948_2:6_0,"Voorgerecht, het halve kreeftje, was prima.",halve kreeftje,positive
+Review-g188673-d857948_2:7_0,"Hoofdgerecht, de steak, zeer degelijk.",steak,positive
+Review-g188673-d857948_2:8_0,Dessert was een niemendalletje.,dessert,negative
+Review-g188673-d857948_3:2_0,"De dame deed het prima, de heer nogal geforceerd.",heer,negative
+Review-g188673-d857948_3:2_1,"De dame deed het prima, de heer nogal geforceerd.",dame,positive
+Review-g188673-d857948_4:1_1,Gastronomisch lekker gegeten in prachtig oud herenhuis.,herenhuis,positive
+Review-g188673-d857948_4:2_0,Mooi gedekte tafels.,tafels,positive
+Review-g188673-d857948_4:3_0,Bediening op niveau.,bediening,positive
+Review-g188673-d857948_4:4_0,Keuzemenu is prijs-kwaliteit zeer goed.,keuzemenu,positive
+Review-g188673-d857948_4:4_1,Keuzemenu is prijs-kwaliteit zeer goed.,keuzemenu,positive
+Review-g188674-d3196804_1:2_0,De tomatensoep was lekker.,tomatensoep,positive
+Review-g188674-d3196804_1:3_0,De pladijs die volgde was maar zeer matig: klein en iets te hard gebakken en voor ons beiden kregen we één erg karige portie frietjes.,pladijs,negative
+Review-g188674-d3196804_1:3_1,De pladijs die volgde was maar zeer matig: klein en iets te hard gebakken en voor ons beiden kregen we één erg karige portie frietjes.,pladijs,negative
+Review-g188674-d3196804_1:3_2,De pladijs die volgde was maar zeer matig: klein en iets te hard gebakken en voor ons beiden kregen we één erg karige portie frietjes.,frietjes,negative
+Review-g188674-d3196804_1:4_0,Er bijvragen lukte maar nadat de ober wel al 10 keer voorbijgekomen was zonder op te kijken zodat we ze uiteindelijk kregen als de rest van ons bord al leeg was.,ober,negative
+Review-g188674-d3196804_1:5_0,"Als dessert hadden we een Dame Blanche: een bolletje half gesmolten ijs met was chocoladesaus en een ruime portie crème fraiche uit de spuitbus, geserveerd in een glas.",dame blanche,neutral
+Review-g188674-d3196804_1:5_1,"Als dessert hadden we een Dame Blanche: een bolletje half gesmolten ijs met was chocoladesaus en een ruime portie crème fraiche uit de spuitbus, geserveerd in een glas.",crème fraiche,positive
+Review-g188674-d3196804_1:6_0,Een dessert van een lunch hoeft niet groot te zijn maar mooier serveren en dan liefst niet in een glas zou al veel helpen.,dessert,negative
+Review-g188674-d3196804_2:5_0,"Bij New Havana te knokke, kan men lekker eten, ja prijzen liggen wat hoger maar euh... dat geld voor zo wat heel Knokke.",new havana,neutral
+Review-g188674-d3196804_2:7_0,"Wij worden altijd prima bediend, en genieten er van een drankje of lekker eten.",eten,positive
+Review-g188674-d3196804_2:7_1,"Wij worden altijd prima bediend, en genieten er van een drankje of lekker eten.",drankje,positive
+Review-g188674-d3196804_3:3_0,Pannekoeken zijn lekker!,pannekoeken,positive
+Review-g188674-d3196804_3:4_0,Maar de chocomelk is niet zelfgemaakt!,chocomelk,negative
+Review-g188674-d3196804_3:6_0,De service is oke! (is te zien bij wie!),service,neutral
+Review-g188674-d3196804_3:8_0,Het regent binnen in de terras!,terras,negative
+Review-g188674-d3196804_4:1_0,"Dit is het vuilste, slechtte restaurant ooit bezocht en wij bezoeken er veel per jaar.",restaurant,negative
+Review-g188674-d3196804_4:1_1,"Dit is het vuilste, slechtte restaurant ooit bezocht en wij bezoeken er veel per jaar.",restaurant,negative
+Review-g188674-d3196804_4:2_0,De ober hebben ze uit de adams familie gehaald.,ober,negative
+Review-g188674-d3196804_4:3_0,Het eten was bedorven.,eten,negative
+Review-g188674-d3196804_4:4_0,Sluiten die handel,handel,negative
+Review-g188674-d3426674_4:1_1,Zeer goede keuken met zicht op zee.,keuken,positive
+Review-g188674-d3426674_4:2_0,We werden goed ontvangen door de uitbaatster die duidelijk beter omringd wordt dan voorheen.,uitbaatster,positive
+Review-g188674-d3426674_4:3_0,Het keuzemenu is van uitstekende kwaliteit.,keuzemenu,positive
+Review-g188674-d3426674_4:5_0,Daarna kwam een royale portie kabeljauw met jonge spinazie en mousseline.,kabeljauw met jonge spinazie en mousseline,positive
+Review-g188674-d3426674_4:6_0,"De nagerechten kunnen iets beter afgewerkt worden, maar dat is een detail.",nagerechten,negative
+Review-g188674-d3426674_4:7_0,Grote familiezaak aan de kust.,familiezaak,positive
+Review-g188674-d742026_1:4_0,"Keuze uit verschillende voorgerechten, hoofdgerechten en deserts voor een correcte prijs.","voorgerechten, hoofdgerechten en deserts",positive
+Review-g188674-d742026_1:4_1,"Keuze uit verschillende voorgerechten, hoofdgerechten en deserts voor een correcte prijs.","voorgerechten, hoofdgerechten en deserts",positive
+Review-g188674-d742026_1:5_0,Attente en vriendelijke bediening in leuk kader.,bediening,positive
+Review-g188674-d742026_1:5_1,Attente en vriendelijke bediening in leuk kader.,kader,positive
+Review-g188674-d742026_2:1_0,Heel goed restaurant.,restaurant,positive
+Review-g188674-d742026_4:1_0,2 lunchmenu's met ruime keuze voor voor- en hoofdgerechten aan correcte prijs.,lunchmenu's,positive
+Review-g188674-d742026_4:1_1,2 lunchmenu's met ruime keuze voor voor- en hoofdgerechten aan correcte prijs.,lunchmenu's,positive
+Review-g188674-d742026_4:2_0,Bovendien vriendelijke en attente bediening.,bediening,positive
+Review-g188674-d742064_1:2_0,Een stel stumpers doet de bediening.,bediening,negative
+Review-g188674-d742064_1:8_0,"Na afloop nog even naar het toilet, dat is geen aanrader.",toilet,negative
+Review-g188674-d742064_1:10_0,"Nee, dit restaurant zal geen lang leven beschoren zijn.",restaurant,negative
+Review-g188674-d742064_2:2_0,"Deze keer was zowel het eten, service en restaurant ondermaats!!!!",restaurant,negative
+Review-g188674-d742064_2:2_1,"Deze keer was zowel het eten, service en restaurant ondermaats!!!!",eten,negative
+Review-g188674-d742064_2:2_2,"Deze keer was zowel het eten, service en restaurant ondermaats!!!!",service,negative
+Review-g188674-d742064_2:3_0,We hadden garnaalkroketten genomen waar je de garnalen moest zoeken.,garnaalkroketten,negative
+Review-g188674-d742064_2:4_0,"De salade die erbij geserveerd werd was ook al niet fris meer en erop gegooid, gefrituurde peterselie was ook van matig niveau!",salade,negative
+Review-g188674-d742064_2:4_1,"De salade die erbij geserveerd werd was ook al niet fris meer en erop gegooid, gefrituurde peterselie was ook van matig niveau!",salade,negative
+Review-g188674-d742064_2:4_2,"De salade die erbij geserveerd werd was ook al niet fris meer en erop gegooid, gefrituurde peterselie was ook van matig niveau!",gefrituurde peterselie,neutral
+Review-g188674-d742064_2:5_0,De boter die bij onze zeetong geserveerd werd zat vol verbrande stukjes :-(.,boter,negative
+Review-g188674-d742064_2:6_0,We zaten buiten op het terras wat ok was (wel geen tafeldoekjes hoewel we gereserveerd hadden).,terras,neutral
+Review-g188674-d742064_2:8_0,Ook in het restaurant lagen de pakjes boter en brood op de grond van de service tafel. (kan zijn dat het druk geweest was maar zoiets even oprapen neemt absoluut geen tijd in beslag).,restaurant,negative
+Review-g188674-d742064_2:9_0,"Er waren 3 zaalbediende aanwezig en het was zeker niet druk, ze hadden tijd om te praten met elkaar dus een had makkelijk een beetje ""puin"" kunnen ruimen!",zaalbediende,negative
+Review-g188674-d742064_2:10_0,Bovendien sprak één van de zaalbediende geen woord Nederlands of Frans!?,zaalbediende,negative
+Review-g188674-d742064_2:11_0,Dit is NIET de service die we van de andere Lodge kennen het was echt ondermaats!!!!,service,negative
+Review-g188674-d742064_3:2_0,"Toen we vroegen of er plaats was, wou een ober ons helpen, maar deze werd bruut door een andere ober weggetrokken en liet ons staan.",ober,negative
+Review-g188674-d742064_3:3_0,"Wij zijn dan zelf maar gaan zitten en werden door een onbeschofte (oude man met grijs haar) ""geholpen"" (= ik kom terug als ik tijd).",man,negative
+Review-g188674-d742064_3:4_0,"Na eindelijk te hebben besteld, zagen we obers klungelen (zoeken naar de juiste tafels), de oude grijze man was iedereen aan het beledigen,.....",obers,negative
+Review-g188674-d742064_3:6_0,"Na het eten vroegen we nog een koffie aan de oude man en zijn antwoord was: 'neen!!!, ik ga eerst alle tafels (veel) afruimen en dan pas kom ik terug.",man,negative
+Review-g188674-d742064_3:8_0,"Toen kwam die ober terug: 'Ik wil mijn excuses aanbieden met 2 gratis koffie (we hadden er 3 besteld), maar als ge het niet goed vind moet je zelf maar eens een schort aantrekken 'SPECIAAL EXCUUS!!!!",ober,neutral
+Review-g188674-d742064_3:10_0,"Het eten was wel lekker maar door de onhandigheid van de obers (minutenlang zoeken naar de juiste tafel), was de saus koud!!!!",eten,neutral
+Review-g188674-d742064_3:10_1,"Het eten was wel lekker maar door de onhandigheid van de obers (minutenlang zoeken naar de juiste tafel), was de saus koud!!!!",obers,negative
+Review-g188674-d742064_3:11_1,Hier kom ik nooit meer terug en ik hoop dat de ober (oude man met grijs haar) ontslagen zal worden.,ober,negative
+Review-g188675-d3155307_3:4_0,"Er zijn 5 dames om te bedienen, maar toen wij binnen kwamen was er niemand om aan te vragen of er nog een tafel vrij was.",dames,negative
+Review-g188675-d3155307_3:5_0,Later op de avond was een serveerster klaar met haar werk en begon dus maar de etensresten tussen haar tanden uit te peuteren.,serveerster,negative
+Review-g188675-d3155307_3:6_0,"Het eten was gewoon goed, maar ook niet meer dan dat.",eten,neutral
+Review-g188675-d3155307_4:2_0,"De bediening was vriendelijk, correct, behulpzaam en erg prettig.",bediening,positive
+Review-g188675-d3155307_4:3_0,"We hadden alle drie een 3 gangen menu, wat echt heerlijk was.",3 gangen menu,positive
+Review-g188675-d3155307_4:4_0,"Ik had er een wijn arrangement bij besteld, wat ook lekker was.",wijn arrangement,positive
+Review-g2175109-d3474389_1:4_0,"De naam restaurant niet waardig, serveren enkel vacuüm maaltijden en service is dus ondermaats.",service,negative
+Review-g2175109-d3474389_2:1_0,"De tuin kon leuk zijn als het gras eens gemaaid werd, het terras nog leuker als de tafels proper waren en het zou Tienen een leuk restaurant rijker maken indien de bediening vriendelijk was en de wachttijden respectabel.",bediening,negative
+Review-g2175109-d3474389_3:1_1,"De tuin is leuk, maar het duurt lang voor je eten hebt en het is maar matig van kwaliteit.",eten,neutral
+Review-g2175109-d3474389_3:1_2,"De tuin is leuk, maar het duurt lang voor je eten hebt en het is maar matig van kwaliteit.",tuin,positive
+Review-g2175109-d3474389_4:1_0,"Zeer leuk is de tuin buiten, het eten is ook lekker.",eten,positive
+Review-g2175109-d3474389_4:1_1,"Zeer leuk is de tuin buiten, het eten is ook lekker.",tuin,positive
+Review-g2175109-d3474389_4:2_0,De bediening buiten gebeurt nogal chaotisch met z'n momenten.,bediening,negative
+Review-g230021-d741974_1:1_0,"Voor de derde keer dit jaar hebben we alweer heerlijk genoten: in de keuken wordt nog steeds getoverd, de gastvrouw is stijlvol en enthousiast alom aanwezig, de bediening is vlekkeloos, de wijnkeuze van de sommelier is subliem.",wijnkeuze,positive
+Review-g230021-d741974_1:1_1,"Voor de derde keer dit jaar hebben we alweer heerlijk genoten: in de keuken wordt nog steeds getoverd, de gastvrouw is stijlvol en enthousiast alom aanwezig, de bediening is vlekkeloos, de wijnkeuze van de sommelier is subliem.",bediening,positive
+Review-g230021-d741974_1:1_2,"Voor de derde keer dit jaar hebben we alweer heerlijk genoten: in de keuken wordt nog steeds getoverd, de gastvrouw is stijlvol en enthousiast alom aanwezig, de bediening is vlekkeloos, de wijnkeuze van de sommelier is subliem.",gastvrouw,positive
+Review-g230021-d741974_1:1_3,"Voor de derde keer dit jaar hebben we alweer heerlijk genoten: in de keuken wordt nog steeds getoverd, de gastvrouw is stijlvol en enthousiast alom aanwezig, de bediening is vlekkeloos, de wijnkeuze van de sommelier is subliem.",keuken,positive
+Review-g230021-d741974_1:2_0,"Meer willen we niet verklappen -laat u verrassen door de schilderijtjes op uw bord, bijna te mooi om op te eten maar doe het toch maar -en geniet van de smaaksensaties!",smaaksensaties,positive
+Review-g230021-d741974_2:1_0,Van bij de amuse gueule tot het bij het dessert is het ongelooflijk genieten van al die smaken.,dessert,positive
+Review-g230021-d741974_2:1_1,Van bij de amuse gueule tot het bij het dessert is het ongelooflijk genieten van al die smaken.,amuse gueule,positive
+Review-g230021-d741974_2:2_0,De ontvangst en bediening zijn vriendelijk en verzorgd.,bediening,positive
+Review-g230021-d741974_3:2_0,"De ober Stijn spreekt ook Pools, wat soms goed van ps komt.",ober stijn,neutral
+Review-g230021-d742004_1:1_1,"Eerlijke keuken en best geschikt voor in (ruim) gezelfschap maar nu niet direct de ideale gelegenheid voor een romantische tête à tête met je geliefde; een beetje no-nonsense en best leuk, bovendien een ruime kaart en zeker meer dan gemiddeld lekker",kaart,positive
+Review-g230021-d742004_1:1_2,"Eerlijke keuken en best geschikt voor in (ruim) gezelfschap maar nu niet direct de ideale gelegenheid voor een romantische tête à tête met je geliefde; een beetje no-nonsense en best leuk, bovendien een ruime kaart en zeker meer dan gemiddeld lekker",keuken,positive
+Review-g230021-d742004_2:1_0,"Dit restaurant heeft een leuk concept, een warme inrichting en is niet toeristisch gelegen.",restaurant,positive
+Review-g230021-d742004_2:1_1,"Dit restaurant heeft een leuk concept, een warme inrichting en is niet toeristisch gelegen.",inrichting,positive
+Review-g230021-d742004_2:1_2,"Dit restaurant heeft een leuk concept, een warme inrichting en is niet toeristisch gelegen.",restaurant,positive
+Review-g230021-d742004_2:2_0,Er worden echter meer klanten in het restaurant toegelaten dan de bediening aankan.,bediening,negative
+Review-g230021-d742004_2:4_0,De vaste bediening wordt aangevuld met student(en) die vooral veel heen en weer lopen met niets of één iets in de hand.,student(en),negative
+Review-g230021-d742004_2:5_0,-vriendelijke ontvangst en aperitief aan de bar (toen was nog maar 1/3 van de gasten aanwezig),ontvangst,positive
+Review-g230021-d742004_2:6_0,-ijsblokjes en garnituren worden onhygiënisch met de blote hand genomen.,ijsblokjes,negative
+Review-g230021-d742004_2:6_1,-ijsblokjes en garnituren worden onhygiënisch met de blote hand genomen.,garnituren,negative
+Review-g230021-d742004_2:8_0,-na een tweede maal vragen komt de -originele- wijnkaart eraan.,wijnkaart,positive
+Review-g230021-d742004_2:9_0,"-wijn bestellen lukt moeilijk, de opdienster zegt dat ze geen tijd heeft en zo meteen terugkomt, maar ze vergeet dit.",opdienster,negative
+Review-g230021-d742004_2:10_0,We spreken na een tijdje een andere ober aan die wel de tijd heeft om de twee woorden die nodig zijn om onze keuze kenbaar te maken te onthouden.,ober,positive
+Review-g230021-d742004_2:11_0,Het hapje was reeds afgeruimd en het voorgerecht was op één hap na op toen we eindelijk een fles lekkere Pouilly Fuissé op tafel kregen.,pouilly fuissé,positive
+Review-g230021-d742004_2:13_0,-de opdienster die geen tijd had stond tussendoor frietjes te eten aan de tafel waar een familielid van haar als klant zat.,opdienster,negative
+Review-g230021-d742004_2:14_0,-het hapje was correct en zurig fris.,hapje,neutral
+Review-g230021-d742004_2:15_0,Het brood was lekker.,brood,positive
+Review-g230021-d742004_2:16_0,"-het voorgerecht, extra zachte gerookte zalm, was standaardkwaliteit van de groothandel.",extra zachte gerookte zalm,neutral
+Review-g230021-d742004_2:17_0,De vetnaad vlakbij het staartstuk van de zalm die hard wordt bij het roken was niet weggesneden door de keuken.,zalm,negative
+Review-g230021-d742004_2:18_0,"-de fondue was lekker, de frietjes vers, de sausjes industrieel.",frietjes,positive
+Review-g230021-d742004_2:18_1,"-de fondue was lekker, de frietjes vers, de sausjes industrieel.",sausjes,neutral
+Review-g230021-d742004_2:18_2,"-de fondue was lekker, de frietjes vers, de sausjes industrieel.",fondue,positive
+Review-g230021-d742004_2:26_1,"De frieten zijn ondertussen uiteraard koud, maar we vragen er geen warme meer, wie weet wanneer we ze krijgen.",frieten,negative
+Review-g230021-d742004_2:27_0,De keuken is overbemand in vergelijking met de zaal.,keuken,negative
+Review-g230021-d742004_2:28_0,Het zaalpersoneel wordt aan hun lot overgelaten: pompen of verzuipen.,zaalpersoneel,negative
+Review-g230021-d742004_2:29_0,De stress van het zaalpersoneel en het onnodig (inefficiënt) drukdoend heen en weer lopen straalt af op de klanten en bepaalt de sfeer in de zaak.,zaak,negative
+Review-g230021-d742004_2:29_1,De stress van het zaalpersoneel en het onnodig (inefficiënt) drukdoend heen en weer lopen straalt af op de klanten en bepaalt de sfeer in de zaak.,zaalpersoneel,negative
+Review-g230021-d742004_2:31_0,De akoestiek is een heikel punt.,akoestiek,negative
+Review-g230023-d742208_1:2_0,"Uiteindelijk was ik blij verrast, wij hebben een fijne bediening gehad van vriendelijk personeel.",personeel,positive
+Review-g230023-d742208_1:3_0,"Het eten was ok, ik nam de vissuggestie van de dag en dit was een correct gerecht voor een correcte prijs.",vissuggestie van de dag,neutral
+Review-g230023-d742208_1:3_1,"Het eten was ok, ik nam de vissuggestie van de dag en dit was een correct gerecht voor een correcte prijs.",eten,neutral
+Review-g230023-d742208_1:3_2,"Het eten was ok, ik nam de vissuggestie van de dag en dit was een correct gerecht voor een correcte prijs.",vissuggestie van de dag,neutral
+Review-g230023-d742208_4:1_0,We hebben allebei pizza frutti di mare gegeten en deze was qua prijs/kwaliteit best ok.,pizza frutti di mare,neutral
+Review-g230023-d742208_4:1_1,We hebben allebei pizza frutti di mare gegeten en deze was qua prijs/kwaliteit best ok.,pizza frutti di mare,neutral
+Review-g230023-d742208_4:2_0,"Lekker veel kaas, geen uitgedroogde korst zoals je vaak tegenkomt, eigenlijk ook best luchtig.",korst,negative
+Review-g230023-d742208_4:2_1,"Lekker veel kaas, geen uitgedroogde korst zoals je vaak tegenkomt, eigenlijk ook best luchtig.",kaas,positive
+Review-g230023-d742208_4:3_0,"Bij de bediening liep er echter iemand rond die geen woord Nederlands kon, dat vind ik voor Nieuwpoort absoluut niet kunnen.",bediening,negative
+Review-g2369819-d4170174_1:1_0,Het Hof van Heusden is op zich wat een speciale locatie.,hof van heusden,neutral
+Review-g2369819-d4170174_1:7_0,Abdel is top: hij kookt erg lekker en wij vinden vooral dat hij een meester is in het klaarmaken van wild.,abdel,positive
+Review-g2369819-d4170174_1:10_0,Wij houden van dit restaurant vooral omwille van de keuken en vriendelijkheid van Abdel.,restaurant,positive
+Review-g2369819-d4170174_1:10_1,Wij houden van dit restaurant vooral omwille van de keuken en vriendelijkheid van Abdel.,keuken,positive
+Review-g2369819-d4170174_1:10_2,Wij houden van dit restaurant vooral omwille van de keuken en vriendelijkheid van Abdel.,abdel,positive
+Review-g2369819-d4170174_2:1_0,Maandmenu: Het 'fijnproeversbordje' bestond uit een toastje van 1 vierkante centimeter met een stukje pate op en iets dat gelijkt op uienkonfijt.,fijnproeversbordje,negative
+Review-g2369819-d4170174_2:2_0,De boter die we bij de 3 stukken brood kregen (voor 2 personen) had de vervaldatum 12/12/13 (bijna een maand over datum),boter,negative
+Review-g2369819-d4170174_2:3_0,De carpacio (tataki op het menu) was waterachtig en inspiratieloos.,carpacio,negative
+Review-g2369819-d4170174_2:4_0,Het hoofdgerecht (varkenswangetjes) was lekker.,hoofdgerecht,positive
+Review-g2369819-d4170174_2:5_0,De wijnen kunnen enkel besteld worden per glas of per halve liter??? behalve de huiswijn..,wijnen,negative
+Review-g2369819-d4170174_2:10_0,"De zaak ontbreekt sfeer, wij hebben absoluut geen goed gevoel na dit etentje.",sfeer,negative
+Review-g2369819-d4170174_3:4_0,Het eten was wel lekker en mooi gepresenteerd op het bord.,eten,positive
+Review-g2369819-d4170174_3:4_1,Het eten was wel lekker en mooi gepresenteerd op het bord.,eten,positive
+Review-g2369819-d4170174_3:5_0,Maar van het personeel kon er ook geen glimlachje af.,personeel,negative
+Review-g2369819-d4170174_4:1_0,Reeds 5 keer heb ik dit restaurant bezocht en nooit een een ontgoocheling gehad.,restaurant,positive
+Review-g2369819-d4170174_4:3_0,De ontvangst is steeds gastvrij en prijs/kwaliteit ligt uitstekend.,ontvangst,positive
+Review-g2369819-d4170174_4:4_0,Dit weekend genoten van het degustatiemenu geënt op het wildseizoen.,degustatiemenu,positive
+Review-g2369819-d4170174_4:5_0,De amuse is reeds verrassend en een voorbode van een veelbelovend menu.,amuse,positive
+Review-g2369819-d4170174_4:6_0,"Carpaccio van everzwijn, patrijs met rode biet & boschampignons zijn stuk voor stuk verrassende combinaties.",carpaccio van everzwijn,positive
+Review-g2369819-d4170174_4:6_1,"Carpaccio van everzwijn, patrijs met rode biet & boschampignons zijn stuk voor stuk verrassende combinaties.",patrijs met rode biet & boschampignons,positive
+Review-g2369819-d4170174_4:11_0,Dit restaurant is zeker niet de top maar jong talent verdient en ruggesteuntje.,restaurant,neutral
+Review-g2369819-d4736237_1:1_0,Wij bezoeken dit restaurant regelmatig omdat je hier de beste pizza uit de streek vindt.,restaurant,positive
+Review-g2369819-d4736237_1:1_1,Wij bezoeken dit restaurant regelmatig omdat je hier de beste pizza uit de streek vindt.,pizza,positive
+Review-g2369819-d4736237_1:2_0,Mateo is niet voor niets verkozen tot beste pizza-bakker van Oost-Vlaanderen.,mateo,positive
+Review-g2369819-d4736237_1:3_0,Bovendien houden wij van de gezellige familiale sfeer.,sfeer,positive
+Review-g2369819-d4736237_1:4_0,Er is een uitstekende wijnkaart die regelmatig vernieuwd wordt.,wijnkaart,positive
+Review-g2369819-d4736237_1:5_0,Ook het gewone menu kent regelmatig afwisseling.,menu,positive
+Review-g2369819-d4736237_2:2_0,Gewoon onbeleefde bediening.,bediening,negative
+Review-g2369819-d4736237_2:6_0,"Het eten was niet slecht, maar dat kon de onbeleefdheid van de gastvrouw niet goed maken.",eten,neutral
+Review-g2369819-d4736237_2:6_1,"Het eten was niet slecht, maar dat kon de onbeleefdheid van de gastvrouw niet goed maken.",gastvrouw,negative
+Review-g2369819-d4736237_3:1_0,"Aanvankelijk hadden mijn vriend en ik wel wat ""drempelvrees"" om hier binnen te komen, daar het interieur er wat rommelig uitzag.",interieur,negative
+Review-g2369819-d4736237_3:3_0,"We werden geweldig vriendelijk onthaald en voelden ons meteen thuis in dit sympathieke, familiale restaurantje.",restaurantje,positive
+Review-g2369819-d4736237_3:5_0,"Het eten was geweldig, nooit heb ik Italië zo nabij gevoeld als in de Etna.",etna,positive
+Review-g2369819-d4736237_3:5_1,"Het eten was geweldig, nooit heb ik Italië zo nabij gevoeld als in de Etna.",eten,positive
+Review-g2369819-d4736237_3:6_0,"De kok heeft prijzen gewonnen voor ""beste pizzaiolo van Vlaanderen'"" en is hier heel trots op.",kok,positive
+Review-g2369819-d4736237_4:1_0,Super lekkere pasta's en pizza's gegeten!,pizza's,positive
+Review-g2369819-d4736237_4:1_1,Super lekkere pasta's en pizza's gegeten!,pasta's,positive
+Review-g2369819-d4736237_4:3_0,"Hartelijke ontvangst, goed om vooraf te reserveren.",ontvangst,positive
+Review-g2369819-d4736237_4:5_0,Ook de formule 'pizza party' is een schot in de roos!!,formule 'pizza party,positive
+Review-g2369819-d4736237_4:6_0,In de zomer groot zonneterras.,zonneterras,neutral
+Review-g2546789-d4542241_2:1_0,Ik had een steak saignant gevraagd maar deze was medium tot bien cuit.,steak saignant,negative
+Review-g2546789-d4542241_2:3_0,Voor de rest weinig creatieve keuken.,keuken,negative
+Review-g2546789-d4542241_3:1_0,"Zondag 30 maart, prachtig weer dus terrasje onderweg: Redelijk veel klanten en voldoende personeel dat echter totaal niet geinteresseerd was om de mensen te bedienen.",personeel,negative
+Review-g2546789-d4542241_3:2_0,"Wij hebben daar een dik halfuur geprobeerd de aandacht te trekken van de kelners, die voorbij slenterden zonder enioge bestelling op te nemen.",kelners,negative
+Review-g2546789-d4542241_3:4_0,"Zulk een een onbeschofte, en ongeintersseerde bediening heb ik nog nergers meegemaakt.",bediening,negative
+Review-g2546789-d4542241_4:1_0,""" De jongste telg ""heeft als voornaamste troef de prachtige tuin waar het voor gezinnen met kinderen en grotere groepen goed toeven is, ware het niet dat het huidige management het concept drastisch veranderd heeft.",tuin,positive
+Review-g2546789-d4542241_4:4_0,"Wij dachten rustig iets te gaan eten in de tuin (dan betaal je de €70,- niet en kan je enkel bestellen uit de snacks-kaart) maar ook daar worden de decibels royaal in je richting gestuurd (arme buren!).",tuin,negative
+Review-g3492038-d2669477_4:2_0,Bediening was vlot en gebeurde snel.,bediening,positive
+Review-g3607018-d1444065_2:1_0,Het ontbijt was weeral uitstekend!,ontbijt,positive
+Review-g3607018-d1444065_2:2_1,"Prima organisatie, veel variatie, voor ieder wat wils.",organisatie,neutral
+Review-g3607018-d1444065_2:3_0,"Vriendelijke bediening, gezellig interieur en dat allemaal op een mooie groene locatie.",interieur,positive
+Review-g3607018-d1444065_2:3_1,"Vriendelijke bediening, gezellig interieur en dat allemaal op een mooie groene locatie.",bediening,positive
+Review-g3607018-d1444065_2:3_2,"Vriendelijke bediening, gezellig interieur en dat allemaal op een mooie groene locatie.",locatie,positive
+Review-g3607018-d1444065_4:1_0,"Heel gezellig restaurant in een fantastische omgeving in de bossen, ideaal als fietsstopplaats waar het lekker eten is, maar ook de moeite om gewoon wat gaan te drinken op het gezellige terras naast de gempemolen",restaurant,positive
+Review-g3607018-d1444065_4:1_1,"Heel gezellig restaurant in een fantastische omgeving in de bossen, ideaal als fietsstopplaats waar het lekker eten is, maar ook de moeite om gewoon wat gaan te drinken op het gezellige terras naast de gempemolen",omgeving,positive
+Review-g3607018-d1444065_4:1_2,"Heel gezellig restaurant in een fantastische omgeving in de bossen, ideaal als fietsstopplaats waar het lekker eten is, maar ook de moeite om gewoon wat gaan te drinken op het gezellige terras naast de gempemolen",eten,positive
+Review-g641779-d740846_1:1_0,"Heel lekker, vriendelijke ontvangst, super goede bediening, hulpzaam en perfecte uitleg over de gerechten!",bediening,positive
+Review-g641779-d740846_1:1_1,"Heel lekker, vriendelijke ontvangst, super goede bediening, hulpzaam en perfecte uitleg over de gerechten!",ontvangst,positive
+Review-g641779-d740846_2:1_0,"Mooie keuzes, zeer evenwichtig, zeer goed opgeleid en vriendelijk personeel.",keuzes,positive
+Review-g641779-d740846_2:1_1,"Mooie keuzes, zeer evenwichtig, zeer goed opgeleid en vriendelijk personeel.",personeel,positive
+Review-g641779-d740846_2:2_0,"lekkere maaltijden en uitstekende wijnen, wel prijzig.",maaltijden,positive
+Review-g641779-d740846_2:2_1,"lekkere maaltijden en uitstekende wijnen, wel prijzig.",wijnen,positive
+Review-g641779-d740846_4:3_0,Super vriendelijke gastvrouw!,gastvrouw,positive
+Review-g641779-d740846_4:4_0,Fantastisch lekker eten!,eten,positive
+Review-g641781-d741267_1:1_1,Onvriendelijke mensen -knettergek -slechtste eten ooit -don't go there!!!!,eten,negative
+Review-g641781-d741267_1:1_2,Onvriendelijke mensen -knettergek -slechtste eten ooit -don't go there!!!!,mensen,negative
+Review-g641781-d741267_2:2_0,de rundsbrochette was doorregen en taai (alle 5 blokjes op de spies) en at als een kauwgom.,rundsbrochette,negative
+Review-g641781-d741267_2:3_0,"de vis (zalm) at lekker, doch tafel naast ons vroeg een beetje botersaus bij en de ober antwoordde: ""saus is op.",ober,negative
+Review-g641781-d741267_2:3_1,"de vis (zalm) at lekker, doch tafel naast ons vroeg een beetje botersaus bij en de ober antwoordde: ""saus is op.",vis,negative
+Review-g641781-d741267_2:4_0,Bij de derde gang was er geen crème brullée in het aanbod terwijl dit wel in de bon opgegeven was.,derde gang,negative
+Review-g641781-d741267_2:10_0,De ober was ook niet overdreven vriendelijk en vrij stuurs...,ober,negative
+Review-g641781-d741267_4:3_0,steppegras met soepvlees gekregen die eventjes tss gril gestoken heeft.,steppegras met soepvlees,negative
+Review-g641785-d1140849_2:3_0,Het eten was prima maar ik zou toch een plezieriger ambiance verkiezen op een mooie voorjaarsdag..............,eten,positive
+Review-g641785-d1140849_2:3_1,Het eten was prima maar ik zou toch een plezieriger ambiance verkiezen op een mooie voorjaarsdag..............,ambiance,neutral
+Review-g641785-d1140849_3:2_0,"Correcte prijs voor een 3-gangen keuzemenu (telkens vis of vlees), inclusief dranken en aperitief.",3-gangen keuzemenu,positive
+Review-g641785-d1140849_4:4_1,Het eten was echt heel lekker en wisten al dadelijk dat we eigenlijk hier vaker moeten komen.,eten,positive
+Review-g641788-d6213349_1:7_0,"viel redelijk mee, maar aan serranoham met stokbrood kan niet veel tegenvallen.",serranoham met stokbrood,neutral
+Review-g641788-d6213349_1:8_0,Nog een 1/2 uur wachten op alweer een miniscule portie.,portie,negative
+Review-g641788-d6213349_1:11_0,"Dienster deed haar best, maar de bazin (?) mag best een cursus onthaal volgen, bah bah.",bazin,negative
+Review-g641788-d6213349_1:11_1,"Dienster deed haar best, maar de bazin (?) mag best een cursus onthaal volgen, bah bah.",dienster,positive
+Review-g641788-d6213349_1:15_0,"Gemiste kans, jammer, want aan de kok ligt het niet.",kok,neutral
+Review-g641788-d6213349_2:3_0,"Bediening zeer slecht, terwijl er niet veel klandizie was.",bediening,negative
+Review-g641788-d6213349_2:5_0,Wij zouden 2 uur onbeperkt tapas kunnen eten maar om 20.55 zei de serveerster dat de keuken om 21.00 uur gesloten was.,serveerster,negative
+Review-g641788-d6213349_2:6_0,"Eten was zeer slecht, we hadden nog beter naar een frituur kunnen gaan!!",eten,negative
+Review-g641788-d6213349_3:1_0,"Het eten wat lekker maar de bejegening afschuwelijk, geen uitleg en met pijn en moeite 2x kunnen bestellen (waarbij de mevrouw van de bediening ook nog ongeduldig op haar horloge keek) als je zwaaide/riep op of een of andere manier de aandacht van haar wilde trekken leek ze dit gewoon te negeren.",mevrouw van de bediening,negative
+Review-g641788-d6213349_3:1_1,"Het eten wat lekker maar de bejegening afschuwelijk, geen uitleg en met pijn en moeite 2x kunnen bestellen (waarbij de mevrouw van de bediening ook nog ongeduldig op haar horloge keek) als je zwaaide/riep op of een of andere manier de aandacht van haar wilde trekken leek ze dit gewoon te negeren.",bejegening,negative
+Review-g641788-d6213349_3:1_2,"Het eten wat lekker maar de bejegening afschuwelijk, geen uitleg en met pijn en moeite 2x kunnen bestellen (waarbij de mevrouw van de bediening ook nog ongeduldig op haar horloge keek) als je zwaaide/riep op of een of andere manier de aandacht van haar wilde trekken leek ze dit gewoon te negeren.",eten,positive
+Review-g641788-d6213349_3:2_0,Jammer want het eten was goed te doen!,eten,neutral
+Review-g641788-d6213349_4:1_0,"Eerst maanden getracht om met de voucher van social deal te reserveren, via website social deal niet mogelijk, daarna telefonisch geprobeerd, werd zeer onbeleefd afgeblaft dat ik maar met computer moest reserveren, weer geprobeerd, geen mogelijkheid, na schriftelijk beklag bij social deal dan toch eindelijk aan een reservering geraakt.... wat zagen we daar... zeer vuil, slechte smaken, verschrikkelijke bediening, gerechten die op kaart stonden werden plots met andere groenten geserveerd, en toch... personeel ""zit of staat"" er genoeg, maar ze komen niet van hun plaats....",gerechten,negative
+Review-g641788-d6213349_4:1_1,"Eerst maanden getracht om met de voucher van social deal te reserveren, via website social deal niet mogelijk, daarna telefonisch geprobeerd, werd zeer onbeleefd afgeblaft dat ik maar met computer moest reserveren, weer geprobeerd, geen mogelijkheid, na schriftelijk beklag bij social deal dan toch eindelijk aan een reservering geraakt.... wat zagen we daar... zeer vuil, slechte smaken, verschrikkelijke bediening, gerechten die op kaart stonden werden plots met andere groenten geserveerd, en toch... personeel ""zit of staat"" er genoeg, maar ze komen niet van hun plaats....",bediening,negative
+Review-g641788-d6213349_4:1_2,"Eerst maanden getracht om met de voucher van social deal te reserveren, via website social deal niet mogelijk, daarna telefonisch geprobeerd, werd zeer onbeleefd afgeblaft dat ik maar met computer moest reserveren, weer geprobeerd, geen mogelijkheid, na schriftelijk beklag bij social deal dan toch eindelijk aan een reservering geraakt.... wat zagen we daar... zeer vuil, slechte smaken, verschrikkelijke bediening, gerechten die op kaart stonden werden plots met andere groenten geserveerd, en toch... personeel ""zit of staat"" er genoeg, maar ze komen niet van hun plaats....",smaken,negative
+Review-g641788-d6213349_4:1_5,"Eerst maanden getracht om met de voucher van social deal te reserveren, via website social deal niet mogelijk, daarna telefonisch geprobeerd, werd zeer onbeleefd afgeblaft dat ik maar met computer moest reserveren, weer geprobeerd, geen mogelijkheid, na schriftelijk beklag bij social deal dan toch eindelijk aan een reservering geraakt.... wat zagen we daar... zeer vuil, slechte smaken, verschrikkelijke bediening, gerechten die op kaart stonden werden plots met andere groenten geserveerd, en toch... personeel ""zit of staat"" er genoeg, maar ze komen niet van hun plaats....",personeel,negative
+Review-g641825-d4674814_1:3_0,Wij namen het luxe ontbijt en het was inderdaad luxe.,luxe ontbijt,positive
+Review-g641825-d4674814_1:4_0,"Heel lekkere broodjes en koffiekoeken, voldoende brood, zeer lekkere hesp en kaas en lekkere koffie, de thee en chocolademelk zijn zeker aan te raden.",brood,neutral
+Review-g641825-d4674814_1:4_1,"Heel lekkere broodjes en koffiekoeken, voldoende brood, zeer lekkere hesp en kaas en lekkere koffie, de thee en chocolademelk zijn zeker aan te raden.",broodjes en koffiekoeken,positive
+Review-g641825-d4674814_1:4_2,"Heel lekkere broodjes en koffiekoeken, voldoende brood, zeer lekkere hesp en kaas en lekkere koffie, de thee en chocolademelk zijn zeker aan te raden.",broodjes,positive
+Review-g641825-d4674814_1:4_3,"Heel lekkere broodjes en koffiekoeken, voldoende brood, zeer lekkere hesp en kaas en lekkere koffie, de thee en chocolademelk zijn zeker aan te raden.",hesp en kaas,positive
+Review-g641825-d4674814_1:4_4,"Heel lekkere broodjes en koffiekoeken, voldoende brood, zeer lekkere hesp en kaas en lekkere koffie, de thee en chocolademelk zijn zeker aan te raden.",koffie,positive
+Review-g641825-d4674814_1:4_5,"Heel lekkere broodjes en koffiekoeken, voldoende brood, zeer lekkere hesp en kaas en lekkere koffie, de thee en chocolademelk zijn zeker aan te raden.",thee en chocolademelk,positive
+Review-g641825-d4674814_1:5_0,De eigenares is super vriendelijk en je ontbijt in een prachtig kader.,kader,positive
+Review-g641825-d4674814_1:5_1,De eigenares is super vriendelijk en je ontbijt in een prachtig kader.,eigenares,positive
+Review-g641825-d4674814_1:6_0,Wij komen zeker terug naar deze zaak in Damme.,zaak,positive
+Review-g641825-d4674814_2:4_0,Zodra je deur opent springen de heerlijke gebakjes tegemoet.,gebakjes,positive
+Review-g641825-d4674814_2:5_0,"Wij kozen voor een luxe ontbijt voor €10,-pp en wat een feestje was dat.",luxe ontbijt,positive
+Review-g641825-d4674814_2:8_0,"En verder een keuze uit een ""koffiebroodje""..oftewel een echt koffiebroodje maar ook croissants (met of zonder chocolade) of ander heerlijke broodjes.",broodjes,positive
+Review-g641825-d4674814_2:8_1,"En verder een keuze uit een ""koffiebroodje""..oftewel een echt koffiebroodje maar ook croissants (met of zonder chocolade) of ander heerlijke broodjes.",keuze,positive
+Review-g641825-d4674814_2:9_0,Verder een glas jus d'orange (niet vers maar toch erg lekker) koffie zoveel als je wilt.,jus d'orange,positive
+Review-g641825-d4674814_2:9_1,Verder een glas jus d'orange (niet vers maar toch erg lekker) koffie zoveel als je wilt.,koffie,positive
+Review-g641825-d4674814_2:10_0,"Een vers gekookt eitje, standaard perfect zacht gekookt, op verzoek iets harder.",eitje,neutral
+Review-g641825-d4674814_2:16_0,"Super vriendelijke vrouw achter de balie waar we hele gesprekken mee hebben gevoerd, open en eerlijk!",vrouw,positive
+Review-g641825-d4674814_3:1_0,Mooie zaak en lekker eten,eten,positive
+Review-g641825-d4674814_3:1_1,Mooie zaak en lekker eten,zaak,positive
+Review-g641825-d4674814_3:3_0,De scampies doable zijn er super,scampies doable,positive
+Review-g641825-d4674814_3:4_0,De kaas en de garnaal croketten zijn zelfs beter dan in de meeste restaurants,kaas en de garnaal croketten,positive
+Review-g641825-d741872_2:1_0,Dit restaurant is absoluut geen aanrader voor een gezellig avondje uit eten.,restaurant,negative
+Review-g641825-d741872_2:2_0,Daar we bij binnenkomst geen goed gevoel hadden en we het eigenlijk ongepast vonden het restaurant te verlaten hebben we geen voorgerecht besteld.,restaurant,negative
+Review-g641825-d741872_2:4_0,"De bediening was matig, de eigenaar zat na het bereiden van het hoofdgerecht de hele tijd achter z'n pc.",eigenaar,negative
+Review-g641825-d741872_2:4_1,"De bediening was matig, de eigenaar zat na het bereiden van het hoofdgerecht de hele tijd achter z'n pc.",bediening,neutral
+Review-g641825-d741872_2:5_0,Het hoofdgerecht was wel smakelijk.,hoofdgerecht,positive
+Review-g641825-d741872_2:6_0,"Na toch een nagerecht gekozen te hebben, wat tegenviel, moesten we uiteindelijk de rekening cash betalen.",nagerecht,negative
+Review-g641825-d741872_3:1_0,"Niet alleen is de eigenaar arrogant, maar hij scheld zijn klanten ook nog uit!",eigenaar,negative
+Review-g641825-d741872_3:2_0,Zowel het restaurant als het hotel zijn te mijden als de pest!,restaurant,negative
+Review-g641825-d741872_3:4_0,Het eten is matig en zeker zijn prijs niet waard.,eten,negative
+Review-g641825-d741872_3:4_1,Het eten is matig en zeker zijn prijs niet waard.,eten,negative
+Review-g641825-d741872_4:4_0,Maar als je baas bewust kiest voor een restaurant dan mocht het geheel wel wat verfijnder zijn en de entourage wat gezelliger.,entourage,negative
+Review-g641825-d741872_4:4_1,Maar als je baas bewust kiest voor een restaurant dan mocht het geheel wel wat verfijnder zijn en de entourage wat gezelliger.,geheel,negative
+Review-g641825-d741872_4:6_0,"De garnalen waren lekker, de tong was goed gebakken maar voor die prijs mocht de presentatie toch een heel stuk beter zijn.",garnalen,positive
+Review-g641825-d741872_4:6_1,"De garnalen waren lekker, de tong was goed gebakken maar voor die prijs mocht de presentatie toch een heel stuk beter zijn.",tong,positive
+Review-g641825-d741872_4:6_2,"De garnalen waren lekker, de tong was goed gebakken maar voor die prijs mocht de presentatie toch een heel stuk beter zijn.",presentatie,negative
+Review-g641825-d741872_4:6_3,"De garnalen waren lekker, de tong was goed gebakken maar voor die prijs mocht de presentatie toch een heel stuk beter zijn.",presentatie,negative
+Review-g641825-d741872_4:7_0,"Nu leek alles erop gezwierd en misschien was het dat ook, de kok (patron) zagen we regelmatig achter zijn computer aan een tafeltje in het restaurant zitten tot grote ergernissen van onze partners die er constant op zaten te kijken.",kok,negative
+Review-g641825-d741872_4:8_0,De onvriendelijkheid van de dienster zowel bij het binnenkomen als gedurende onze hele maaltijd was ronduit ergerlijk en ook het klikklakken van haar schoenen trok enorm de aandacht van de aanwezige klanten zodat er niet meer ontspannen kon worden genoten van het eten.,dienster,negative
+Review-g641825-d741875_1:1_0,gisteren heerlijk genoten van ALLES in de Zuidkant.,de zuidkant,positive
+Review-g641825-d741875_1:2_0,"de gerechtjes zijn TOP, de locatie is SCHITTEREND, de aangepaste wijnen SUPER, het interieur ZEER WARM en gezellig en de gastvrouw, ongelooflijk CHARMANT, het was genieten in de grootste betekenis van het woord!",gerechtjes,positive
+Review-g641825-d741875_1:2_1,"de gerechtjes zijn TOP, de locatie is SCHITTEREND, de aangepaste wijnen SUPER, het interieur ZEER WARM en gezellig en de gastvrouw, ongelooflijk CHARMANT, het was genieten in de grootste betekenis van het woord!",locatie,positive
+Review-g641825-d741875_1:2_2,"de gerechtjes zijn TOP, de locatie is SCHITTEREND, de aangepaste wijnen SUPER, het interieur ZEER WARM en gezellig en de gastvrouw, ongelooflijk CHARMANT, het was genieten in de grootste betekenis van het woord!",aangepaste wijnen,positive
+Review-g641825-d741875_1:2_3,"de gerechtjes zijn TOP, de locatie is SCHITTEREND, de aangepaste wijnen SUPER, het interieur ZEER WARM en gezellig en de gastvrouw, ongelooflijk CHARMANT, het was genieten in de grootste betekenis van het woord!",interieur,positive
+Review-g641825-d741875_1:2_4,"de gerechtjes zijn TOP, de locatie is SCHITTEREND, de aangepaste wijnen SUPER, het interieur ZEER WARM en gezellig en de gastvrouw, ongelooflijk CHARMANT, het was genieten in de grootste betekenis van het woord!",gastvrouw,positive
+Review-g641825-d741875_2:3_0,"Vier gangen, voldoende grote porties en een streling voor de smaakpapillen.",gangen,positive
+Review-g641825-d741875_2:3_1,"Vier gangen, voldoende grote porties en een streling voor de smaakpapillen.",gangen,positive
+Review-g641825-d741875_2:4_0,De geselecteerde wijn was SU-PER!,wijn,positive
+Review-g641825-d741875_2:5_0,De vriendelijke en vlotte bediening en tevens de uitleg bij de gerechten maakten deze avond onvergetelijk!,bediening,positive
+Review-g641825-d741875_3:1_0,"zeer lekker eten, perfecte bediening en een ongedwongen sfeer, de gastvrouw geeft je een warm welkom: we komen zeker terug!!",gastvrouw,positive
+Review-g641825-d741875_3:1_1,"zeer lekker eten, perfecte bediening en een ongedwongen sfeer, de gastvrouw geeft je een warm welkom: we komen zeker terug!!",sfeer,positive
+Review-g641825-d741875_3:1_2,"zeer lekker eten, perfecte bediening en een ongedwongen sfeer, de gastvrouw geeft je een warm welkom: we komen zeker terug!!",bediening,positive
+Review-g641825-d741875_3:1_3,"zeer lekker eten, perfecte bediening en een ongedwongen sfeer, de gastvrouw geeft je een warm welkom: we komen zeker terug!!",eten,positive
+Review-g641825-d741875_4:6_0,"Sfeer, wijn, gerechten top!",sfeer,positive
+Review-g641825-d741875_4:6_1,"Sfeer, wijn, gerechten top!",wijn,positive
+Review-g641825-d741875_4:6_2,"Sfeer, wijn, gerechten top!",gerechten,positive
+Review-g641826-d6433742_1:3_0,Mooie presentatie.,presentatie,positive
+Review-g641826-d6433742_1:4_0,Gezellig en mooi interieur.,interieur,positive
+Review-g641826-d6433742_1:5_0,De eigenaresse zorgt voor een fijne ontvangst en is heel attent.,eigenaresse,positive
+Review-g641826-d6433742_3:2_0,"Een plus voor de ligging, want je bent even buiten de drukte van de kust in het gezellige centrum van De Haan.",ligging,positive
+Review-g641826-d6433742_3:4_0,We werden zeer attent en vlot ontvangen door de eigenares die meteen tips kon geven rond de beste plaatsjes op het terras.,eigenares,positive
+Review-g641826-d6433742_3:5_0,Het maandmenu was heel fijn.,maandmenu,positive
+Review-g641826-d6433742_3:6_0,"Mijn voorgerecht op basi van tomaat, mozarella en basilicum was verrassend, fris en eigentijds.","voorgerecht op basi van tomaat, mozarella en basilicum",positive
+Review-g641826-d6433742_3:8_0,"De carpaccio aan de overkant vers en flinterdun, maar naar de smaak van mijn echtgenoot van iets te veel olijfolie voorzien.",carpaccio,positive
+Review-g641826-d6433742_3:9_0,Het brood dat erbij kwam was top!,brood,positive
+Review-g641826-d6433742_3:10_0,De hoofdgerechten waren opnieuw heel fijn en smaakvol.,hoofdgerechten,positive
+Review-g641826-d6433742_3:11_0,De kabeljauw met pasta en zwarte truffel overheerlijk!,kabeljauw met pasta en zwarte truffel,positive
+Review-g641826-d6433742_3:12_0,Het dessert was een soortje soepje op basis van fruit en groenten en minder ons ding.,dessert,neutral
+Review-g641826-d6433742_3:13_1,"Maar over het algemeen genomen, heerlijk getafeld in een zeer vriendelijk en warm kader!",kader,positive
+Review-g641826-d6433742_4:1_0,We waren aangenaam verrast door de mooie inrichting en losse vriendelijke ontvangst.,ontvangst,positive
+Review-g641826-d6433742_4:1_1,We waren aangenaam verrast door de mooie inrichting en losse vriendelijke ontvangst.,inrichting,positive
+Review-g641826-d6433742_4:4_0,Je merkt hier duidelijk dat hier superhoog opgeleide maar toch eenvoudige sympatieke mensen aan het werk zijn.,mensen,positive
+Review-g641826-d741899_1:1_0,"De chef tovert de smaken op je bord, terwijl Tine je met de glimlach bedient.",tine,positive
+Review-g641826-d741899_1:1_1,"De chef tovert de smaken op je bord, terwijl Tine je met de glimlach bedient.",chef,positive
+Review-g641826-d741899_3:3_0,De bediening verloopt er zeer vlot en aangenaam.,bediening,positive
+Review-g641826-d741899_3:4_0,Tinne weet altijd wel te verrassen;,tinne,positive
+Review-g641826-d741899_3:5_0,Alle gerechten zijn zeer lekker op zeer hoge niveau.,gerechten,positive
+Review-g641826-d741899_3:6_0,Heel mooie creaties van de chef die met verse produkten werkt.,chef,positive
+Review-g641826-d741899_3:6_1,Heel mooie creaties van de chef die met verse produkten werkt.,produkten,positive
+Review-g641826-d741899_3:7_0,Gewoon het lekkerste restaurant.,restaurant,positive
+Review-g641826-d741899_4:1_0,"Heerlijk eten, mooie omgeving, prima bediening toch één minpunt.",eten,positive
+Review-g641826-d741899_4:1_1,"Heerlijk eten, mooie omgeving, prima bediening toch één minpunt.",omgeving,positive
+Review-g641826-d741899_4:1_2,"Heerlijk eten, mooie omgeving, prima bediening toch één minpunt.",bediening,positive
+Review-g641826-d741899_4:2_0,Er staat vermeld lunch altijd aan €37 en ze rekenden €42 met als reden dat het een zondag was (21 juli).,lunch,negative
+Review-g641827-d4753953_1:4_0,dranken worden geserveerd in nog half tot bijna vuile glazen (lippenstift en dergelijk meer van vorige gasten) eten is om nog maar over te zwijgen.,eten,negative
+Review-g641827-d4753953_1:4_1,dranken worden geserveerd in nog half tot bijna vuile glazen (lippenstift en dergelijk meer van vorige gasten) eten is om nog maar over te zwijgen.,dranken,negative
+Review-g641827-d4753953_1:5_0,smaakt allemaal alsof het gewoon kant en klaar maaltijden zijn opgewarmd in een microgolf.,allemaal,negative
+Review-g641827-d4753953_1:6_0,"sauzen, denk dat de potten ervan nog steeds half open staan en over datum zijn.",sauzen,negative
+Review-g641827-d4753953_1:8_0,zal nog maar zwijgen over de hele zaak in het algemeen.,zaak,negative
+Review-g641827-d4753953_2:2_0,"Na 3x saus vragen en steeds erbarmelijke saus voorgeschoteld te krijgen ging ik bij de uitbater verhaal halen (nog maar gezwegen van fritte, kip).",saus,negative
+Review-g641827-d4753953_2:4_0,Ik vertelde hem dat ik met zo n service niet geneigd was van te betalen.,service,negative
+Review-g641827-d4753953_2:11_0,"Op dat moment werd hij bijgetrede dr alle personeels leden en de patron, die laatste had zelfs de baseball knuppel mee uitgebracht.",patron,negative
+Review-g641827-d4753953_2:14_0,Dus bij deze hoop ik dat de mensen hier wegblijven en bespaart blijven van hun slecht eten en rotslechte agressieve services..,eten,negative
+Review-g641827-d4753953_2:14_1,Dus bij deze hoop ik dat de mensen hier wegblijven en bespaart blijven van hun slecht eten en rotslechte agressieve services..,services,negative
+Review-g641827-d4753953_2:15_0,Astoria palace mogen uwe zaak kapot gaan!!!!,astoria palace,negative
+Review-g641827-d4753953_4:1_0,"Kip was droog, vis was niet lekker (zat echt een vies luchtje aan) witte wijn smaakte naar zeepsop, frieten waren slap en zeer vet, aardappels niet gaar, glazen niet schoon.",frieten,negative
+Review-g641827-d4753953_4:1_1,"Kip was droog, vis was niet lekker (zat echt een vies luchtje aan) witte wijn smaakte naar zeepsop, frieten waren slap en zeer vet, aardappels niet gaar, glazen niet schoon.",witte wijn,negative
+Review-g641827-d4753953_4:1_2,"Kip was droog, vis was niet lekker (zat echt een vies luchtje aan) witte wijn smaakte naar zeepsop, frieten waren slap en zeer vet, aardappels niet gaar, glazen niet schoon.",vis,negative
+Review-g641827-d4753953_4:1_3,"Kip was droog, vis was niet lekker (zat echt een vies luchtje aan) witte wijn smaakte naar zeepsop, frieten waren slap en zeer vet, aardappels niet gaar, glazen niet schoon.",kip,negative
+Review-g641827-d4753953_4:1_4,"Kip was droog, vis was niet lekker (zat echt een vies luchtje aan) witte wijn smaakte naar zeepsop, frieten waren slap en zeer vet, aardappels niet gaar, glazen niet schoon.",aardappels,negative
+Review-g641827-d4753953_4:1_5,"Kip was droog, vis was niet lekker (zat echt een vies luchtje aan) witte wijn smaakte naar zeepsop, frieten waren slap en zeer vet, aardappels niet gaar, glazen niet schoon.",glazen,negative
+Review-g641827-d4753953_4:3_0,"Bedienend personeel met vieze kleren, binnen zag het niet echt ""proper"" uit.",bedienend personeel,negative
+Review-g641827-d4753953_4:4_0,"Kortom, met een groooote boog om dit etablissement heen!!",etablissement,negative
+Review-g641832-d2274858_1:1_0,"Gereserveerd en 10 min buiten gewacht samen met nog een koppel die daar moest zijn, 3 uur gewacht op een derde voorgerecht, toen we de opmerking maakten werden we gevraagd of we wilden afrekenen door de uitbaatster, moeilijk een lach op de uitbaatster gezicht te krijgen toen we besloten om af te rekenen kwam de kok doodgewoonweg zeggen dat we geen respect tonen voor de keuken, wij zijn mensen die regelmatig gaan eten maar dit heb ik toch nog niet meegemaakt, spijtig maar zo wil een klant niet behandeld worden als hij een peperdure rekening betaald, het eten was lekker maar te lang moeten wachten sorry",kok,negative
+Review-g641832-d2274858_1:1_1,"Gereserveerd en 10 min buiten gewacht samen met nog een koppel die daar moest zijn, 3 uur gewacht op een derde voorgerecht, toen we de opmerking maakten werden we gevraagd of we wilden afrekenen door de uitbaatster, moeilijk een lach op de uitbaatster gezicht te krijgen toen we besloten om af te rekenen kwam de kok doodgewoonweg zeggen dat we geen respect tonen voor de keuken, wij zijn mensen die regelmatig gaan eten maar dit heb ik toch nog niet meegemaakt, spijtig maar zo wil een klant niet behandeld worden als hij een peperdure rekening betaald, het eten was lekker maar te lang moeten wachten sorry",eten,positive
+Review-g641832-d2274858_1:1_2,"Gereserveerd en 10 min buiten gewacht samen met nog een koppel die daar moest zijn, 3 uur gewacht op een derde voorgerecht, toen we de opmerking maakten werden we gevraagd of we wilden afrekenen door de uitbaatster, moeilijk een lach op de uitbaatster gezicht te krijgen toen we besloten om af te rekenen kwam de kok doodgewoonweg zeggen dat we geen respect tonen voor de keuken, wij zijn mensen die regelmatig gaan eten maar dit heb ik toch nog niet meegemaakt, spijtig maar zo wil een klant niet behandeld worden als hij een peperdure rekening betaald, het eten was lekker maar te lang moeten wachten sorry",rekening,negative
+Review-g641832-d2274858_1:1_4,"Gereserveerd en 10 min buiten gewacht samen met nog een koppel die daar moest zijn, 3 uur gewacht op een derde voorgerecht, toen we de opmerking maakten werden we gevraagd of we wilden afrekenen door de uitbaatster, moeilijk een lach op de uitbaatster gezicht te krijgen toen we besloten om af te rekenen kwam de kok doodgewoonweg zeggen dat we geen respect tonen voor de keuken, wij zijn mensen die regelmatig gaan eten maar dit heb ik toch nog niet meegemaakt, spijtig maar zo wil een klant niet behandeld worden als hij een peperdure rekening betaald, het eten was lekker maar te lang moeten wachten sorry",uitbaatster,negative
+Review-g641832-d2274858_2:1_0,"Gisteren gaan eten bij Boury, sorry maar begrijp niet dat dit een ster verdiend, de bediening van de zaakvoerster laat alles te wensen over, een lach kan er niet af en de gerechten die warm dienden te hebben waren koud, een peperdure rekening en niet goed gegeten een snak en een snauw bij het afrekenen sorry hoor maar als je deze prijs betaald, denk toch dat sommige mensen dienen hun mening te herzien dit is geen restaurant maar voor mij een bistro, personeel was wel vriendelijk en excuseren zich aan tafel voor het gedrag van hun oversten, dit kan ik echt niet aanraden",rekening,negative
+Review-g641832-d2274858_2:1_1,"Gisteren gaan eten bij Boury, sorry maar begrijp niet dat dit een ster verdiend, de bediening van de zaakvoerster laat alles te wensen over, een lach kan er niet af en de gerechten die warm dienden te hebben waren koud, een peperdure rekening en niet goed gegeten een snak en een snauw bij het afrekenen sorry hoor maar als je deze prijs betaald, denk toch dat sommige mensen dienen hun mening te herzien dit is geen restaurant maar voor mij een bistro, personeel was wel vriendelijk en excuseren zich aan tafel voor het gedrag van hun oversten, dit kan ik echt niet aanraden",gerechten,negative
+Review-g641832-d2274858_2:1_2,"Gisteren gaan eten bij Boury, sorry maar begrijp niet dat dit een ster verdiend, de bediening van de zaakvoerster laat alles te wensen over, een lach kan er niet af en de gerechten die warm dienden te hebben waren koud, een peperdure rekening en niet goed gegeten een snak en een snauw bij het afrekenen sorry hoor maar als je deze prijs betaald, denk toch dat sommige mensen dienen hun mening te herzien dit is geen restaurant maar voor mij een bistro, personeel was wel vriendelijk en excuseren zich aan tafel voor het gedrag van hun oversten, dit kan ik echt niet aanraden",bediening van de zaakvoerster,negative
+Review-g641832-d2274858_2:1_3,"Gisteren gaan eten bij Boury, sorry maar begrijp niet dat dit een ster verdiend, de bediening van de zaakvoerster laat alles te wensen over, een lach kan er niet af en de gerechten die warm dienden te hebben waren koud, een peperdure rekening en niet goed gegeten een snak en een snauw bij het afrekenen sorry hoor maar als je deze prijs betaald, denk toch dat sommige mensen dienen hun mening te herzien dit is geen restaurant maar voor mij een bistro, personeel was wel vriendelijk en excuseren zich aan tafel voor het gedrag van hun oversten, dit kan ik echt niet aanraden",boury,negative
+Review-g641832-d2274858_2:1_5,"Gisteren gaan eten bij Boury, sorry maar begrijp niet dat dit een ster verdiend, de bediening van de zaakvoerster laat alles te wensen over, een lach kan er niet af en de gerechten die warm dienden te hebben waren koud, een peperdure rekening en niet goed gegeten een snak en een snauw bij het afrekenen sorry hoor maar als je deze prijs betaald, denk toch dat sommige mensen dienen hun mening te herzien dit is geen restaurant maar voor mij een bistro, personeel was wel vriendelijk en excuseren zich aan tafel voor het gedrag van hun oversten, dit kan ik echt niet aanraden",personeel,positive
+Review-g641832-d2274858_4:3_0,het voorgerecht en hoofdgerecht waren echt plaatjes.,hoofdgerecht,positive
+Review-g641832-d2274858_4:3_1,het voorgerecht en hoofdgerecht waren echt plaatjes.,voorgerecht,positive
+Review-g641832-d2274858_4:4_0,het dessert en mignardises bij de koffie zorgden voor de perfecte afsluiter.,dessert,positive
+Review-g641832-d2274858_4:4_1,het dessert en mignardises bij de koffie zorgden voor de perfecte afsluiter.,mignardises,positive
+Review-g641832-d2274858_4:6_0,Kortom: dit restaurant moet je bezoeken!,restaurant,positive
+Review-g641832-d2274858_4:7_0,een dikke proficiat aan het hele Boury team!,boury team,positive
+Review-g641834-d4214987_1:1_1,"Het is een leuke, originele brasserie waar je steeds welkom bent en lekkere verse producten krijgt;",brasserie,positive
+Review-g641834-d4214987_1:1_2,"Het is een leuke, originele brasserie waar je steeds welkom bent en lekkere verse producten krijgt;",producten,positive
+Review-g641834-d4214987_2:2_0,"Interieur is gezellig, de bediening heel vlot en vooral het eten is er lekker.",eten,positive
+Review-g641834-d4214987_2:2_1,"Interieur is gezellig, de bediening heel vlot en vooral het eten is er lekker.",bediening,positive
+Review-g641834-d4214987_2:2_2,"Interieur is gezellig, de bediening heel vlot en vooral het eten is er lekker.",interieur,positive
+Review-g641834-d4214987_2:3_0,Eerlijke keuken en als je graag steak tartaar eet dan moet het daar zeker proeven met de zelf gesneden en gebakken frietjes,keuken,positive
+Review-g641834-d4214987_2:3_1,Eerlijke keuken en als je graag steak tartaar eet dan moet het daar zeker proeven met de zelf gesneden en gebakken frietjes,steak tartaar,positive
+Review-g641834-d4214987_4:3_0,"Kroketten van zwezerik, en andere prima huisspecialiteiten, en suggestie, enz.",huisspecialiteiten,positive
+Review-g641835-d742342_1:1_0,"Dit is voor mij één van de beste restaurants in België, originele gerechtjes alsook de aangepaste borden, ookde bediening is subliem",bediening,positive
+Review-g641835-d742342_1:1_1,"Dit is voor mij één van de beste restaurants in België, originele gerechtjes alsook de aangepaste borden, ookde bediening is subliem",gerechtjes,positive
+Review-g641835-d742342_2:3_0,"Super lekker gegeten, goede bediening, sublieme wijn.",wijn,positive
+Review-g641835-d742342_2:3_1,"Super lekker gegeten, goede bediening, sublieme wijn.",bediening,positive
+Review-g641835-d742342_2:4_0,Het dessert was de top of the bill met de boswandeling.,dessert,positive
+Review-g641835-d742342_4:2_0,Parking en omgeving niet uitnodigend maar wat een verrassing binnen,binnen,positive
+Review-g641835-d742342_4:2_1,Parking en omgeving niet uitnodigend maar wat een verrassing binnen,omgeving,negative
+Review-g641835-d742342_4:2_2,Parking en omgeving niet uitnodigend maar wat een verrassing binnen,parking,negative
+Review-g641835-d742342_4:3_0,"-Verzorgde en toch familiale bediening, oogstrelende variaties in bordjes en steeds die kleine smaakbommetjes die zorgen voor culinair genot",bediening,positive
+Review-g641835-d742342_4:3_1,"-Verzorgde en toch familiale bediening, oogstrelende variaties in bordjes en steeds die kleine smaakbommetjes die zorgen voor culinair genot",variaties,positive
+Review-g641835-d742342_4:4_0,-de chef gefeliciteerd met zijn durf om nieuwe smaken te toveren,chef,positive
+Review-g661772-d7081883_2:1_0,Perfect evenwicht tussen gezellige sfeer en unieke maaltijd.,maaltijd,positive
+Review-g661772-d7081883_2:1_1,Perfect evenwicht tussen gezellige sfeer en unieke maaltijd.,sfeer,positive
+Review-g661772-d7081883_2:4_0,Elk gerechtje was een streling voor de tong én het oog.,gerechtje,positive
+Review-g661772-d7081883_2:4_1,Elk gerechtje was een streling voor de tong én het oog.,gerechtje,positive
+Review-g661772-d7081883_2:5_0,De bijpassende wijnen maakten de unieke ervaring compleet.,wijnen,positive
+Review-g661772-d7081883_2:6_0,Je voelt dat de chef en zijn maître dit met héél veel passie doen.,chef,positive
+Review-g661772-d7081883_3:1_0,"Chef Marc, Maître Bert, ik heb enorm genoten van de schitterende beleving in jullie restaurant.",restaurant,positive
+Review-g661772-d7081883_3:2_0,Een echte verrijking voor de streek met een top keuken en een fantastische bediening!,bediening,positive
+Review-g661772-d7081883_3:2_1,Een echte verrijking voor de streek met een top keuken en een fantastische bediening!,keuken,positive
+Review-g661772-d7081883_4:1_0,Zeer hoog culinair niveau en super vriendelijke en bekwame bediening!,bediening,positive
+Review-g661772-d7081883_4:2_0,"Heerlijke combinaties, pure smaken, uitstekende wijnkeuzes, kortom genieten!",wijnkeuzes,positive
+Review-g661772-d7081883_4:2_1,"Heerlijke combinaties, pure smaken, uitstekende wijnkeuzes, kortom genieten!",smaken,positive
+Review-g661772-d7081883_4:2_2,"Heerlijke combinaties, pure smaken, uitstekende wijnkeuzes, kortom genieten!",combinaties,positive
+Review-g663127-d6437804_1:1_0,hartelijke ontvangst door de zaakvoerster.,zaakvoerster,positive
+Review-g663127-d6437804_1:2_0,"Gezellig, knus restaurant, zowel beneden als op de bovenverdieping (3 zaaltjes verschillend ingericht en alledrie gezellig).",restaurant,positive
+Review-g663127-d6437804_1:3_0,"We kozen voor het menu 'Parels van India', een aanrader voor wie wil kennismaken met verschillende gerechten uit India.",menu 'parels van india,positive
+Review-g663127-d6437804_1:5_0,"We konden proeven van lam, kip en scampi's op verschillende manieren bereid.","lam, kip en scampi's",positive
+Review-g663127-d6437804_1:6_0,Zeer vriendelijke bediening en lekkere wijnen (wij kozen voor de aangepaste wijnen).,bediening,positive
+Review-g663127-d6437804_1:6_1,Zeer vriendelijke bediening en lekkere wijnen (wij kozen voor de aangepaste wijnen).,wijnen,positive
+Review-g663127-d6437804_2:4_1,Het personeel is er zeer vriendelijk en voor de mensen die grote honger hebben geen enkel probleem!,personeel,positive

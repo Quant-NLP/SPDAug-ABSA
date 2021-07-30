@@ -1,0 +1,139 @@
+id,text,aspect,sentiment
+1270:2_0,Bu lezzetlerin yaninda verilen küçük aci biberler bence sofranin favorisi.,küçük aci biberler,positive
+1271:0_0,((( hayal kirikligi - Uzunlar'a ilk gittigimdeki tadi ikinci gidisimde bulamadim...,tadi,negative
+1271:2_0,"((( Mekanin kalabalik olmasindan mi kaynakliydi bu dikkatsizlik anlam veremedim, bu kadar övgü almasina ragmen böyle olumsuz bir durum ilginç geldi.",durum,negative
+1272:0_0,Seyir terasi - Istanbul'u seyretmenin en çok keyif verdigi yerlerden biridir.,Seyir terasi,positive
+1272:0_1,Seyir terasi - Istanbul'u seyretmenin en çok keyif verdigi yerlerden biridir.,yerlerden,positive
+1272:1_0,Manzarasi sakinlestirir ve huzur verir.,Manzarasi,positive
+1272:2_0,Personel ilgilidir.,Personel,positive
+1272:3_0,Burada kendinizi kötü hissetmezsiniz ve mutlu ayrilirsiniz.,Burada,positive
+1273:0_0,"Lezzetli yemekler, rahat ortam ve uygun fiyatlar.",fiyatlar,positive
+1273:0_1,"Lezzetli yemekler, rahat ortam ve uygun fiyatlar.",yemekler,positive
+1273:0_2,"Lezzetli yemekler, rahat ortam ve uygun fiyatlar.",ortam,positive
+1273:1_0,Tek sorunu ulaşımı birazcık sıkıntılı.,ulaşımı,negative
+1273:2_0,Özel aracımızla nereden gireceğimizi pek kestiremedik ancak 10 dakikalık bir çaba sonununda mekana ulaştık.,gireceğimizi,negative
+1273:3_0,Yemeğin ardından cafe ortamına devam edebilirsiniz.,cafe ortamına,positive
+1273:4_0,"Aynı zamanda Tavla, okey gibi oyunları da oynayabileceğiniz bölümleri var.","Tavla, okey gibi oyunları",positive
+1274:0_0,Yazın daha da güzel olan mekan.,mekan,positive
+1274:1_0,en sevdıgım big chef şubesi arkadaşlarınızla keyifli zaman geçireceğiniz bu mekan göksunun incisi tekrar gidiceğinizden emin olabilirsiniz,mekan,positive
+1275:0_0,Manzaradan kurtaran bir mekan.,Manzaradan,positive
+1275:0_1,Manzaradan kurtaran bir mekan.,mekan,negative
+1275:2_0,Kofteleri de cok cok mukemmel degil.,Kofteleri,neutral
+1275:4_0,Guler yuz yok.,Guler yuz,negative
+1276:0_0,Oturduğunuz sürece sürekli patlamış mısır getiriyorlar.,patlamış mısır,positive
+1276:1_0,Durmazsanız bir saat içinde yaklaşık 10 kase falan yiyebilirsiniz.,yiyebilirsiniz,positive
+1276:2_0,Ayrıca en son Premier League maçlarını da veriyorlardı.,Premier League maçlarını,positive
+1277:0_0,"Kuru fasulyenin lezzetine diyecek söz yok, fiyatlar da makul sayılır ancak mekan düğün salonundan bozma.",mekan,negative
+1277:0_1,"Kuru fasulyenin lezzetine diyecek söz yok, fiyatlar da makul sayılır ancak mekan düğün salonundan bozma.",Kuru fasulyenin lezzetine,positive
+1277:0_2,"Kuru fasulyenin lezzetine diyecek söz yok, fiyatlar da makul sayılır ancak mekan düğün salonundan bozma.",fiyatlar,positive
+1277:1_0,En nihayetinde kuru fasulyeci ancak ortam daha zevkli hale getirilebilir.,ortam,negative
+1278:0_0,"Mekanin konumu çok muhtesem konsept, hizmet ve ürünler vasat.",ürünler,neutral
+1278:0_1,"Mekanin konumu çok muhtesem konsept, hizmet ve ürünler vasat.",Mekanin konumu,positive
+1278:0_2,"Mekanin konumu çok muhtesem konsept, hizmet ve ürünler vasat.",hizmet,neutral
+1278:1_0,- Anadolu hisarinda bir tarafi Göksu Deresi diger tarafi Istanbul Bogazinin akip giden masmavi sulari ama hepsi bu kadar.,Anadolu hisarinda,positive
+1278:2_0,Ben farkli zamanlarda gittim ama mekanin kimligi enerjisi bana hitap etmiyor...,mekanin kimligi enerjisi,negative
+1278:4_0,Ama bu mekan iyi bir isletmeci ile söyle iyi bir sekilde elden geçse çok iyi isler çikar buradan...,buradan,positive
+1278:4_1,Ama bu mekan iyi bir isletmeci ile söyle iyi bir sekilde elden geçse çok iyi isler çikar buradan...,isletmeci,negative
+1279:0_0,Konum olarak aslinda çok güzel bir yerde.,Konum,positive
+1279:1_0,Belki mekanin üst kisminda otursaydik büyük bir ihtimal manzarada vardir ama biz maalesef otoparkta oturdugumuz için arabadan ve agaçtan bir sey göremedik.,otoparkta,negative
+1279:2_0,Sanirim ramazana özel bir uygulamaydi bu otoparkta masa.,otoparkta masa,neutral
+1279:3_0,Eger gidecekseniz özellikle mekanin üst katlarinda olmasini isteyin.,mekanin üst katlarinda,neutral
+1279:4_0,Lezzet konusunda da aman aman bir lezzeti yoktu.,Lezzet,neutral
+1279:5_0,Manzarasi için giderim diyorsaniz denenebilir.,Manzarasi,positive
+1280:0_0,"Içi gayet sikici, kredi karti geçerli olmayan, çorbayi kase yerine düz tabakta servis eden, personeli asik suratli, etlerin sadece bir parça olarak geldigi ve neden bu kadar meshur oldugunu anlayamadigim gereksiz bir yer.",Içi,negative
+1280:0_1,"Içi gayet sikici, kredi karti geçerli olmayan, çorbayi kase yerine düz tabakta servis eden, personeli asik suratli, etlerin sadece bir parça olarak geldigi ve neden bu kadar meshur oldugunu anlayamadigim gereksiz bir yer.",yer,negative
+1280:0_2,"Içi gayet sikici, kredi karti geçerli olmayan, çorbayi kase yerine düz tabakta servis eden, personeli asik suratli, etlerin sadece bir parça olarak geldigi ve neden bu kadar meshur oldugunu anlayamadigim gereksiz bir yer.",personeli,negative
+1280:0_3,"Içi gayet sikici, kredi karti geçerli olmayan, çorbayi kase yerine düz tabakta servis eden, personeli asik suratli, etlerin sadece bir parça olarak geldigi ve neden bu kadar meshur oldugunu anlayamadigim gereksiz bir yer.",servis eden,negative
+1281:0_0,"Son derece kotu servis, anlatilamayacak kadar hizmet sekorunden uzak, baska bir dunyada personel.",servis,negative
+1281:0_1,"Son derece kotu servis, anlatilamayacak kadar hizmet sekorunden uzak, baska bir dunyada personel.",personel,negative
+1281:1_0,Bir kebapci icin olmazsa olmaz olan iyi servis ve guleryuzlu ilgili personeli burda hayal bile etmeyin.,personeli,negative
+1281:1_1,Bir kebapci icin olmazsa olmaz olan iyi servis ve guleryuzlu ilgili personeli burda hayal bile etmeyin.,servis,negative
+1281:2_0,"Servis de personel de koca bir ""0""",personel,negative
+1281:2_1,"Servis de personel de koca bir ""0""",Servis,negative
+1282:0_0,servis yavastu .,servis,negative
+1282:1_0,garson a nie yavas oldugunu sordugumda 500 kisi var normaldir cvbini aldim.,garson,negative
+1283:0_0,"normal - Pizzalari yeterince ince ama spesifik bir tadi eksik,mekan olarakta cok ozel olmadigindan gidilmesine gerek olmayan bir yer kanimca.",mekan,negative
+1283:0_1,"normal - Pizzalari yeterince ince ama spesifik bir tadi eksik,mekan olarakta cok ozel olmadigindan gidilmesine gerek olmayan bir yer kanimca.",tadi,negative
+1284:0_0,Rezalet otesi bir mekan.,mekan,negative
+1284:1_0,Cok kaba saba garsonlari ve hizmeti olan dandik bir mekan.,garsonlari,negative
+1284:1_1,Cok kaba saba garsonlari ve hizmeti olan dandik bir mekan.,mekan,negative
+1284:2_0,"Manzarasi disinda tirt, sunumu da berbat gercekten.",sunumu,negative
+1284:2_2,"Manzarasi disinda tirt, sunumu da berbat gercekten.",Manzarasi,positive
+1284:3_0,Tatli yemek istedik kalkin baska yere oturun dedi terbiyesizler.,terbiyesizler,negative
+1285:1_0,İstanbulun en iyi dönerini yapıyorlar.,dönerini,positive
+1285:3_0,Ancak servis harika 250 kişilik dükkanda herkese yetişiyorlar.,servis,positive
+1285:4_0,"Dönerin yanındaki patates, salata bile süper.","patates, salata",positive
+1285:5_0,Havuç dilimi tatlı da denenebilir.,Havuç dilimi tatlı,positive
+1285:6_0,Tek eksik ayranı kendilerinin yapmaması.,ayranı,negative
+1285:7_0,Böyle bir yer için el yapımı ayran şart.,el yapımı ayran,negative
+1286:0_0,"Mekan çok güzel, menüde 10larca seçenek var ama malesef yemekler lezzetli değil.",menüde,positive
+1286:0_1,"Mekan çok güzel, menüde 10larca seçenek var ama malesef yemekler lezzetli değil.",Mekan,positive
+1286:0_2,"Mekan çok güzel, menüde 10larca seçenek var ama malesef yemekler lezzetli değil.",yemekler,negative
+1286:1_0,Tüm puanı mekan hakediyor.,puanı,negative
+1286:1_1,Tüm puanı mekan hakediyor.,mekan,positive
+1286:2_0,Kahve içmek isterseniz güzel bir tercih ama yemek yemek için aynı şeyi söyleyemeyeceğim,yemek,negative
+1286:2_1,Kahve içmek isterseniz güzel bir tercih ama yemek yemek için aynı şeyi söyleyemeyeceğim,Kahve,positive
+1287:0_0,Büyük porsiyonlar anca bir normal porsiyon olduğunda küçük pizzalari tavsiye edemem.,küçük pizzalari,negative
+1287:2_0,Ortam olarak baya küçük bir dükkân ve ortaköye uygun.,Ortam,positive
+1287:3_0,Hamur biraz fazla inceydi ve peynir daha bol olabilir.,Hamur,negative
+1287:3_1,Hamur biraz fazla inceydi ve peynir daha bol olabilir.,peynir,negative
+1287:4_0,Domates sosu malesef çok zayif kaldi ve pizzanin seviyesini düşürüyor.,Domates sosu,negative
+1287:4_1,Domates sosu malesef çok zayif kaldi ve pizzanin seviyesini düşürüyor.,pizzanin,negative
+1287:5_0,Fiyatlar orta ile yüksek arasi.,Fiyatlar,negative
+1288:0_0,"Kendi biralarını çoğunluğun aksine pek beğenmedim, hatta ilk defa bir birayı bitiremedim.",biralarını,negative
+1288:1_0,"Biraz boğucu bir mekan, haftasonlari özellikle çok kalabalık oluyor.",mekan,negative
+1289:0_0,Kalabalığın içinde hiç beklenmeyecek kadar ferah ve güzel bir mekan.,mekan,positive
+1289:1_0,"Bunun dışında, her ne kadar çoğu zaman talebi karşılamasa da sundukları bira menüsü burayı çok çekici kılıyor.",talebi,negative
+1289:1_1,"Bunun dışında, her ne kadar çoğu zaman talebi karşılamasa da sundukları bira menüsü burayı çok çekici kılıyor.",bira menüsü,positive
+1289:3_0,"Denediklerimizden, Tavuk Schnitzel mükemmel, Tavuklu Wrap harikaydı!",Tavuklu Wrap,positive
+1289:3_1,"Denediklerimizden, Tavuk Schnitzel mükemmel, Tavuklu Wrap harikaydı!",Tavuk Schnitzel,positive
+1289:4_0,Bir de çeşitli homemade ice tea ve limonataları gerçekten başarılı :,ice tea ve limonataları,positive
+1290:0_0,Etleri mezeleri basarili ama porsiyonlar inanilmaz buyuk.,Etleri mezeleri,positive
+1290:0_1,Etleri mezeleri basarili ama porsiyonlar inanilmaz buyuk.,porsiyonlar,neutral
+1290:2_0,3 gidip 2 kisilik getirin derseniz yiyecekler bu sekilde geliyor ama kisi basina 70tl yaziyorlar cok sacma olmus,yiyecekler,negative
+1291:0_0,5 çayının ideal adresi karaköy'de dem.,dem,positive
+1291:1_0,50'den fazla çay çeşidi ile damak zevkinizi bi yerde yakalayacağı kesin!,çay çeşidi,positive
+1291:2_0,"Benim tavsiyem vanilya aromalı bourban vanilla, tatlı ihtiyacınız içinse damla sakızlı mastika keki.",bourban vanilla,positive
+1291:2_1,"Benim tavsiyem vanilya aromalı bourban vanilla, tatlı ihtiyacınız içinse damla sakızlı mastika keki.",damla sakızlı mastika keki,positive
+1291:3_0,"Hizmet, ilgi alaka herşey şahane!","Hizmet, ilgi alaka",positive
+1292:2_0,oturma yeri de çok yok.,oturma yeri,negative
+1293:0_0,Manzara severlere...,Manzara,positive
+1293:1_0,"- O manzaraya bu yemekler, bu servis olmamis :",manzaraya,positive
+1293:1_1,"- O manzaraya bu yemekler, bu servis olmamis :",yemekler,negative
+1293:1_2,"- O manzaraya bu yemekler, bu servis olmamis :",servis,negative
+1293:2_0,"(( Üstelik fiyatlarda, yemeklerine nazaran uygun degil.",fiyatlarda,negative
+1293:2_1,"(( Üstelik fiyatlarda, yemeklerine nazaran uygun degil.",yemeklerine,negative
+1293:3_0,Yemekleri için giderseniz memnuniyetsiz ayrilabilirsiniz; ama manzara seviyorsaniz kesin gidilmeli.,manzara,positive
+1293:3_1,Yemekleri için giderseniz memnuniyetsiz ayrilabilirsiniz; ama manzara seviyorsaniz kesin gidilmeli.,Yemekleri,negative
+1294:0_0,Kadiköy'de gitmekten zevk aldığım mekanlardan birtanesi.,mekanlardan,positive
+1294:1_0,"English pub tarzında dekorasyona sahip, bira çeşitliliği fazla olan tarz bir mekan.",dekorasyona,positive
+1294:1_1,"English pub tarzında dekorasyona sahip, bira çeşitliliği fazla olan tarz bir mekan.",mekan,positive
+1294:1_2,"English pub tarzında dekorasyona sahip, bira çeşitliliği fazla olan tarz bir mekan.",bira,positive
+1294:2_0,"Yemek olarak schinitzel ve burger denedik, biranın yanında iyi gitti.",schinitzel ve burger,positive
+1294:3_0,Kış aylarında içeride oturmanızı öneririm dekorasyon ve ortam keyif veriyor...,dekorasyon ve ortam,positive
+1295:0_0,Dekorasyonu renkleri cok sicak ve sevimli.,renkleri,positive
+1295:0_1,Dekorasyonu renkleri cok sicak ve sevimli.,Dekorasyonu,positive
+1295:1_0,Ev yemeği yemek isteyenler için ideal bur mekan tek bir şartla ne yiyecegini bilmen lazım çünkü hersey cok lezzetli degil.,Ev yemeği,positive
+1295:1_1,Ev yemeği yemek isteyenler için ideal bur mekan tek bir şartla ne yiyecegini bilmen lazım çünkü hersey cok lezzetli degil.,hersey,negative
+1295:2_0,"Servis yavas, çalışanların birbirleriyle diyaloglarıni da pek sevmedim.",Servis,negative
+1295:2_1,"Servis yavas, çalışanların birbirleriyle diyaloglarıni da pek sevmedim.",çalışanların,negative
+1295:3_0,Mekan kalabalık olduğunda stres kontrolu diye bişey kalmiyor sanirim.,stres kontrolu,negative
+1296:0_0,İstanbul şubesi çokta güzel değil çaldıkları müzikler hard rock'tan çok popüler olmuş.,çaldıkları müzikler,negative
+1296:0_1,İstanbul şubesi çokta güzel değil çaldıkları müzikler hard rock'tan çok popüler olmuş.,İstanbul şubesi,negative
+1297:0_0,Arka bahçesi tüm yorgunluğunu alıyor insanın.,Arka bahçesi,positive
+1297:1_0,Koşuyolunun en iyilerinden kirpi en çok diyet yapanların sevdiği bir mekan çünkü menüsü sağlıklı beslenmeye uygun.,menüsü,positive
+1297:1_1,Koşuyolunun en iyilerinden kirpi en çok diyet yapanların sevdiği bir mekan çünkü menüsü sağlıklı beslenmeye uygun.,iyilerinden,positive
+1298:0_0,Masa yerlesimleri pek guzel degil oturma duzeni olmamis.,oturma duzeni,negative
+1298:0_1,Masa yerlesimleri pek guzel degil oturma duzeni olmamis.,Masa yerlesimleri,negative
+1298:1_0,Yer bulmak da zor oluyor.,Yer bulmak,negative
+1298:2_0,Cok cesitli caylar var ancak fiyatlari biraz yuksek.,fiyatlari,negative
+1298:2_1,Cok cesitli caylar var ancak fiyatlari biraz yuksek.,caylar,positive
+1298:3_0,İngiliz cayi istedigimde sut getirmediler gerekce olarak da kotu oldugunh soylediler garson tersledi hatta,garson,negative
+1299:0_0,Kurufasülye ne kadar değişik olabilir demeyin Bizce Kuru'da yediğim kurufasulyeden gelen hafif şekerli tat beni kendine hayran bıraktı resmen.,Kurufasülye,positive
+1299:0_1,Kurufasülye ne kadar değişik olabilir demeyin Bizce Kuru'da yediğim kurufasulyeden gelen hafif şekerli tat beni kendine hayran bıraktı resmen.,tat,positive
+1299:1_0,Tereyağlı pilavları ve tava yoğurdu da çok başarılı.,tava yoğurdu,positive
+1299:1_1,Tereyağlı pilavları ve tava yoğurdu da çok başarılı.,Tereyağlı pilavları,positive
+1299:2_0,Üzerine bal ve fındık dökülmüş sütlaçları çok cezbedici gözükse de sütlaç tadını alamadım daha çok muhallebi gibiydi.,sütlaç tadını,negative
+1299:2_1,Üzerine bal ve fındık dökülmüş sütlaçları çok cezbedici gözükse de sütlaç tadını alamadım daha çok muhallebi gibiydi.,sütlaçları,positive
+1299:3_0,Ayrıca hergun çıkardıkları farklı zeytinyağlı yemekleri de çok başarılı.,zeytinyağlı yemekleri,positive
+1299:4_0,Fiyatlar ortalamanın biraz ustunde malesef.,Fiyatlar,negative

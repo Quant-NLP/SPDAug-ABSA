@@ -1,0 +1,108 @@
+id,text,aspect,sentiment
+g207360-d5778124-r197371997:3_0,La déco est bas de gamme et clinquante.,déco,negative
+g207360-d5778124-r197371997:4_2,"Les plats sont bons, typiques, la carte propose beaucoup de choix.",carte,positive
+g293827-d3653319-r244802130:0_0,Un restaurant d'aspect extérieur agréable et bien situé qui nous a donné envie d'y dejeuner.,restaurant,positive
+g293827-d3653319-r244802130:0_1,Un restaurant d'aspect extérieur agréable et bien situé qui nous a donné envie d'y dejeuner.,restaurant,positive
+g293827-d3653319-r244802130:1_0,Dès l'entrée l'accueil du serveur à été assez froid.,accueil,negative
+g293827-d3653319-r244802130:2_0,"Arrive les plats, pour ma part un filet de vivaneau à la vietnamienne (juste recouvert d'une sauce hot sweet Chili industriel) et accompagné de légumes sautés (à l'eau...) qui plus est en supplément à 6€.",filet de vivaneau à la vietnamienne,negative
+g293827-d3653319-r244802130:2_1,"Arrive les plats, pour ma part un filet de vivaneau à la vietnamienne (juste recouvert d'une sauce hot sweet Chili industriel) et accompagné de légumes sautés (à l'eau...) qui plus est en supplément à 6€.",sauce,negative
+g293827-d3653319-r244802130:2_2,"Arrive les plats, pour ma part un filet de vivaneau à la vietnamienne (juste recouvert d'une sauce hot sweet Chili industriel) et accompagné de légumes sautés (à l'eau...) qui plus est en supplément à 6€.",légumes sautés,negative
+g293827-d3653319-r244802130:2_3,"Arrive les plats, pour ma part un filet de vivaneau à la vietnamienne (juste recouvert d'une sauce hot sweet Chili industriel) et accompagné de légumes sautés (à l'eau...) qui plus est en supplément à 6€.",légumes sautés,negative
+g293827-d3653319-r244802130:3_0,"Total 22€ le poisson, scandaleux !",poisson,negative
+g293827-d3653319-r244802130:4_0,"Les 2 autres convives ont pris un bo bun composé d'un pauvre nem coupé en 4, salade,vermicelle et du bœuf que je ne donnerai même pas à mon chien.",bo bun,negative
+g293827-d3653319-r244802130:4_1,"Les 2 autres convives ont pris un bo bun composé d'un pauvre nem coupé en 4, salade,vermicelle et du bœuf que je ne donnerai même pas à mon chien.",bœuf,negative
+g293827-d3653319-r244802130:5_0,"Et pour conclure la seul réponse du patron ""peut-être avez-vous le goût de quelqu'un qui se nourrit au fast-food "".",patron,negative
+g293827-d3664116-r284685459:1_0,"L'accueil est sobre, le décor intime plait.",accueil,neutral
+g293827-d3664116-r284685459:1_1,"L'accueil est sobre, le décor intime plait.",décor,positive
+g293827-d3664116-r284685459:2_0,"Le restaurant n'est pas grand, avec un étage et un escalier abrupt.",restaurant,negative
+g293827-d3664116-r284685459:5_0,"Le midi, la carte est simple, on a le choix entre 3 entrées, 3 plats principaux et 3 déserts, sauf qu'au choix du dessert il n'y avait plus le choix mais un seul type de dessert.",carte,neutral
+g293827-d3664116-r284685459:5_1,"Le midi, la carte est simple, on a le choix entre 3 entrées, 3 plats principaux et 3 déserts, sauf qu'au choix du dessert il n'y avait plus le choix mais un seul type de dessert.",dessert,negative
+g293827-d3664116-r284685459:8_0,J'ai choisi en entrée un gratin de chouchou avec une petite salade trop assaisonnée.,salade,negative
+g293827-d3664116-r284685459:10_0,Le service est assez rapide.,service,positive
+g293827-d3664116-r284685459:11_0,"Le dessert salade fruit, correct.",salade fruit,neutral
+g293827-d3664116-r284685459:12_0,"Donc, c'est un restaurant banal, qui ne me laisse pas un souvenir impérissable.",restaurant,neutral
+g293827-d6350928-r285775337:0_0,Excellentes pizzas!,pizzas,positive
+g293827-d6350928-r285775337:1_0,"Bien garnies, produits frais et surtout elles ne sont pas écoeurantes..",produits,positive
+g293827-d6898510-r283618902:0_0,A l'heure de l'apéro c'est un lieu sympa bien situé au carré cathédrale.,lieu,positive
+g293827-d6898510-r283618902:1_0,"Décoration sympa, service correcte.",Décoration,positive
+g293827-d6898510-r283618902:1_1,"Décoration sympa, service correcte.",service,neutral
+g293827-d6898510-r283618902:3_0,"Carte chère pour la qualité, lenteur de service, plats tièdes.",Carte,negative
+g293827-d6898510-r283618902:3_1,"Carte chère pour la qualité, lenteur de service, plats tièdes.",service,negative
+g293827-d6898510-r283618902:3_2,"Carte chère pour la qualité, lenteur de service, plats tièdes.",plats,negative
+g293827-d6898510-r283618902:3_3,"Carte chère pour la qualité, lenteur de service, plats tièdes.",Carte,negative
+g297569-d4062515-r269115031:0_0,Resto sympa et de très bonne grillades.,Resto,positive
+g297569-d4062515-r269115031:0_1,Resto sympa et de très bonne grillades.,grillades,positive
+g297569-d4062515-r269115031:1_0,Personnel très gentil et serviable.,Personnel,positive
+g297569-d4092469-r259302825:1_1,"le prix est correct ,le service très bien, l'ambiance sympa par contre la qualité des produits très moyen.",service,positive
+g297569-d4092469-r259302825:1_2,"le prix est correct ,le service très bien, l'ambiance sympa par contre la qualité des produits très moyen.",produits,negative
+g297569-d4092469-r259302825:1_3,"le prix est correct ,le service très bien, l'ambiance sympa par contre la qualité des produits très moyen.",ambiance,positive
+g297569-d4130785-r264968967:0_0,Nourriture médiocre.,Nourriture,negative
+g297569-d4130785-r264968967:1_1,Prix élevé pour la prestation et surtout la netteté laisse à désirer dans ce restaurant.,restaurant,negative
+g297569-d4130785-r264968967:3_0,"Lorsque nous en avons fait la remarque au serveur, en guise de réponse nous avons eu droit à une remarque cynique.",serveur,negative
+g297569-d4130785-r264968967:4_0,Ce restaurant doit vite se ressaisir.,restaurant,negative
+g297569-d4443971-r266268877:0_0,"accueil agréable, cadre sympa.",accueil,positive
+g297569-d4443971-r266268877:0_1,"accueil agréable, cadre sympa.",cadre,positive
+g297569-d4443971-r266268877:2_0,"Le poisson est très bon, très frais, les portions copieuses, les sauces d'accompagnement et les légumes sont originales et très bonnes.",poisson,positive
+g297569-d4443971-r266268877:2_1,"Le poisson est très bon, très frais, les portions copieuses, les sauces d'accompagnement et les légumes sont originales et très bonnes.",portions,positive
+g297569-d4443971-r266268877:2_2,"Le poisson est très bon, très frais, les portions copieuses, les sauces d'accompagnement et les légumes sont originales et très bonnes.",sauces d'accompagnement,positive
+g297569-d4443971-r266268877:2_3,"Le poisson est très bon, très frais, les portions copieuses, les sauces d'accompagnement et les légumes sont originales et très bonnes.",légumes,positive
+g297569-d4443971-r266268877:2_4,"Le poisson est très bon, très frais, les portions copieuses, les sauces d'accompagnement et les légumes sont originales et très bonnes.",sauces d'accompagnement,positive
+g297569-d4443971-r266268877:2_5,"Le poisson est très bon, très frais, les portions copieuses, les sauces d'accompagnement et les légumes sont originales et très bonnes.",légumes,positive
+g297569-d4443971-r266268877:3_0,"Une très bonne adresse, dans le genre",adresse,positive
+g297569-d4763779-r224062574:1_0,"Même si' l'accueil est sympa et courtois, les prestations souffrent du monopole.",accueil,positive
+g297569-d4763779-r224062574:2_0,"Boissons sans saveur, choix restreints, on se déplace pour trouver un serveur, on attend qu'il daigne à s'occuper de vous ... ex: un client est aller demander si on pouvait faire quelque chose pour l'insecte dans son plat, et bien non, s'est-il entendu dire, ce n'est pas de notre faute, on ne peut rien faire... service exceptionnel, si on en juge par ce fait divers!",Boissons,negative
+g297569-d4763779-r224062574:2_1,"Boissons sans saveur, choix restreints, on se déplace pour trouver un serveur, on attend qu'il daigne à s'occuper de vous ... ex: un client est aller demander si on pouvait faire quelque chose pour l'insecte dans son plat, et bien non, s'est-il entendu dire, ce n'est pas de notre faute, on ne peut rien faire... service exceptionnel, si on en juge par ce fait divers!",service,negative
+g297569-d4763779-r224062574:3_0,Il suffirait pourtant de peu de choses pour faire de cet endroit un lieu exceptionnel car le site est magique et chargé d'histoire.,site,positive
+g297569-d4763779-r224062574:3_1,Il suffirait pourtant de peu de choses pour faire de cet endroit un lieu exceptionnel car le site est magique et chargé d'histoire.,endroit,positive
+g3463365-d3594852-r200815446:2_0,Entrée: Saint Jacques en brochettes de qualité moyenne.,Saint Jacques en brochettes,negative
+g3463365-d3594852-r200815446:4_1,"Plat: une pièce de boeuf grillée (pas très tendre), sans sauce, avec de la purée de carottes (très bonne), des brocolis et des pommes de terre pas cuites au milieu.",purée de carottes,positive
+g3463365-d3594852-r200815446:4_2,"Plat: une pièce de boeuf grillée (pas très tendre), sans sauce, avec de la purée de carottes (très bonne), des brocolis et des pommes de terre pas cuites au milieu.",pommes de terre,negative
+g3463365-d3594852-r200815446:8_1,La salle est bien mais les WC ne sont pas à la hauteur.,salle,positive
+g3463365-d3594852-r200815446:9_0,L'établissement dispose aussi d'une jolie terrasse.,terrasse,positive
+g3463365-d3594852-r200815446:10_0,"En résumé un cuisinier mal embouché, un repas peut-être bio mais pas gastronomique (on peut manger bio sans être forcément au régime...), le tout pour un prix trop élevé.",cuisinier,negative
+g3463365-d3594852-r200815446:10_1,"En résumé un cuisinier mal embouché, un repas peut-être bio mais pas gastronomique (on peut manger bio sans être forcément au régime...), le tout pour un prix trop élevé.",repas,negative
+g3463365-d3967386-r210682247:0_0,Cadre bien mais à part ça ???,Cadre,positive
+g3463365-d3967386-r210682247:1_0,"une carte qui commence a 12e sans salade, un faux filet a 25eu servis qu'avec des frites, et pas une viande limousine !!",faux filet,negative
+g3463365-d3967386-r210682247:1_1,"une carte qui commence a 12e sans salade, un faux filet a 25eu servis qu'avec des frites, et pas une viande limousine !!",carte,negative
+g3463365-d3967386-r210682247:1_3,"une carte qui commence a 12e sans salade, un faux filet a 25eu servis qu'avec des frites, et pas une viande limousine !!",faux filet,negative
+g3463365-d7619600-r260351566:0_0,"Bonne surprise, l'accueil est agréable, gentillesse et sourire.",accueil,positive
+g3463365-d7619600-r260351566:1_0,La salle est jolie et bien chauffée.,salle,positive
+g3463365-d7619600-r260351566:2_0,La cuisine est traditionnelle,cuisine,neutral
+g3463365-d7619600-r260351566:3_0,Les assiettes sont copieuses,assiettes,positive
+g3463365-d824605-r268214202:0_0,"Nous venons assez régulièrement dans ce restaurant , les plats sont originaux et bien présentés mais la patronne étant seule à servir il arrive souvent que les plats soient tièdes ce qui est bien dommage.",plats,positive
+g608761-d1334387-r277341177:0_0,Un jolis cadre Marocain.,cadre,positive
+g608761-d1334387-r277341177:1_0,Un accueil pro et de belles tables.,accueil,positive
+g608761-d1334387-r277341177:1_1,Un accueil pro et de belles tables.,tables,positive
+g608761-d1334387-r277341177:2_0,Une carte orientale avec Couscous Tajines en principal dans plusieurs déclinaisons.,carte,neutral
+g608761-d1334387-r277341177:3_0,De belles assiettes copieuses.,assiettes,positive
+g608761-d1334387-r277341177:4_0,Vin correct,Vin,neutral
+g608761-d1334387-r277341177:5_0,Service sympathique et efficace.,Service,positive
+g608761-d1334387-r277341177:6_0,De bons desserts,desserts,positive
+g608761-d1334387-r277341177:8_0,Une bonne adresse à Lannion,adresse,positive
+g608761-d1334432-r281522672:2_0,Salle agréable.,Salle,positive
+g608761-d1334432-r281522672:3_0,Service rapide et courtois.,Service,positive
+g608761-d2053817-r143008138:0_0,"Plat du jour alléchant, je choisie d'y rentrer.",Plat du jour,positive
+g608761-d2053817-r143008138:2_0,"L'entrée pas bonne, plus de plat du jour.",entrée,negative
+g608761-d2053817-r143008138:2_1,"L'entrée pas bonne, plus de plat du jour.",plat du jour,negative
+g608761-d2053817-r143008138:4_0,La sauce envahissait le poisson.,poisson,negative
+g608761-d2445738-r244940036:0_0,"8€50 pour une salade grecque sans saveur: 2 olives , un bout de tomate noyées dans une salade qui baigne dans l'huile.",salade grecque,negative
+g608761-d2445738-r244940036:0_1,"8€50 pour une salade grecque sans saveur: 2 olives , un bout de tomate noyées dans une salade qui baigne dans l'huile.",salade grecque,negative
+g608761-d3778492-r181222052:0_0,des problèmes digestifs aprés le repas!,repas,negative
+g608761-d4750470-r279534176:0_0,"Alors là, si vous voulez un resto classe, une cuisine très soignée et rafinée pour féter un anniversaire, ou une grande occasion, c'est le lieu IDEAL !",resto,positive
+g608761-d4750470-r279534176:0_1,"Alors là, si vous voulez un resto classe, une cuisine très soignée et rafinée pour féter un anniversaire, ou une grande occasion, c'est le lieu IDEAL !",cuisine,positive
+g608761-d4750470-r279534176:0_2,"Alors là, si vous voulez un resto classe, une cuisine très soignée et rafinée pour féter un anniversaire, ou une grande occasion, c'est le lieu IDEAL !",lieu,positive
+g608761-d4750470-r279534176:0_3,"Alors là, si vous voulez un resto classe, une cuisine très soignée et rafinée pour féter un anniversaire, ou une grande occasion, c'est le lieu IDEAL !",cuisine,positive
+g608761-d4750470-r279534176:1_0,Menus à prix raisonables et très bonne cave avec des bons conseils.,Menus,neutral
+g608761-d4750470-r279534176:1_1,Menus à prix raisonables et très bonne cave avec des bons conseils.,cave,positive
+g608761-d5960507-r277194025:1_1,"Amoureux de bières, frites charcuterie et portions généreuses vous serez d'autant plus ravis que l'addition est elle légére.",portions,positive
+g608761-d7105002-r282300173:0_0,"Dés que nous sommes rentrés dans l’établissent, nous avons ressenti un stress qui planait autours des employés...",établissent,negative
+g608761-d7105002-r282300173:1_0,En même temps pas étonnant : le patron est aussi aimable qu'une porte de prison...,patron,negative
+g608761-d7105002-r282300173:4_0,"Concernant la cuisine, c'était bon mais sans plus : morceaux de gras dans le chili, cuisson des viandes mal maitrisée, pas d'amandes sur le dessert alors qu'il devait en avoir...",cuisine,neutral
+g608761-d7105002-r282300173:4_1,"Concernant la cuisine, c'était bon mais sans plus : morceaux de gras dans le chili, cuisson des viandes mal maitrisée, pas d'amandes sur le dessert alors qu'il devait en avoir...",chili,negative
+g608761-d7105002-r282300173:4_2,"Concernant la cuisine, c'était bon mais sans plus : morceaux de gras dans le chili, cuisson des viandes mal maitrisée, pas d'amandes sur le dessert alors qu'il devait en avoir...",viandes,negative
+g608761-d7105002-r282300173:4_3,"Concernant la cuisine, c'était bon mais sans plus : morceaux de gras dans le chili, cuisson des viandes mal maitrisée, pas d'amandes sur le dessert alors qu'il devait en avoir...",dessert,negative
+g608761-d7105002-r282300173:5_0,La carte pourtant est bien garnie et alléchante.,carte,positive
+g635821-d5792203-r217535741:0_0,"la salle de restaurant fait cantine,la déco est triste,quant au repas notre entrecote n 'était pas très tendre,",déco,negative
+g635821-d5792203-r217535741:0_1,"la salle de restaurant fait cantine,la déco est triste,quant au repas notre entrecote n 'était pas très tendre,",salle,negative
+g635821-d5792203-r217535741:0_2,"la salle de restaurant fait cantine,la déco est triste,quant au repas notre entrecote n 'était pas très tendre,",entrecote,negative
+g635821-d5792203-r217535741:1_0,restaurant moyen que j'éviterai,restaurant,negative
