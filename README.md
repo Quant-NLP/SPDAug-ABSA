@@ -17,12 +17,12 @@ We require [bert-sklearn](https://github.com/charles9n/bert-sklearn) and [seqeva
 
 **dataset** : lap14, rest14, rest15, rest16, MR, SST
 
-**DPM_type** : AS, Senti
+**SPM_type** : AS, Senti
 
 **replacement_strategy** : AE, Seq2Seq
 
 ```
-bash scripts/run.sh ABSA_task dataset DPM_type replacement_strategy
+bash scripts/run.sh ABSA_task dataset SPM_type replacement_strategy
 
 # e.g. bash scripts/run.sh ACSC rest14 AS AE
 ```
